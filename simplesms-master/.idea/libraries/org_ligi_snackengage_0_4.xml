@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.ligi:snackengage-0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/snackengage-0.4.aar/95e8031e541c1121325b80bf4d331dfc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/snackengage-0.4.aar/95e8031e541c1121325b80bf4d331dfc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ligi/snackengage/0.4/3991042ddc03b1df4ab1e62afdacf5faf8fee2f2/snackengage-0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
