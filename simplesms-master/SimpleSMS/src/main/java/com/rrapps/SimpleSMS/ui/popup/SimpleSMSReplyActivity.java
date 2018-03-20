@@ -141,7 +141,7 @@ public class SimpleSMSReplyActivity extends SimpleSMSPopupActivity implements Di
 
         mComposeView.saveDraft();
 
-        // When the home button is pressed, this ensures that the QK Reply is shut down
+        // When the home button is pressed, this ensures that the SimpleSMS Reply is shut down
         // Don't shut it down if it pauses and the screen is off though
         if (!mIsStartingActivity && !isChangingConfigurations() && isScreenOn()) {
             finish();
@@ -258,15 +258,15 @@ public class SimpleSMSReplyActivity extends SimpleSMSPopupActivity implements Di
     }
 
     /**
-     * Other areas of the app can tell the QK Reply window to close itself if necessary
+     * Other areas of the app can tell the SimpleSMS Reply window to close itself if necessary
      * <p/>
-     * 1. MainActivity. When it's resumed, we don't want any QK Reply windows to open, which may have
+     * 1. MainActivity. When it's resumed, we don't want any SimpleSMS Reply windows to open, which may have
      * happened while the screen was off.
      * <p/>
      * 2. PushbulletService. If a message is replied to via PB, close the window
      * <p/>
-     * 3. MarkReadReceiver. A QK Reply window may have opened while the screen was off, so if it's marked
-     * as read from the lock screen via notification, the QK Reply window should be dismissed
+     * 3. MarkReadReceiver. A SimpleSMS Reply window may have opened while the screen was off, so if it's marked
+     * as read from the lock screen via notification, the SimpleSMS Reply window should be dismissed
      */
     public static void dismiss(long threadId) {
         if (sThreadId == threadId) {

@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Klepnutím zobrazíte</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK napsat</string>
+  <string name="quickcompose">SimpleSMS napsat</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Kliknutím odešlete zprávu</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Přepnout</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK odpověď</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS odpověď</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Odpovězte na zprávy rychleji než kdy předtím.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Vyzkoušet!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Wow! Now wasn\'t that awesome? You can view your entire conversation at a glance. Tap outside the popup or press the checkmark to dismiss it.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">This is QK Reply. Now you can reply to messages from anywhere. Tap the expand button to see what happens next :)</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">This is SimpleSMS Reply. Now you can reply to messages from anywhere. Tap the expand button to see what happens next :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Nastavení</string>
   <!--Search option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Datum přijetí</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Líbí se vám QKSMS?</string>
+  <string name="rate_title">Líbí se vám SimpleSMS?</string>
   <!--Title for rate button-->
   <string name="rate_action">Hodnotit</string>
   <string name="pref_category_appearance">Vzhled</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Zvuky, LED, soukromí</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">Konfigurace MMS (APN), maximální velikost, skupinové zprávy</string>
-  <string name="pref_category_quickreply">QK odpověď</string>
-  <string name="pref_category_summary_quickreply">QK Odpověď, možnosti vyskakovacího okna</string>
-  <string name="pref_category_quickcompose">QK napsat</string>
-  <string name="pref_category_summary_quickcompose">QK Compose, starred contacts</string>
+  <string name="pref_category_quickreply">SimpleSMS odpověď</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Odpověď, možnosti vyskakovacího okna</string>
+  <string name="pref_category_quickcompose">SimpleSMS napsat</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Compose, starred contacts</string>
   <string name="pref_category_about">O aplikaci</string>
   <string name="pref_category_summary_about">Verze, seznam změn, autoři, poděkování</string>
   <string name="pref_theme">Barva motivu</string>
   <string name="pref_theme_summary_alt">Nastavení hlavní barvy</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Transparentní stavový panel</string>
   <string name="pref_navigation_tint">Transparentní navigační panel</string>
   <string name="pref_background">Barva pozadí</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Zapnout noční režim automaticky podle času</string>
   <string name="pref_day_start">Začátek dne</string>
   <string name="pref_night_start">Noční čas začíná</string>
-  <string name="pref_qk_responses">QK odpovědi</string>
+  <string name="pref_qk_responses">SimpleSMS odpovědi</string>
   <string name="pref_qk_responses_summary">Nastavení předvolených odpovědí pro použití z vašeho Android Wear zařízení</string>
-  <string name="pref_quickreply_enabled">QK odpověď zapnuta</string>
-  <string name="pref_quickreply_enabled_summary">Show QK Reply window whenever a new message is received</string>
+  <string name="pref_quickreply_enabled">SimpleSMS odpověď zapnuta</string>
+  <string name="pref_quickreply_enabled_summary">Show SimpleSMS Reply window whenever a new message is received</string>
   <string name="pref_tap_to_quit">Klepnutím zavřít</string>
   <string name="pref_tap_to_quit_summary">Tap anywhere outside of the window to close it</string>
-  <string name="pref_quickcompose">QK Compose enabled</string>
+  <string name="pref_quickcompose">SimpleSMS Compose enabled</string>
   <string name="pref_quickcompose_summary">Zobrazí v oznamovacím panelu možnost napsat rychlou zprávu</string>
   <string name="pref_mms_enabled">MMS zapnuty</string>
   <string name="pref_mms_enabled_summary">Povolení odesílání a přijímání MMS zpráv</string>
@@ -247,18 +247,18 @@
   <string name="pref_status_compat_summary">Řeší problémy způsobené immersive módem, Tinted Status Bar modulem (Xposed), nebo vlastním nastavením DPI</string>
   <string name="pref_navigation_compat">Oprava navigačního panelu</string>
   <string name="pref_navigation_compat_summary">Řeší problémy způsobené immersive módem, Tinted Status Bar modulem (Xposed), nebo vlastním nastavením DPI</string>
-  <string name="pref_about_version_title">Verze QKSMS</string>
+  <string name="pref_about_version_title">Verze SimpleSMS</string>
   <string name="pref_about_authors_title">Autoři</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Klepnutím zobrazíte seznam změn</string>
   <string name="pref_about_thanks_title">Poděkování</string>
   <string name="pref_about_thanks_summary">Klepnutím zobrazíte open source přispěvatele</string>
   <string name="pref_donate_title">Přispět</string>
-  <string name="pref_donate_summary">QKSMS je zdarma. Podpořte nás a přispějte na vývoj.</string>
+  <string name="pref_donate_summary">SimpleSMS je zdarma. Podpořte nás a přispějte na vývoj.</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Přidejte se do skupiny beta testerů QKSMS na Google+</string>
+  <string name="pref_about_gplus_summary">Přidejte se do skupiny beta testerů SimpleSMS na Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS je open source. Zapojte se a hlašte chyby na GitHub.</string>
+  <string name="pref_about_github_summary">SimpleSMS je open source. Zapojte se a hlašte chyby na GitHub.</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
   <string name="pref_about_crowdin_summary">Zapojte se do překladatelského projektu na Crowdinu</string>
   <!--Preference subcategory-->
@@ -300,7 +300,7 @@
   <string name="title_changelog">Seznam změn</string>
   <string name="title_picker">Nové zprávy</string>
   <string name="title_donate">Přispět</string>
-  <string name="title_qk_responses">QK odpovědi</string>
+  <string name="title_qk_responses">SimpleSMS odpovědi</string>
   <string name="title_block_address">Blokovat číslo</string>
   <string name="title_unblock_address">Odblokovat číslo</string>
   <string name="title_conversations_selected">Vybráno: %s</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Zpráva</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Změny se projeví až při dalším otevření QKSMS</string>
+  <string name="restart_message">Změny se projeví až při dalším otevření SimpleSMS</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Odstranit konverzace</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">Přístupové body APN nenastaveny</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Zdá se, že názvy přístupových bodů (APN) ještě nebyly nastaveny. To znamená, že MMS zprávy nebudou správně fungovat. Klepnutím na tlačítko OK provede QKSMS automatickou konfiguraci.</string>
+  <string name="apns_not_set_description">Zdá se, že názvy přístupových bodů (APN) ještě nebyly nastaveny. To znamená, že MMS zprávy nebudou správně fungovat. Klepnutím na tlačítko OK provede SimpleSMS automatickou konfiguraci.</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Nastavit MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Zdá se, že MMS ještě nebyly v QKSMS nastaveny. Stiskněte tlačítko OK pro automatickou konfiguraci MMS.</string>
+  <string name="set_up_mms_description">Zdá se, že MMS ještě nebyly v SimpleSMS nastaveny. Stiskněte tlačítko OK pro automatickou konfiguraci MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Zpráva bude zahozena, protože nemá žádné platné příjemce.</string>
   <string name="invalid_code">Neplatný kód</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Odpovědět</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Odpovědět pomocí QKSMS</string>
+  <string name="reply_SimpleSMS">Odpovědět pomocí SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Přečteno</string>
   <!--Notification action to mark a message as read-->
@@ -531,20 +531,20 @@
   <string name="no_conversations">Žádné konverzace.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Načítání konverzací…</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">Výchozí SMS aplikace</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">Pro vykonání této akce musí být aplikace QKSMS nastavena jako výchozí</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">Pro označení zpráv jako přečtené musí být QKSMS výchozí SMS aplikací</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">Pro označení zpráv jako nepřečtené musí být QKSMS výchozí SMS aplikací</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">Pro možnost mazat zprávy musí být aplikace QKSMS nastavena jako výchozí SMS aplikace</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">Pro možnost odesílat zprávy musí být aplikace QKSMS nastavena jako výchozí SMS aplikace</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Některé funkce nebudou dostupné, dokud nebude QKSMS výchozí SMS aplikací</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">Pro vykonání této akce musí být aplikace SimpleSMS nastavena jako výchozí</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">Pro označení zpráv jako přečtené musí být SimpleSMS výchozí SMS aplikací</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">Pro označení zpráv jako nepřečtené musí být SimpleSMS výchozí SMS aplikací</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">Pro možnost mazat zprávy musí být aplikace SimpleSMS nastavena jako výchozí SMS aplikace</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">Pro možnost odesílat zprávy musí být aplikace SimpleSMS nastavena jako výchozí SMS aplikace</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Některé funkce nebudou dostupné, dokud nebude SimpleSMS výchozí SMS aplikací</string>
   <string name="delayed_messaging_info">Zpožděné odesílání zpráv umožňuje zrušit odesílání zpráv před jejich odesláním. Výchozí chování a další volby lze upravit v nastavení aplikace.</string>
   <string name="delayed_duration_bounds_error">Prodleva musí být mezi 1 a 30 sekundami</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -554,7 +554,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Aktualizovat barvu ikony</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">Pro změnu barvy ikony je třeba QKSMS restartovat</string>
+  <string name="update_icon_message">Pro změnu barvy ikony je třeba SimpleSMS restartovat</string>
   <string name="dialog_conversation_details_title">Podrobnosti konverzace</string>
   <string name="dialog_conversation_details_last_message_date">Datum poslední zprávy</string>
   <string name="dialog_conversation_details_message_count">Počet zpráv</string>
@@ -611,7 +611,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Děkuji za dar! Miluji tě.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Děkuji za přispění. Pomáháte QKSMS stát se tou nejlepší SMS aplikací, která kdy byla.</string>
+  <string name="thanks_3">Děkuji za přispění. Pomáháte SimpleSMS stát se tou nejlepší SMS aplikací, která kdy byla.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Děkuji za přispění! Jsi vskutku boží!</string>
   <!--Menu option to mute conversation-->
@@ -639,10 +639,10 @@
   <string name="attachment_camera_error">Nelze otevřít fotoaparát</string>
   <string name="pref_max_mms_attachment_size">Maximální velikost přílohy MMS</string>
   <string name="error_no_recipients">Zvolte kontakty, kterým bude zpráva zaslána.</string>
-  <string name="error_file_not_found">QKSMS nemá přístup k souboru, kterou chcete sdílet!</string>
+  <string name="error_file_not_found">SimpleSMS nemá přístup k souboru, kterou chcete sdílet!</string>
   <string name="sending_blocked_welcome_screen_message">Hold up! You\'ll get to send real messages in a minute!</string>
   <string name="notification_colored_icon_ready">Touch to add to your launcher from home screen.</string>
-  <string name="notification_title_colored_icon_ready">Obarvená ikona QKSMS je připravena</string>
+  <string name="notification_title_colored_icon_ready">Obarvená ikona SimpleSMS je připravena</string>
   <string name="icon_ready">Vaše nová ikona je připravena!</string>
   <string name="icon_ready_message">Nyní si ji můžete přidat na svou domovskou obrazovku.</string>
   <string name="dont_ask_again">Dotaz již nezobrazovat</string>
@@ -650,7 +650,7 @@
   <string name="stagefright_warning">Video zprávy mohou obsahovat škodlivý kód, který může zanechat telefon náchylný k útokům. Chcete pokračovat?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">Nastavit MMS?</string>
-  <string name="mms_setup_set_up_mms_body">Zdá se, že MMS nejsou v QKSMS nastaveny. Pro automatické nastavení MMS stiskněte OK.</string>
+  <string name="mms_setup_set_up_mms_body">Zdá se, že MMS nejsou v SimpleSMS nastaveny. Pro automatické nastavení MMS stiskněte OK.</string>
   <string name="mms_setup_setting_up_later_title">Nastavit MMS později</string>
   <string name="mms_setup_setting_up_later_body">Navštivte sekci MMS v Nastavení pro automatickou konfiguraci, obraťte se na podporu, nebo zadejte konfiguraci ručně.</string>
   <string name="mms_setup_no_configurations_found_title">Konfigurace nebyla nalezena</string>
@@ -669,7 +669,7 @@
   <string name="pref_mms_contact_support">Kontaktovat podporu</string>
   <string name="pref_category_sending_mms">Odesílání MMS</string>
   <string name="pref_category_mms_configuration">Nastavení MMS</string>
-  <string name="pref_mms_contact_support_summary">Obraťte se na tým QKSMS pro nápovědu k nastavení MMS</string>
+  <string name="pref_mms_contact_support_summary">Obraťte se na tým SimpleSMS pro nápovědu k nastavení MMS</string>
   <string name="pref_markdown_enabled">Formátování textu</string>
   <string name="pref_markdown_enabled_summary">Použít markdown syntaxi pro tučné a podtržené písmo nebo kurzívu ve zprávách</string>
   <string name="want_read_indicators">Chcete oznámení o přečtení?</string>

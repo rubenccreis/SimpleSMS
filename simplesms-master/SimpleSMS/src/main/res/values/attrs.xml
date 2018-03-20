@@ -23,7 +23,7 @@
         <attr name="typeface" />
     </declare-styleable>
 
-    <declare-styleable name="QKTextView">
+    <declare-styleable name="SimpleSMSTextView">
         <attr name="type" />
     </declare-styleable>
 

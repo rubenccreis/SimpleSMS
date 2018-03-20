@@ -89,11 +89,11 @@ public enum SimpleSMSPreference {
     MMS_PORT("mms_port", true),
     MMS_PROXY("mms_proxy", true),
 
-    // QK Reply
+    // SimpleSMS Reply
     QK_REPLY("pref_key_quickreply_enabled", Build.VERSION.SDK_INT < 24),
     TAP_DISMISS("pref_key_quickreply_dismiss", true),
 
-    // QK Compose
+    // SimpleSMS Compose
     QK_COMPOSE("pref_key_quickcompose", false),
 
     // LiveViews

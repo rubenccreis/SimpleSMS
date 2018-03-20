@@ -20,7 +20,7 @@ import com.rrapps.SimpleSMS.ui.base.ClickyViewHolder;
 import com.rrapps.SimpleSMS.ui.base.SimpleSMSActivity;
 import com.rrapps.SimpleSMS.ui.mms.Presenter;
 import com.rrapps.SimpleSMS.ui.view.AvatarView;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 import java.util.Map;
 
@@ -29,8 +29,8 @@ public class MessageListViewHolder extends ClickyViewHolder<MessageItem> impleme
 
     // Views
     protected View mRoot;
-    protected QKTextView mBodyTextView;
-    protected QKTextView mDateView;
+    protected SimpleSMSTextView mBodyTextView;
+    protected SimpleSMSTextView mDateView;
     protected ImageView mLockedIndicator;
     protected ImageView mDeliveredIndicator;
     protected ImageView mDetailsIndicator;
@@ -41,7 +41,7 @@ public class MessageListViewHolder extends ClickyViewHolder<MessageItem> impleme
     protected ImageView mImageView;
     protected ImageButton mSlideShowButton;
     protected Button mDownloadButton;
-    protected QKTextView mDownloadingLabel;
+    protected SimpleSMSTextView mDownloadingLabel;
 
     protected ImageLoadedCallback mImageLoadedCallback;
     protected Presenter mPresenter;
@@ -50,8 +50,8 @@ public class MessageListViewHolder extends ClickyViewHolder<MessageItem> impleme
         super(context, view);
 
         mRoot = view;
-        mBodyTextView = (QKTextView) view.findViewById(R.id.text_view);
-        mDateView = (QKTextView) view.findViewById(R.id.date_view);
+        mBodyTextView = (SimpleSMSTextView) view.findViewById(R.id.text_view);
+        mDateView = (SimpleSMSTextView) view.findViewById(R.id.date_view);
         mLockedIndicator = (ImageView) view.findViewById(R.id.locked_indicator);
         mDeliveredIndicator = (ImageView) view.findViewById(R.id.delivered_indicator);
         mDetailsIndicator = (ImageView) view.findViewById(R.id.details_indicator);
@@ -72,7 +72,7 @@ public class MessageListViewHolder extends ClickyViewHolder<MessageItem> impleme
         if (mDownloadButton == null) {
             mRoot.findViewById(R.id.mms_downloading_view_stub).setVisibility(View.VISIBLE);
             mDownloadButton = (Button) mRoot.findViewById(R.id.btn_download_msg);
-            mDownloadingLabel = (QKTextView) mRoot.findViewById(R.id.label_downloading);
+            mDownloadingLabel = (SimpleSMSTextView) mRoot.findViewById(R.id.label_downloading);
         }
     }
 

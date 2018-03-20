@@ -16,16 +16,16 @@ import com.rrapps.SimpleSMS.ui.base.ClickyViewHolder;
 import com.rrapps.SimpleSMS.ui.base.SimpleSMSActivity;
 import com.rrapps.SimpleSMS.ui.settings.SettingsFragment;
 import com.rrapps.SimpleSMS.ui.view.AvatarView;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 public class ConversationListViewHolder extends ClickyViewHolder<Conversation> implements Contact.UpdateListener {
 
     private final SharedPreferences mPrefs;
 
     protected View root;
-    protected QKTextView snippetView;
-    protected QKTextView fromView;
-    protected QKTextView dateView;
+    protected SimpleSMSTextView snippetView;
+    protected SimpleSMSTextView fromView;
+    protected SimpleSMSTextView dateView;
     protected ImageView mutedView;
     protected ImageView unreadView;
     protected ImageView errorIndicator;
@@ -37,9 +37,9 @@ public class ConversationListViewHolder extends ClickyViewHolder<Conversation> i
         mPrefs = mContext.getPrefs();
 
         root = view;
-        fromView = (QKTextView) view.findViewById(R.id.conversation_list_name);
-        snippetView = (QKTextView) view.findViewById(R.id.conversation_list_snippet);
-        dateView = (QKTextView) view.findViewById(R.id.conversation_list_date);
+        fromView = (SimpleSMSTextView) view.findViewById(R.id.conversation_list_name);
+        snippetView = (SimpleSMSTextView) view.findViewById(R.id.conversation_list_snippet);
+        dateView = (SimpleSMSTextView) view.findViewById(R.id.conversation_list_date);
         mutedView = (ImageView) view.findViewById(R.id.conversation_list_muted);
         unreadView = (ImageView) view.findViewById(R.id.conversation_list_unread);
         errorIndicator = (ImageView) view.findViewById(R.id.conversation_list_error);

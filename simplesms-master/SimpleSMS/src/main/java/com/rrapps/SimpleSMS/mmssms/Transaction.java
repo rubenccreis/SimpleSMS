@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 QK Labs
+ * Copyright (C) 2015 SimpleSMS Labs
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -62,6 +62,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.koushikdutta.ion.Ion;
 import com.rrapps.SimpleSMS.common.SimpleSMSPreferences;
+import com.rrapps.SimpleSMS.data.Contact;
 import com.rrapps.SimpleSMS.enums.SimpleSMSPreference;
 
 import java.io.ByteArrayInputStream;
@@ -94,13 +95,13 @@ public class Transaction {
     public String SMS_DELIVERED = ".SMS_DELIVERED";
 
     public static String NOTIFY_SMS_FAILURE = ".NOTIFY_SMS_FAILURE";
-    public static final String MMS_ERROR = "com.rrappsQKSMS.send_message.MMS_ERROR";
-    public static final String REFRESH = "com.rrappsQKSMS.send_message.REFRESH";
-    public static final String MMS_PROGRESS = "com.rrappsQKSMS.send_message.MMS_PROGRESS";
-    public static final String VOICE_FAILED = "com.rrappsQKSMS.send_message.VOICE_FAILED";
-    public static final String VOICE_TOKEN = "com.rrappsQKSMS.send_message.RNRSE";
-    public static final String NOTIFY_OF_DELIVERY = "com.rrappsQKSMS.send_message.NOTIFY_DELIVERY";
-    public static final String NOTIFY_OF_MMS = "com.rrappsQKSMS.messaging.NEW_MMS_DOWNLOADED";
+    public static final String MMS_ERROR = "com.rrapps.SimpleSMS.send_message.MMS_ERROR";
+    public static final String REFRESH = "com.rrapps.SimpleSMS.send_message.REFRESH";
+    public static final String MMS_PROGRESS = "com.rrapps.SimpleSMS.send_message.MMS_PROGRESS";
+    public static final String VOICE_FAILED = "com.rrapps.SimpleSMS.send_message.VOICE_FAILED";
+    public static final String VOICE_TOKEN = "com.rrapps.SimpleSMS.send_message.RNRSE";
+    public static final String NOTIFY_OF_DELIVERY = "com.rrapps.SimpleSMS.send_message.NOTIFY_DELIVERY";
+    public static final String NOTIFY_OF_MMS = "com.rrapps.SimpleSMS.messaging.NEW_MMS_DOWNLOADED";
 
     public static final long NO_THREAD_ID = 0;
 
@@ -210,11 +211,14 @@ public class Transaction {
 
                 if (LOCAL_LOGV) Log.v(TAG, "message id: " + messageId);
 
+                Contact contact = Contact.get(addresses[i], true);
                 // set up sent and delivered pending intents to be used with message request
                 PendingIntent sentPI = PendingIntent.getBroadcast(context, messageId, new Intent(SMS_SENT)
-                        .putExtra("message_uri", messageUri == null ? "" : messageUri.toString()), PendingIntent.FLAG_UPDATE_CURRENT);
+                        .putExtra("message_uri", messageUri == null ? "" : messageUri.toString())
+                        .putExtra("contact_name", contact.getName()), PendingIntent.FLAG_UPDATE_CURRENT);
                 PendingIntent deliveredPI = PendingIntent.getBroadcast(context, messageId, new Intent(SMS_DELIVERED)
-                        .putExtra("message_uri", messageUri == null ? "" : messageUri.toString()), PendingIntent.FLAG_UPDATE_CURRENT);
+                        .putExtra("message_uri", messageUri == null ? "" : messageUri.toString())
+                        .putExtra("contact_name", contact.getName()), PendingIntent.FLAG_UPDATE_CURRENT);
 
                 ArrayList<PendingIntent> sPI = new ArrayList<>();
                 ArrayList<PendingIntent> dPI = new ArrayList<>();

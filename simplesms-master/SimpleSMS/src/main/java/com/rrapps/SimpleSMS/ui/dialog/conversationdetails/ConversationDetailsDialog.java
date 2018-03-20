@@ -11,7 +11,7 @@ import com.rrapps.SimpleSMS.data.Conversation;
 import com.rrapps.SimpleSMS.interfaces.ConversationDetails;
 import com.rrapps.SimpleSMS.ui.base.SimpleSMSActivity;
 import com.rrapps.SimpleSMS.ui.dialog.QKDialog;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 public class ConversationDetailsDialog implements ConversationDetails {
 
@@ -30,9 +30,9 @@ public class ConversationDetailsDialog implements ConversationDetails {
 
         View view = View.inflate(mContext, R.layout.dialog_conversation_details, null);
         view.setLayoutParams(listParams);
-        ((QKTextView) view.findViewById(R.id.date)).setText(DateFormatter.getDate(mContext, conversation.getDate()));
-        ((QKTextView) view.findViewById(R.id.message_count)).setText(Integer.toString(conversation.getMessageCount()));
-        ((QKTextView) view.findViewById(R.id.recipients)).setText(mContext.getString(
+        ((SimpleSMSTextView) view.findViewById(R.id.date)).setText(DateFormatter.getDate(mContext, conversation.getDate()));
+        ((SimpleSMSTextView) view.findViewById(R.id.message_count)).setText(Integer.toString(conversation.getMessageCount()));
+        ((SimpleSMSTextView) view.findViewById(R.id.recipients)).setText(mContext.getString(
                 R.string.dialog_conversation_details_recipients, Integer.toString(conversation.getRecipients().size())));
 
         ListView listView = new ListView(mContext);

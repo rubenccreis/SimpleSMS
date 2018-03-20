@@ -30,7 +30,7 @@ import com.rrapps.SimpleSMS.common.utils.Units;
 import com.rrapps.SimpleSMS.enums.SimpleSMSPreference;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 import com.rrapps.SimpleSMS.ui.base.SimpleSMSActivity;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 import java.util.ArrayList;
 
@@ -42,13 +42,13 @@ public class QKDialog extends DialogFragment {
 
     private boolean mTitleEnabled;
     private String mTitleText;
-    private QKTextView mTitleView;
+    private SimpleSMSTextView mTitleView;
 
     private LinearLayout mContentPanel;
 
     private boolean mMessageEnabled;
     private String mMessageText;
-    private QKTextView mMessageView;
+    private SimpleSMSTextView mMessageView;
 
     private LinearLayout mCustomPanel;
 
@@ -61,17 +61,17 @@ public class QKDialog extends DialogFragment {
     private boolean mPositiveButtonEnabled;
     private String mPositiveButtonText;
     private OnClickListener mPositiveButtonClickListener;
-    private QKTextView mPositiveButtonView;
+    private SimpleSMSTextView mPositiveButtonView;
 
     private boolean mNeutralButtonEnabled;
     private String mNeutralButtonText;
     private OnClickListener mNeutralButtonClickListener;
-    private QKTextView mNeutralButtonView;
+    private SimpleSMSTextView mNeutralButtonView;
 
     private boolean mNegativeButtonEnabled;
     private String mNegativeButtonText;
     private OnClickListener mNegativeButtonClickListener;
-    private QKTextView mNegativeButtonView;
+    private SimpleSMSTextView mNegativeButtonView;
 
     private ArrayList<String> mMenuItems = new ArrayList<>();
     private ArrayList<Long> mMenuItemIds = new ArrayList<>();
@@ -98,14 +98,14 @@ public class QKDialog extends DialogFragment {
         }
 
         if (mTitleEnabled) {
-            mTitleView = (QKTextView) view.findViewById(R.id.alertTitle);
+            mTitleView = (SimpleSMSTextView) view.findViewById(R.id.alertTitle);
             mTitleView.setVisibility(View.VISIBLE);
             mTitleView.setText(mTitleText);
             Log.d(TAG, "title enabled");
         }
 
         if (mMessageEnabled) {
-            mMessageView = (QKTextView) view.findViewById(R.id.message);
+            mMessageView = (SimpleSMSTextView) view.findViewById(R.id.message);
             mMessageView.setVisibility(View.VISIBLE);
             mMessageView.setText(mMessageText);
         }
@@ -130,7 +130,7 @@ public class QKDialog extends DialogFragment {
         }
 
         if (mPositiveButtonEnabled) {
-            mPositiveButtonView = (QKTextView) view.findViewById(R.id.buttonPositive);
+            mPositiveButtonView = (SimpleSMSTextView) view.findViewById(R.id.buttonPositive);
             mPositiveButtonView.setVisibility(View.VISIBLE);
             mPositiveButtonView.setText(mPositiveButtonText);
             mPositiveButtonView.setOnClickListener(mPositiveButtonClickListener);
@@ -140,14 +140,14 @@ public class QKDialog extends DialogFragment {
         }
 
         if (mNeutralButtonEnabled) {
-            mNeutralButtonView = (QKTextView) view.findViewById(R.id.buttonNeutral);
+            mNeutralButtonView = (SimpleSMSTextView) view.findViewById(R.id.buttonNeutral);
             mNeutralButtonView.setVisibility(View.VISIBLE);
             mNeutralButtonView.setText(mNeutralButtonText);
             mNeutralButtonView.setOnClickListener(mNeutralButtonClickListener);
         }
 
         if (mNegativeButtonEnabled) {
-            mNegativeButtonView = (QKTextView) view.findViewById(R.id.buttonNegative);
+            mNegativeButtonView = (SimpleSMSTextView) view.findViewById(R.id.buttonNegative);
             mNegativeButtonView.setVisibility(View.VISIBLE);
             mNegativeButtonView.setText(mNegativeButtonText);
             mNegativeButtonView.setOnClickListener(mNegativeButtonClickListener);
@@ -418,10 +418,10 @@ public class QKDialog extends DialogFragment {
                 convertView = inflater.inflate(R.layout.list_item_dual, parent, false);
             }
 
-            ((QKTextView) convertView.findViewById(R.id.list_item_title))
+            ((SimpleSMSTextView) convertView.findViewById(R.id.list_item_title))
                     .setText(getItem(position).title);
 
-            ((QKTextView) convertView.findViewById(R.id.list_item_body))
+            ((SimpleSMSTextView) convertView.findViewById(R.id.list_item_body))
                     .setText(getItem(position).body);
 
             return convertView;
@@ -447,15 +447,15 @@ public class QKDialog extends DialogFragment {
                 convertView = inflater.inflate(R.layout.list_item_triple, parent, false);
             }
 
-            QKTextView title = (QKTextView) convertView.findViewById(R.id.list_item_title);
+            SimpleSMSTextView title = (SimpleSMSTextView) convertView.findViewById(R.id.list_item_title);
             title.setTextColor(ThemeManager.getColor());
             title.setText(getItem(position).title);
 
-            QKTextView subtitle = (QKTextView) convertView.findViewById(R.id.list_item_subtitle);
+            SimpleSMSTextView subtitle = (SimpleSMSTextView) convertView.findViewById(R.id.list_item_subtitle);
             subtitle.setTextColor(ThemeManager.getTextOnBackgroundPrimary());
             subtitle.setText(getItem(position).subtitle);
 
-            ((QKTextView) convertView.findViewById(R.id.list_item_body))
+            ((SimpleSMSTextView) convertView.findViewById(R.id.list_item_body))
                     .setText(getItem(position).body);
 
             return convertView;

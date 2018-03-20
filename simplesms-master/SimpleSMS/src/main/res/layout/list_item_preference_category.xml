@@ -14,7 +14,7 @@
 -->
 
 <!-- Layout used for PreferenceCategory in a PreferenceActivity. -->
-<com.rrapps.SimpleSMS.ui.view.QKTextView
+<com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
     android:id="@+android:id/title"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -22,5 +22,5 @@
     android:layout_height="wrap_content"
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
-    android:paddingTop="16dp"
+    android:paddingTop="0dp"
     app:type="pref_category" />

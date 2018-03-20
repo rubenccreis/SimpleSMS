@@ -34,7 +34,7 @@ import static android.support.v4.app.NotificationCompat.WearableExtender;
 
 public class RemoteMessagingReceiver extends BroadcastReceiver {
 
-    public static final String ACTION_REPLY = "com.rrappsQKSMS.receiver.WearableIntentReceiver.REPLY";
+    public static final String ACTION_REPLY = "com.rrapps.SimpleSMS.receiver.WearableIntentReceiver.REPLY";
 
     public static final String EXTRA_ADDRESS = "address";
     public static final String EXTRA_THREAD_ID = "thread_id";

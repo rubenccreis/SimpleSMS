@@ -35,7 +35,7 @@ import com.rrapps.SimpleSMS.common.utils.ColorUtils;
 import com.rrapps.SimpleSMS.enums.SimpleSMSPreference;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 import com.rrapps.SimpleSMS.ui.settings.SettingsActivity;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 import java.util.ArrayList;
 
@@ -43,7 +43,7 @@ public abstract class SimpleSMSActivity extends AppCompatActivity {
     private final String TAG = "SimpleSMSActivity";
 
     private Toolbar mToolbar;
-    private QKTextView mTitle;
+    private SimpleSMSTextView mTitle;
     private ImageView mOverflowButton;
     private Menu mMenu;
     private ProgressDialog mProgressDialog;
@@ -100,7 +100,7 @@ public abstract class SimpleSMSActivity extends AppCompatActivity {
             throw new RuntimeException("Toolbar not found in BaseActivity layout.");
         } else {
             mToolbar.setPopupTheme(R.style.PopupTheme);
-            mTitle = (QKTextView) mToolbar.findViewById(R.id.toolbar_title);
+            mTitle = (SimpleSMSTextView) mToolbar.findViewById(R.id.toolbar_title);
             setSupportActionBar(mToolbar);
         }
 
@@ -127,7 +127,7 @@ public abstract class SimpleSMSActivity extends AppCompatActivity {
                     mToolbar.setPopupTheme(R.style.PopupTheme);
                     break;
             }
-            ((QKTextView) findViewById(R.id.toolbar_title)).setTextColor(ThemeManager.getTextOnColorPrimary());
+            ((SimpleSMSTextView) findViewById(R.id.toolbar_title)).setTextColor(ThemeManager.getTextOnColorPrimary());
         });
     }
 
@@ -264,12 +264,12 @@ public abstract class SimpleSMSActivity extends AppCompatActivity {
             case R.id.menu_settings:
                 startActivity(SettingsActivity.class);
                 return true;
-            case R.id.menu_changelog:
+            /*case R.id.menu_changelog:
                 DialogHelper.showChangelog(this);
                 return true;
             case R.id.menu_donate:
                 DonationManager.getInstance(this).showDonateDialog();
-                return true;
+                return true;*/
         }
 
         return super.onOptionsItemSelected(item);

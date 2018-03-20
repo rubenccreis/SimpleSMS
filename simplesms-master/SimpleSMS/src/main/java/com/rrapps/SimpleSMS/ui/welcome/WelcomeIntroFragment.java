@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.rrapps.SimpleSMS.R;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 public class WelcomeIntroFragment extends BaseWelcomeFragment implements View.OnClickListener {
 
@@ -14,7 +14,7 @@ public class WelcomeIntroFragment extends BaseWelcomeFragment implements View.On
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_welcome_greeting, container, false);
 
-        QKTextView start = (QKTextView) view.findViewById(R.id.welcome_start);
+        SimpleSMSTextView start = (SimpleSMSTextView) view.findViewById(R.id.welcome_start);
         start.setOnClickListener(this);
 
         return view;

@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Ketuk untuk melihat</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK Compose</string>
+  <string name="quickcompose">SimpleSMS Compose</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Klik untuk mengirim pesan</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Jungkit saya</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK Balas</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS Balas</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Membalas pesan lebih cepat daripada sebelumnya.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Cobalah!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Wow! Bukankah itu mengagumkan? Anda bisa melihat seluruh percakapan Anda dalam sekejap. Ketuk di luar jendela munculan atau tekan tanda centang untuk menutupnya.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">Ini adalah QK Balas. Sekarang Anda bisa membalas pesan dari mana saja. Ketuk untuk memperluas tombol untuk melihat apa yang akan terjadi selanjutnya :)</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">Ini adalah SimpleSMS Balas. Sekarang Anda bisa membalas pesan dari mana saja. Ketuk untuk memperluas tombol untuk melihat apa yang akan terjadi selanjutnya :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Pengaturan</string>
   <!--Search option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Tanggal diterima</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Suka QKSMS?</string>
+  <string name="rate_title">Suka SimpleSMS?</string>
   <!--Title for rate button-->
   <string name="rate_action">Nilai</string>
   <string name="pref_category_appearance">Penampilan</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Suara, LED, privasi</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">Konfigurasi MMS (APN), ukuran maks, perpesanan grup</string>
-  <string name="pref_category_quickreply">QK Balas</string>
-  <string name="pref_category_summary_quickreply">QK Balas, opsi munculan</string>
-  <string name="pref_category_quickcompose">QK Compose</string>
-  <string name="pref_category_summary_quickcompose">QK Compose, starred contacts</string>
+  <string name="pref_category_quickreply">SimpleSMS Balas</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Balas, opsi munculan</string>
+  <string name="pref_category_quickcompose">SimpleSMS Compose</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Compose, starred contacts</string>
   <string name="pref_category_about">Tentang</string>
   <string name="pref_category_summary_about">Versi, catatan perubahan, pengembang, kontributor</string>
   <string name="pref_theme">Warna tema</string>
   <string name="pref_theme_summary_alt">Ketuk untuk mengubah tema</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Bilah status berwarna</string>
   <string name="pref_navigation_tint">Bilah navigasi berwarna</string>
   <string name="pref_background">Warna latar belakang</string>
@@ -154,7 +154,7 @@
   <string name="pref_key_timestamp_delay">New timestamp delay</string>
   <string name="pref_key_timestamp_delay_summary">The number of minutes which must elapse between two messages in order for a new timestamp to be shown.</string>
   <string name="pref_compose_favorites">Kontak favorit</string>
-  <string name="pref_compose_summary_favorites">Tampilkan kontak favorit Anda di dalam jendela QK Tulis, mempermudah untuk ditambahkan</string>
+  <string name="pref_compose_summary_favorites">Tampilkan kontak favorit Anda di dalam jendela SimpleSMS Tulis, mempermudah untuk ditambahkan</string>
   <string name="pref_prox_sensor_call">Sensor jarak</string>
   <string name="pref_prox_sensor_call_summary">Ketika dalam percakapan, dekatkan telepon Anda ke telinga untuk memulai panggilan</string>
   <string name="pref_delivery">Konfirmasi pengiriman</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Aktifkan mode malam secara otomatis berdasarkan waktu</string>
   <string name="pref_day_start">Day time begins</string>
   <string name="pref_night_start">Night time begins</string>
-  <string name="pref_qk_responses">QK Respons</string>
+  <string name="pref_qk_responses">SimpleSMS Respons</string>
   <string name="pref_qk_responses_summary">Kelola prasetelan respons Anda untuk digunakan dari perangkat Android Wear</string>
-  <string name="pref_quickreply_enabled">QK Balas diaktifkan</string>
-  <string name="pref_quickreply_enabled_summary">Tampilkan jendela QK Balas setiap kali pesan baru diterima</string>
+  <string name="pref_quickreply_enabled">SimpleSMS Balas diaktifkan</string>
+  <string name="pref_quickreply_enabled_summary">Tampilkan jendela SimpleSMS Balas setiap kali pesan baru diterima</string>
   <string name="pref_tap_to_quit">Ketuk untuk mengabaikan</string>
   <string name="pref_tap_to_quit_summary">Ketuk di manapun di luar jendela untuk menutupnya</string>
-  <string name="pref_quickcompose">QK Compose enabled</string>
+  <string name="pref_quickcompose">SimpleSMS Compose enabled</string>
   <string name="pref_quickcompose_summary">Menampilkan notifikasi yang memperbolehkan anda untuk menulis pesan baru</string>
   <string name="pref_mms_enabled">MMS diaktifkan</string>
   <string name="pref_mms_enabled_summary">Memungkinkan mengirim dan menerima pesan MMS</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Memperbaiki masalah yang disebabkan oleh mode immersive, Tinted Status Bar (Xposed), atau pengaturan DPI ubahsuai</string>
   <string name="pref_navigation_compat">Bilah navigasi tetap</string>
   <string name="pref_navigation_compat_summary">Memperbaiki masalah yang disebabkan oleh mode immersive, Tinted Status Bar (Xposed), atau pengaturan DPI ubahsuai</string>
-  <string name="pref_about_version_title">Versi QKSMS</string>
+  <string name="pref_about_version_title">Versi SimpleSMS</string>
   <string name="pref_about_authors_title">Pengembang</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Ketuk untuk melihat catatan perubahan</string>
   <string name="pref_about_thanks_title">Terima kasih</string>
   <string name="pref_about_thanks_summary">Ketuk untuk melihat kontributor sumber terbuka</string>
   <string name="pref_donate_title">Donasi</string>
-  <string name="pref_donate_summary">QKSMS gratis. Bantu dan dukung kami dengan donasi!</string>
+  <string name="pref_donate_summary">SimpleSMS gratis. Bantu dan dukung kami dengan donasi!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Join the QKSMS Beta Testing community on Google+</string>
+  <string name="pref_about_gplus_summary">Join the SimpleSMS Beta Testing community on Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the SimpleSMS translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Tema</string>
   <!--Preference subcategory-->
@@ -300,7 +300,7 @@
   <string name="title_changelog">Catatan perubahan</string>
   <string name="title_picker">Pesan baru</string>
   <string name="title_donate">Donasi</string>
-  <string name="title_qk_responses">QK Respons</string>
+  <string name="title_qk_responses">SimpleSMS Respons</string>
   <string name="title_block_address">Blokir nomor</string>
   <string name="title_unblock_address">Buka blokir nomor</string>
   <string name="title_conversations_selected">%s dipilih</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Laporan</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Ubahan ini akan berlaku pada saat berikutnya QKSMS dibuka</string>
+  <string name="restart_message">Ubahan ini akan berlaku pada saat berikutnya SimpleSMS dibuka</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Hapus percakapan</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN belum disetel</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">It appears that your APNs have not been set. This means that MMS will not work properly. Please press okay to have QKSMS find them for you :)</string>
+  <string name="apns_not_set_description">It appears that your APNs have not been set. This means that MMS will not work properly. Please press okay to have SimpleSMS find them for you :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Siapkan MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Sepertinya MMS belum dikonfigurasi di QKSMS. Tekan ok secara otomatis mengkonfigurasi MMS.</string>
+  <string name="set_up_mms_description">Sepertinya MMS belum dikonfigurasi di SimpleSMS. Tekan ok secara otomatis mengkonfigurasi MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Pesan Anda akan dibuang karena tidak memiliki penerima yang valid.</string>
   <string name="invalid_code">Kode tidak valid</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Balas</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Balas via QKSMS</string>
+  <string name="reply_SimpleSMS">Balas via SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Baca</string>
   <!--Notification action to mark a message as read-->
@@ -529,20 +529,20 @@
   <string name="no_conversations">Tidak ada percakapan.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Memuat percakapan.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">Aplikasi SMS Baku</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS perlu menjadi aplikasi SMS baku untuk melakukan hal tersebut</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS harus menjadi aplikasi SMS baku untuk menandai pesan dibaca</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS harus menjadi aplikasi SMS baku untuk menandai pesan belum dibaca</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS harus menjadi aplikasi SMS baku untuk menghapus pesan</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS harus menjadi aplikasi SMS baku untuk mengirim pesan</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Beberapa hal tidak akan bekerja sampai QKSMS menjadi aplikasi SMS baku</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">SimpleSMS perlu menjadi aplikasi SMS baku untuk melakukan hal tersebut</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">SimpleSMS harus menjadi aplikasi SMS baku untuk menandai pesan dibaca</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">SimpleSMS harus menjadi aplikasi SMS baku untuk menandai pesan belum dibaca</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">SimpleSMS harus menjadi aplikasi SMS baku untuk menghapus pesan</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">SimpleSMS harus menjadi aplikasi SMS baku untuk mengirim pesan</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Beberapa hal tidak akan bekerja sampai SimpleSMS menjadi aplikasi SMS baku</string>
   <string name="delayed_messaging_info">Pesan tertunda memungkinkan Anda membatalkan pesan sebelum mereka dikirimkan. Ubah perilaku bawaan dan lainnya di pengaturan</string>
   <string name="delayed_duration_bounds_error">Durasi harus antara 1 sampai 30 detik</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -552,7 +552,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Perbarui warna ikon</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Detail percakapan</string>
   <string name="dialog_conversation_details_last_message_date">Tanggal pesan terakhir</string>
   <string name="dialog_conversation_details_message_count">Jumlah pesan</string>
@@ -609,7 +609,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Terima kasih telah menyumbang! Aku cinta kamu.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Terima kasih telah menyumbang! Anda membantu QKSMS menjadi aplikasi perpesanan teks terbaik yang pernah dibuat.</string>
+  <string name="thanks_3">Terima kasih telah menyumbang! Anda membantu SimpleSMS menjadi aplikasi perpesanan teks terbaik yang pernah dibuat.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Terima kasih atas donasinya! Anda luar biasa.</string>
   <!--Menu option to mute conversation-->
@@ -637,10 +637,10 @@
   <string name="attachment_camera_error">Kamera tidak bisa dibuka</string>
   <string name="pref_max_mms_attachment_size">Ukuran maksimum lampiran MMS</string>
   <string name="error_no_recipients">Pilih beberapa kontak tujuan pengiriman pesan ini!</string>
-  <string name="error_file_not_found">QKSMS can\'t access the file you\'re trying to share!</string>
+  <string name="error_file_not_found">SimpleSMS can\'t access the file you\'re trying to share!</string>
   <string name="sending_blocked_welcome_screen_message">Hold up! You\'ll get to send real messages in a minute!</string>
   <string name="notification_colored_icon_ready">Sentuh untuk menambahkan ke peluncur dari layar beranda.</string>
-  <string name="notification_title_colored_icon_ready">Ikon berwarna QKSMS telah siap</string>
+  <string name="notification_title_colored_icon_ready">Ikon berwarna SimpleSMS telah siap</string>
   <string name="icon_ready">Ikon baru Anda telah siap!</string>
   <string name="icon_ready_message">Sekarang Anda bisa menambahkannya lagi ke layar beranda dengan warna yang telah diperbarui.</string>
   <string name="dont_ask_again">Jangan tanya lagi</string>
@@ -648,7 +648,7 @@
   <string name="stagefright_warning">Pesan video mungkin mengandung eksploitasi yang berbahaya yang bisa mengakibatkan telepon Anda rentan terhadap serangan. Apakah Anda ingin melanjutkan?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">Siapkan MMS?</string>
-  <string name="mms_setup_set_up_mms_body">Sepertinya MMS belum disiapkan di QKSMS. Tekan oke akan untuk otomatis mengkonfigurasi MMS.</string>
+  <string name="mms_setup_set_up_mms_body">Sepertinya MMS belum disiapkan di SimpleSMS. Tekan oke akan untuk otomatis mengkonfigurasi MMS.</string>
   <string name="mms_setup_setting_up_later_title">Siapkan MMS nanti</string>
   <string name="mms_setup_setting_up_later_body">Kunjungi bagian MMS di dalam Pengaturan untuk mencoba konfigurasi otomatis, hubungi dukungan, atau memasukkan konfigurasi Anda sendiri.</string>
   <string name="mms_setup_no_configurations_found_title">Tidak ada konfigurasi yang ditemukan</string>
@@ -667,7 +667,7 @@
   <string name="pref_mms_contact_support">Hubungi Dukungan</string>
   <string name="pref_category_sending_mms">Mengirim MMS</string>
   <string name="pref_category_mms_configuration">Konfigurasi MMS</string>
-  <string name="pref_mms_contact_support_summary">Hubungi tim QKSMS untuk bantuan pengaturan MMS</string>
+  <string name="pref_mms_contact_support_summary">Hubungi tim SimpleSMS untuk bantuan pengaturan MMS</string>
   <string name="pref_markdown_enabled">Format teks</string>
   <string name="pref_markdown_enabled_summary">Gunakan sintaks markdown untuk huruf tebal, garis bawah, dan miring dalam pesan Anda</string>
   <string name="want_read_indicators">Want read indicators?</string>

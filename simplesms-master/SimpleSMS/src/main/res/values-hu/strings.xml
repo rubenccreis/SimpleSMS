@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Érintse meg a megtekintéshez</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK Alkotó</string>
+  <string name="quickcompose">SimpleSMS Alkotó</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Kattintson egy üzenet elküldéséhez</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Nyomj meg</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK Válasz</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS Válasz</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Válaszoljon az üzenetekre gyorsabban mint valaha.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Próbálja ki!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Hú! Hát nem elképesztő? Egy szempillantás alatt megtekintheti az egész beszélgetést. Érintse meg a pipát, vagy egy, az ablakon kívül eső részt a kilépéshez.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">Ez a QK Válasz. Mostantól akárhonnan válaszolhat az üzeneteire. Érintse meg a kiterjesztés gombot, hogy megtudja mi történik ezután :)</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">Ez a SimpleSMS Válasz. Mostantól akárhonnan válaszolhat az üzeneteire. Érintse meg a kiterjesztés gombot, hogy megtudja mi történik ezután :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Beállítások</string>
   <!--Search option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Beérkezés dátuma</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Kedveli a QKSMS-t?</string>
+  <string name="rate_title">Kedveli a SimpleSMS-t?</string>
   <!--Title for rate button-->
   <string name="rate_action">Minősítés</string>
   <string name="pref_category_appearance">Megjelenés</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Hangok, fények, magánszféra</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">MMS (APN-ek) konfigurálása, maximális méret, csoportos üzenetküldés</string>
-  <string name="pref_category_quickreply">QK Válasz</string>
-  <string name="pref_category_summary_quickreply">QK Válasz, előugró ablak beállításai</string>
-  <string name="pref_category_quickcompose">QK Alkotó</string>
-  <string name="pref_category_summary_quickcompose">QK Alkotó, csillagozott névjegyek</string>
+  <string name="pref_category_quickreply">SimpleSMS Válasz</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Válasz, előugró ablak beállításai</string>
+  <string name="pref_category_quickcompose">SimpleSMS Alkotó</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Alkotó, csillagozott névjegyek</string>
   <string name="pref_category_about">Névjegy</string>
   <string name="pref_category_summary_about">Verzió, változási napló, szerzők, köszönetnyilvánítás</string>
   <string name="pref_theme">Színséma</string>
   <string name="pref_theme_summary_alt">Érintse meg a téma módosításához</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Színezett állapotsor</string>
   <string name="pref_navigation_tint">Színezett navigációs sáv</string>
   <string name="pref_background">Háttérszín</string>
@@ -154,7 +154,7 @@
   <string name="pref_key_timestamp_delay">New timestamp delay</string>
   <string name="pref_key_timestamp_delay_summary">The number of minutes which must elapse between two messages in order for a new timestamp to be shown.</string>
   <string name="pref_compose_favorites">Csillagozott névjegyek</string>
-  <string name="pref_compose_summary_favorites">Jelenítse meg a csillagozott névjegyeket a QK Alkotóban, így csak egy érintésre lesznek</string>
+  <string name="pref_compose_summary_favorites">Jelenítse meg a csillagozott névjegyeket a SimpleSMS Alkotóban, így csak egy érintésre lesznek</string>
   <string name="pref_prox_sensor_call">Közelség érzékelő</string>
   <string name="pref_prox_sensor_call_summary">Ha meg van nyitva egy beszélgetés, a füléhez emelve a telefont hívást kezdeményezhet</string>
   <string name="pref_delivery">Kézbesítési jelentés</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Éjszakai üzemmód automatikus bekapcsolása az idő függvényében</string>
   <string name="pref_day_start">Nappali kezdete</string>
   <string name="pref_night_start">Éjszaka kezdete</string>
-  <string name="pref_qk_responses">QK Válaszok</string>
+  <string name="pref_qk_responses">SimpleSMS Válaszok</string>
   <string name="pref_qk_responses_summary">Módosítsa az előre definiált válaszait hogy az Android Wear eszközéről ezek legyenek használva</string>
-  <string name="pref_quickreply_enabled">QK Válasz engedélyezve</string>
-  <string name="pref_quickreply_enabled_summary">QK Válasz ablak megjelenése minden bejövő üzenetnél</string>
+  <string name="pref_quickreply_enabled">SimpleSMS Válasz engedélyezve</string>
+  <string name="pref_quickreply_enabled_summary">SimpleSMS Válasz ablak megjelenése minden bejövő üzenetnél</string>
   <string name="pref_tap_to_quit">Érintse meg az eltüntetéshez</string>
   <string name="pref_tap_to_quit_summary">Érintse meg bárhol az ablakon kívül, hogy kilépjen</string>
-  <string name="pref_quickcompose">QK Alkotó engedélyezve</string>
+  <string name="pref_quickcompose">SimpleSMS Alkotó engedélyezve</string>
   <string name="pref_quickcompose_summary">Olyan értesítés megjelenítése amire rákattintva új üzenetet írhat</string>
   <string name="pref_mms_enabled">MMS engedélyezve</string>
   <string name="pref_mms_enabled_summary">MMS küldésének és fogadásának engedélyezése</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Kiterjesztett kijelző által fellépet hibák megoldása, Tinned Status Bar(Xposed), vagy egyéni képsűrűség</string>
   <string name="pref_navigation_compat">Navigációs sáv javítása</string>
   <string name="pref_navigation_compat_summary">Kiterjesztett kijelző által fellépet hibák megoldása, Tinned Status Bar(Xposed), vagy egyéni képsűrűség</string>
-  <string name="pref_about_version_title">QKSMS verzió</string>
+  <string name="pref_about_version_title">SimpleSMS verzió</string>
   <string name="pref_about_authors_title">Szerzők</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Érintse meg a változási napló megjelenítéséhez</string>
   <string name="pref_about_thanks_title">Köszönöm</string>
   <string name="pref_about_thanks_summary">Érintse meg a nyílt forrású támogatók megtekintéséhez</string>
   <string name="pref_donate_title">Adományozás</string>
-  <string name="pref_donate_summary">A QKSMS egy ingyenes alkalmazás. Támogasson minket adományával!</string>
+  <string name="pref_donate_summary">A SimpleSMS egy ingyenes alkalmazás. Támogasson minket adományával!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Join the QKSMS Beta Testing community on Google+</string>
+  <string name="pref_about_gplus_summary">Join the SimpleSMS Beta Testing community on Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the SimpleSMS translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Téma</string>
   <!--Preference subcategory-->
@@ -300,7 +300,7 @@
   <string name="title_changelog">Változási napló</string>
   <string name="title_picker">Új üzenetek</string>
   <string name="title_donate">Adományozás</string>
-  <string name="title_qk_responses">QK Válaszok</string>
+  <string name="title_qk_responses">SimpleSMS Válaszok</string>
   <string name="title_block_address">Szám blokkolása</string>
   <string name="title_unblock_address">Blokkolás feloldása</string>
   <string name="title_conversations_selected">%s kijelölve</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Jelentés</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">A változások a QKSMS következő megnyitásakor lépnek életbe</string>
+  <string name="restart_message">A változások a SimpleSMS következő megnyitásakor lépnek életbe</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Beszélgetés törlése</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">Nincs APN beállítva</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Úgy tűnik nincs APN beállítva. Ez azt jelenti gondok lesznek az MMS-ekkel. Nyomja meg az oké gombot, hogy a QKSMS beállítsa önnek :)</string>
+  <string name="apns_not_set_description">Úgy tűnik nincs APN beállítva. Ez azt jelenti gondok lesznek az MMS-ekkel. Nyomja meg az oké gombot, hogy a SimpleSMS beállítsa önnek :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">MMS beállítása?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Úgy tűnik az MMS-ek beállításai nem teljesek a QKSMS-ben. Nyomja meg az oké gombot automatikus konfigurációhoz.</string>
+  <string name="set_up_mms_description">Úgy tűnik az MMS-ek beállításai nem teljesek a SimpleSMS-ben. Nyomja meg az oké gombot automatikus konfigurációhoz.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Az üzenete törlésre kerül mert nincs érvényes címzettje.</string>
   <string name="invalid_code">Érvénytelen kód</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Válasz</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Válasz QKSMS-el</string>
+  <string name="reply_SimpleSMS">Válasz SimpleSMS-el</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Olvasott</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Nincsenek beszélgetések.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Beszélgetések betöltése.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">SMS alapértelmezés</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">A QKSMS kell legyen az alapértelmezett SMS alkalmazás</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">A QKSMS kell legyen az alapértelmezett SMS alkalmazás, hogy megjelölhesse az üzeneteket olvasottként</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">A QKSMS kell legyen az alapértelmezett SMS alkalmazás, hogy megjelölhesse az üzeneteket olvasatlanként</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">Üzenetek törléséhez a QKSMS kell legyen az alapértelmezett SMS alkalmazás</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">Üzenetek küldéséhez a QKSMS kell legyen az alapértelmezett SMS alkalmazás</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Néhány dolog csak azután fog működni, hogy a QKSMS az alapértelmezett SMS alkalmazás</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">A SimpleSMS kell legyen az alapértelmezett SMS alkalmazás</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">A SimpleSMS kell legyen az alapértelmezett SMS alkalmazás, hogy megjelölhesse az üzeneteket olvasottként</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">A SimpleSMS kell legyen az alapértelmezett SMS alkalmazás, hogy megjelölhesse az üzeneteket olvasatlanként</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">Üzenetek törléséhez a SimpleSMS kell legyen az alapértelmezett SMS alkalmazás</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">Üzenetek küldéséhez a SimpleSMS kell legyen az alapértelmezett SMS alkalmazás</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Néhány dolog csak azután fog működni, hogy a SimpleSMS az alapértelmezett SMS alkalmazás</string>
   <string name="delayed_messaging_info">A késleltetett üzenetküldés lehetővé teszi az üzenetek küldésének leállítását. Az alapértelmezett működést módosíthatja a Beállításokban</string>
   <string name="delayed_duration_bounds_error">Az időtartam 1 és 30 másodper között kel llennie</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Ikon színének frissítése</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Beszélgetés részletei</string>
   <string name="dialog_conversation_details_last_message_date">Utolsó üzenet dátuma</string>
   <string name="dialog_conversation_details_message_count">Üzenetek száma</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Köszönöm az adományát! Szeretem önt.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Köszönöm az adományát! Ezzel támogatja a QKSMS-t, hogy a valaha volt legjobb üzenetező alkalmazássá váljon.</string>
+  <string name="thanks_3">Köszönöm az adományát! Ezzel támogatja a SimpleSMS-t, hogy a valaha volt legjobb üzenetező alkalmazássá váljon.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Köszönöm az adományát! Ön csúcs.</string>
   <!--Menu option to mute conversation-->
@@ -641,7 +641,7 @@
   <string name="error_file_not_found">Nem lehet megnyitni a megosztásra szánt fájlt!</string>
   <string name="sending_blocked_welcome_screen_message">Tartson ki! Hamarosan valódi üzeneteket küldhet!</string>
   <string name="notification_colored_icon_ready">Érintse meg, hogy hozzáadja az indítóképernyőhöz.</string>
-  <string name="notification_title_colored_icon_ready">A QKSMS színezett ikonja elkészült</string>
+  <string name="notification_title_colored_icon_ready">A SimpleSMS színezett ikonja elkészült</string>
   <string name="icon_ready">Az új ikon készen áll!</string>
   <string name="icon_ready_message">Most már hozzáadhatja a kezdő képernyőjéhez a frissített ikonnal.</string>
   <string name="dont_ask_again">Ne kérdezze többször</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Kapcsolatfelvétel az ügyfélszolgáltatóval</string>
   <string name="pref_category_sending_mms">MMS küldése</string>
   <string name="pref_category_mms_configuration">MMS Konfiguráció</string>
-  <string name="pref_mms_contact_support_summary">Lépjen kapcsolatba a QKSMS csapatával az MMS beállításához</string>
+  <string name="pref_mms_contact_support_summary">Lépjen kapcsolatba a SimpleSMS csapatával az MMS beállításához</string>
   <string name="pref_markdown_enabled">Szöveg formázása</string>
   <string name="pref_markdown_enabled_summary">Leíró szintaxis használata kövér, aláhúzott és dőlt betűkhöz a beszélgetésekben</string>
   <string name="want_read_indicators">Szeretne olvasási visszajelzést?</string>

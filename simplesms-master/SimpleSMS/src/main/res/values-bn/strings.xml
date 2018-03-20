@@ -50,13 +50,13 @@
   <string name="welcome_night_hint">আমাকে টগল করুন</string>
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_quickreply_title">কিউকে রিপ্লাই</string>
-  <!--QK Reply explanation-->
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">আগের যেকোনো সময়ের চেয়ে দ্রুত বার্তাসমূহের জবাব দিন।</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">এটা চেষ্টা করুন!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">ওয়াও! এখন ব্যাপারটা কি অসাধারণ হয় নি? আপনি পুরো কথোপকথন এক দৃষ্টিতে দেখতে পারেন।পপআপের বাইরে হালকা টোকা দিন বা চেকমার্কে স্পর্শ করুন এটিকে বাতিল করতে।</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_2">এটি হচ্ছে কিউকে রিপ্লাই । এখন আপনি বার্তাগুলির উত্তর পাঠাতে পারবেন যেকোন জায়গা থেকে। কি ঘটবে দেখার জন্য প্রসারিত করুন বোতামে স্পর্শ করুন :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">সেটিংস</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">থিমের রঙ</string>
   <string name="pref_theme_summary_alt">থিম পরিবর্তন করতে হালকা টোকা দিন</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint"> রঞ্জিত স্থিতি দণ্ড</string>
   <string name="pref_navigation_tint"> রঞ্জিত নেভিগেশন বার</string>
   <string name="pref_background">প্রেক্ষাপট রঙ</string>
@@ -249,7 +249,7 @@
   <string name="pref_navigation_compat_summary">ইমার্সিভ মোড, রঞ্জিত স্ট্যাটাস বার (Xposed) বা কাস্টম ডিপিআই সেটিংস দ্বারা ঘটিত বিষয় ঠিক করে</string>
   <string name="pref_about_version_title">কিউকে এস‌এম‌এস সংস্করণ</string>
   <string name="pref_about_authors_title">লেখক</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">পরিবর্তনসূচী দেখতে হালকা টোকা দিন</string>
   <string name="pref_about_thanks_title">আপনাকে ধন্যবাদ</string>
   <string name="pref_about_thanks_summary">ওপেন-সোর্সে অবদানকারীদেরকে দেখতে হালকা টোকা দিন</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">উত্তর দিন</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">কিউকে এস‌এম‌এস এর মাধ্যমে জবাব দিন</string>
+  <string name="reply_SimpleSMS">কিউকে এস‌এম‌এস এর মাধ্যমে জবাব দিন</string>
   <!--Notification action to mark a message as read-->
   <string name="read">পঠিত</string>
   <!--Notification action to mark a message as read-->
@@ -530,19 +530,19 @@
   <string name="no_conversations">কোন কথোপকথন নেই।</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">কথোপকথন লোড করা হচ্ছে।</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">পূর্ব-নির্ধারিত এসএমএস</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
   <string name="default_info">কিউকে এসএমএস আপনার সেই এসএমএস অ্যাপ হওয়া প্রয়োজন</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
   <string name="not_default_mark_read">কিউকে এসএমএস আপনার বার্তার পঠিত চিহ্নিত করার অ্যাপ হওয়া প্রয়োজন</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
   <string name="not_default_mark_unread">কিউকে এসএমএস আপনার বার্তার অপঠিত চিহ্নিত করার অ্যাপ হওয়া আবশ্যক</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
   <string name="not_default_delete">কিউকে এসএমএস আপনার বার্তাগুলি মুছে ফেলার অ্যাপ হওয়া আবশ্যক</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
   <string name="not_default_send">কিউকে এসএমএস আপনার বার্তা প্রেরণের অ্যাপ হওয়া আবশ্যক</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
   <string name="not_default_first">কিছু কিছু জিনিস ততক্ষণ কাজ করবে না যতক্ষণ পর্যন্ত না কিউকে এসএমএস কে পূর্ব-নির্ধারিত এসএমএস অ্যাপ হিসেবে সেট করা হবে।</string>
   <string name="delayed_messaging_info">বিলম্বিত বার্তা প্রেরণ করার আগে বার্তা বাতিল করতে আপনাকে সুযোগ করে দেয়। ডিফল্ট আচরণ ও অন্যান্য জিনিস সেটিংসে পরিবর্তন করুন</string>
   <string name="delayed_duration_bounds_error">স্থিতিকাল হতে হবে ১ এবং ৩০ সেকেন্ডের মধ্যে</string>
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">আইকনের রঙ আধুনিকীকরণ করুন</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">কথোপকথন বিস্তারিত</string>
   <string name="dialog_conversation_details_last_message_date">সর্বশেষ বার্তার তারিখ</string>
   <string name="dialog_conversation_details_message_count">বার্তা সংখ্যা</string>

@@ -36,7 +36,7 @@
         android:layout_toRightOf="@+id/contact_list_contact"
         android:paddingRight="16dp">
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/contact_list_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
             android:singleLine="true"
             app:type="primary" />
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/contact_list_type"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
             android:paddingLeft="16dp"
             app:type="tertiary" />
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/contact_list_number"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

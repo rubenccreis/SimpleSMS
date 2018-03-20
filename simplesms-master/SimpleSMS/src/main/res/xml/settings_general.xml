@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceCategory
         android:layout="@layout/list_item_preference_category"
@@ -39,7 +38,7 @@
             android:title="@string/pref_delivery_toast"
             android:widgetLayout="@layout/view_switch" />
         <CheckBoxPreference
-            android:defaultValue="true"
+            android:defaultValue="false"
             android:dependency="pref_key_delivery"
             android:key="pref_key_delivery_vibrate"
             android:layout="@layout/list_item_preference"

@@ -21,7 +21,7 @@ import com.rrapps.SimpleSMS.ui.base.RecyclerCursorAdapter;
 import com.rrapps.SimpleSMS.ui.messagelist.MessageListActivity;
 import com.rrapps.SimpleSMS.ui.view.MessageListRecyclerView;
 import com.rrapps.SimpleSMS.ui.view.QKEditText;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 import java.util.HashMap;
 import java.util.regex.Pattern;
@@ -33,7 +33,7 @@ public class SearchFragment extends SimpleSMSFragment implements RecyclerCursorA
 
     // Track which TextView's show which Contact objects so that we can update
     // appropriately when the Contact gets fully loaded.
-    private HashMap<Contact, QKTextView> mContactMap = new HashMap<>();
+    private HashMap<Contact, SimpleSMSTextView> mContactMap = new HashMap<>();
 
     private SharedPreferences mPrefs;
     private Resources mRes;
@@ -112,7 +112,7 @@ public class SearchFragment extends SimpleSMSFragment implements RecyclerCursorA
 
 
     Contact.UpdateListener mContactListener = updated -> {
-        QKTextView tv = mContactMap.get(updated);
+        SimpleSMSTextView tv = mContactMap.get(updated);
         if (tv != null) {
             tv.setText(updated.getNameAndNumber());
         }

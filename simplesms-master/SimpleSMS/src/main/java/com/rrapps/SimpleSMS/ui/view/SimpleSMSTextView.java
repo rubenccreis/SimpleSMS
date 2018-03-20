@@ -17,14 +17,14 @@ import com.rrapps.SimpleSMS.enums.SimpleSMSPreference;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 import com.rrapps.SimpleSMS.ui.settings.SettingsFragment;
 
-public class QKTextView extends TextView {
+public class SimpleSMSTextView extends TextView {
     private final String TAG = "QKTextView";
 
     private Context mContext;
     private int mType = FontManager.TEXT_TYPE_PRIMARY;
     private boolean mOnColorBackground = false;
 
-    public QKTextView(Context context) {
+    public SimpleSMSTextView(Context context) {
         super(context);
 
         if (!isInEditMode()) {
@@ -32,7 +32,7 @@ public class QKTextView extends TextView {
         }
     }
 
-    public QKTextView(Context context, AttributeSet attrs) {
+    public SimpleSMSTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
 
         if (!isInEditMode()) {
@@ -40,7 +40,7 @@ public class QKTextView extends TextView {
         }
     }
 
-    public QKTextView(Context context, AttributeSet attrs, int defStyle) {
+    public SimpleSMSTextView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
 
         if (!isInEditMode()) {
@@ -53,8 +53,8 @@ public class QKTextView extends TextView {
 
 
         if (attrs != null) {
-            final TypedArray array = context.obtainStyledAttributes(attrs, R.styleable.QKTextView);
-            mType = array.getInt(R.styleable.QKTextView_type, FontManager.TEXT_TYPE_PRIMARY);
+            final TypedArray array = context.obtainStyledAttributes(attrs, R.styleable.SimpleSMSTextView);
+            mType = array.getInt(R.styleable.SimpleSMSTextView_type, FontManager.TEXT_TYPE_PRIMARY);
             array.recycle();
         }
 

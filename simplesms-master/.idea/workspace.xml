@@ -9,7 +9,200 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83f8b8c-3809-4592-a5ae-e6536de35b71" name="Default" comment="" />
+    <list default="true" id="e83f8b8c-3809-4592-a5ae-e6536de35b71" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/QKPreference.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/QKTextView.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_google_auto_auto_common_0_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_auto_auto_common_0_3_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_google_auto_service_auto_service_1_0_rc2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_google_auto_service_auto_service_1_0_rc2_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_squareup_leakcanary_leakcanary_android_no_op_1_4_beta2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_leakcanary_leakcanary_android_no_op_1_4_beta2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_clojure_clojure_1_7_0_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_clojure_clojure_1_7_0_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_clojure_core_cache_0_6_3_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_clojure_core_cache_0_6_3_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_clojure_data_priority_map_0_0_2_jar.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_clojure_data_priority_map_0_0_2_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/build.gradle" afterPath="$PROJECT_DIR$/SimpleSMS/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/simplesms-proguard.pro" afterPath="$PROJECT_DIR$/SimpleSMS/simplesms-proguard.pro" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/qklabs/qkms/test/ApnTest.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/qklabs/qkms/test/ApnTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/database/sqlite/SqliteWrapper.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/database/sqlite/SqliteWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/DhcpInfoInternal.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/DhcpInfoInternal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/LinkCapabilities.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/LinkCapabilities.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkIdentity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkIdentity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkPolicy.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkPolicy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkPolicyManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkPolicyManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkTemplate.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkTemplate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkUtils.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/NetworkUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/RouteInfo.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/android/net/RouteInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/LegacyVpnInfo.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/LegacyVpnInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/VpnConfig.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/VpnConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/VpnProfile.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/net/VpnProfile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/GsmAlphabet.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/GsmAlphabet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/IccUtils.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/IccUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/PhoneConstants.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/PhoneConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/RILConstants.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/internal/telephony/RILConstants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NamedNodeMapImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NamedNodeMapImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NodeImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NodeImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NodeListImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/NodeListImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/events/EventTargetImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/events/EventTargetImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementParallelTimeContainerImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementParallelTimeContainerImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementSequentialTimeContainerImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementSequentialTimeContainerImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementTimeImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/ElementTimeImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilDocumentImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilDocumentImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilElementImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilElementImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilMediaElementImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilMediaElementImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilParElementImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilParElementImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilPlayer.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/TimeListImpl.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/TimeListImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilContentHandler.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilContentHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilXmlParser.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilXmlParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilXmlSerializer.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/parser/SmilXmlSerializer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/DefaultRetryScheme.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/DefaultRetryScheme.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/HttpUtils.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/HttpUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MessageStatusService.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MessageStatusService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsMessageSender.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsMessageSender.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsPushOutboxMessages.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsPushOutboxMessages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsSystemEventReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/MmsSystemEventReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/ProgressCallbackEntity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/ProgressCallbackEntity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/RetryScheduler.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/RetryScheduler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/Transaction.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/Transaction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/TransactionService.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/TransactionService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/TransactionSettings.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/TransactionSettings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/DownloadManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/DownloadManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/RateController.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/RateController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/SendingProgressTokenManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/SendingProgressTokenManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/collect/Sets.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/collect/Sets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/GenericPdu.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/GenericPdu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduComposer.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduComposer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduHeaders.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduHeaders.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduParser.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduPersister.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/PduPersister.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/SendReq.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/SendReq.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/smil/SmilHelper.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/smil/SmilHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/AbstractCache.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/AbstractCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/DownloadDrmHelper.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/DownloadDrmHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/DrmConvertSession.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/DrmConvertSession.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/PduCache.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/PduCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/SqliteWrapper.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/util_alt/SqliteWrapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/MmsConfig.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/MmsConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/SimpleSMSAppBase.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/SimpleSMSAppBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/DialogHelper.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/DialogHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/DonationManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/DonationManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/enums/SimpleSMSPreference.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/enums/SimpleSMSPreference.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Apn.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Apn.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/ApnUtils.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/ApnUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DisconnectWifi.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DisconnectWifi.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Message.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Message.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/SentReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/SentReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Settings.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Settings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/StripAccents.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/StripAccents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Transaction.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Transaction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Utils.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/IconColorReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/IconColorReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/QKIntent.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/QKIntent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/RemoteMessagingReceiver.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/RemoteMessagingReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/service/DeleteUnreadMessageService.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/service/DeleteUnreadMessageService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListViewHolder.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListViewHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/BubblePreferenceDialog.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/BubblePreferenceDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/ConversationSettingsDialog.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/ConversationSettingsDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/QKDialog.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/QKDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/conversationdetails/ConversationDetailsContactListAdapter.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/conversationdetails/ConversationDetailsContactListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/conversationdetails/ConversationDetailsDialog.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/conversationdetails/ConversationDetailsDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSDialogFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSDialogFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListViewHolder.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListViewHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/popup/SimpleSMSReplyActivity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/popup/SimpleSMSReplyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/search/SearchFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/search/SearchFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/search/SearchViewHolder.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/search/SearchViewHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/QKResponseAdapter.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/QKResponseAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/ComposeView.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/ComposeView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/StarredContactsView.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/StarredContactsView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/welcome/WelcomeIntroFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/welcome/WelcomeIntroFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/welcome/WelcomeNightFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/welcome/WelcomeNightFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetProvider.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetProvider.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_bubbles.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_bubbles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_color_picker.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_color_picker.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_conversation_details.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_conversation_details.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_delete_thread.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_delete_thread.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_donate.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_donate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_material.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/dialog_material.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_greeting.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_greeting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_night.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_night.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_quickreply.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_welcome_quickreply.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_contact.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_contact.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_dual.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_dual.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_in.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_out.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference_category.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference_category.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_qk_response.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_qk_response.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_recipient.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_recipient.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_search.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_simple.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_simple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_triple.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_triple.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_compose.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_compose.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_favorite_contact.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_favorite_contact.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_mms_downloading.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_mms_downloading.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_playing_audio.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_playing_audio.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_starred_contacts.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_starred_contacts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_toolbar.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_toolbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-bn/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-bn/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-cs/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-cs/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-da/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-da/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-de/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-de/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-es/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-es/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fa/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fa/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fi/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fi/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fr/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-fr/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-hi/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-hi/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-hu/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-hu/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-in/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-in/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-it/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-it/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-iw/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-iw/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ja/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ja/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ko/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ko/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-lt/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-lt/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ne/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ne/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-nl/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-nl/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-no/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-no/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pl/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pl/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt-rBR/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt-rBR/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ro/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ro/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ru/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-ru/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sk/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sk/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sr/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sr/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sv/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-sv/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-tl/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-tl/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-tr/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-tr/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-vi/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-vi/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-zh-rCN/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-zh-rCN/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-zh/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values-zh/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/apns.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/apns.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_about.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_about.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/withAnalytics/java/com/rrapps/SimpleSMS/SimpleSMSApp.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/withAnalytics/java/com/rrapps/SimpleSMS/SimpleSMSApp.java" />
+    </list>
     <ignored path="simplesms-master.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,72 +233,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ComposeActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/compose/ComposeActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-208">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EncodedStringValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="224" column="44" lean-forward="false" selection-start-line="224" selection-start-column="44" selection-end-line="224" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RateController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/RateController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="148" column="44" lean-forward="false" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/TimeImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="149" column="49" lean-forward="false" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmilRegionElementImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="193" column="41" lean-forward="false" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageListFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="297" column="34" lean-forward="false" selection-start-line="297" selection-start-column="34" selection-end-line="297" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_item_conversation.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml">
-          <provider selected="true" editor-type-id="android-designer2">
+      <file leaf-file-name="qkreply.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/qkreply.xml">
+          <provider editor-type-id="android-designer2">
             <state />
           </provider>
-          <provider editor-type-id="text-editor">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <element signature="e#470#489#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+              <folding>
+                <element signature="e#284#307#0" expanded="true" />
+                <marker date="1521561762982" expanded="false" signature="423:447" ph="&quot;What's new&quot;" />
+                <marker date="1521561762982" expanded="false" signature="522:544" ph="&quot;Donate&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="40" />
+              <folding>
+                <marker date="1521561790782" expanded="false" signature="126:150" ph="&quot;What's new&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compose.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+              <folding>
+                <element signature="e#284#307#0" expanded="true" />
+                <marker date="1521561927581" expanded="false" signature="423:447" ph="&quot;What's new&quot;" />
+                <marker date="1521561927581" expanded="false" signature="522:544" ph="&quot;Donate&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleSMSActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="287" column="45" lean-forward="false" selection-start-line="287" selection-start-column="45" selection-end-line="287" selection-end-column="45" />
+              <folding>
+                <element signature="e#3284#3312#0" expanded="true" />
+                <element signature="e#7180#7236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conversations.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="1" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContactHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ContactHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conversations_selection.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations_selection.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -113,11 +346,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ComposeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/compose/ComposeFragment.java">
+      <file leaf-file-name="message_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-233">
-              <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            <state relative-caret-position="225">
+              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <marker date="1521561699416" expanded="true" signature="883:968" ph="..." />
+                <marker date="1521561699416" expanded="false" signature="944:966" ph="&quot;Donate&quot;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message_picker.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_picker.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,42 +377,61 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>desig</find>
-      <find>allproje</find>
-      <find>QKSMS.intent.action.UNREAD_COUNT_UPDATED</find>
-      <find>copyBuilder</find>
-      <find>1</find>
-      <find>&quot;15</find>
-      <find>&quot;15&quot;</find>
-      <find>menu</find>
-      <find>dona</find>
-      <find>donate_google_summary</find>
-      <find>do</find>
-      <find>donati</find>
-      <find>donations</find>
-      <find>DonationManager</find>
-      <find>&quot;DOnation</find>
-      <find>&quot;DOnations</find>
-      <find>&quot;DOnations&quot;</find>
-      <find>&quot;Dnations&quot;</find>
-      <find>&quot;nations&quot;</find>
-      <find>&quot;ations&quot;</find>
-      <find>&quot;</find>
-      <find>&lt;</find>
-      <find>&gt;</find>
-      <find>&gt;D</find>
-      <find>&gt;Donatio</find>
-      <find>&gt;Donations</find>
-      <find>&gt;Donation</find>
-      <find>product_name_donation</find>
-      <find>d</find>
-      <find>15</find>
+      <find>hecontactname</find>
+      <find>hcontactname</find>
+      <find>getcontactname</find>
+      <find>gecontactname</find>
+      <find>gcontactname</find>
+      <find>contact</find>
+      <find>putextra</find>
+      <find>contactname</find>
+      <find>gou</find>
+      <find>go</find>
+      <find>group</find>
+      <find>group_all</find>
+      <find>confi</find>
+      <find>confirmaç</find>
+      <find>confirmaç~</find>
+      <find>confirmaçõe</find>
+      <find>confirmações</find>
+      <find>confirmações</find>
+      <find>confirmações d</find>
+      <find>confirmações de</find>
+      <find>&quot;.ui.MainActivity</find>
+      <find>icon</find>
+      <find>g</find>
+      <find>gene</find>
+      <find>ph</find>
+      <find>photo</find>
+      <find>ge</find>
+      <find>getPhoto</find>
+      <find>blankContact</find>
+      <find>android:id=&quot;@+id/menu_changelog&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace>MainActivity</replace>
+      <replace>com.rrappsQKSMS</replace>
+      <replace>com.rrapps.SimpleSMS.</replace>
+      <replace>Rúben Reis</replace>
+      <replace>1.0.0</replace>
+      <replace>SimpleSMS</replace>
+      <replace>&quot;com.rrapps.SimpleSMS.ui.MainActivity</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/SimpleSMS</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -3199,24 +3470,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/moez/SimpleSMS/common/emoji/EmojiRegistryTest.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/popup/SimpleReplyActivity.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/values/donottranslate.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/gradle.properties" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/QKActivity.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/google/SimpleCache.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/theme/IconAdapter.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/UnreadBadgeService.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/build.gradle" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/compose/ComposeFragment.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/RateController.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/TimeImpl.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSDialogFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/build.gradle" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsActivity.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversation.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/QKPreference.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/SimpleSMSPreference.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/qklabs/qkms/test/ApnTest.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/values/ic_settings_new.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/ic_settings_new.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/IconColorReceiver.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings_new.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference_category.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_about.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/compose_background.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/delivery/DeliveryReportHelper.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_in.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_out.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/build/generated/source/r/noAnalytics/debug/com/rrapps/SimpleSMS/R.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/MmsConfig.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/simplesms-proguard.pro" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Transaction.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt/strings.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/service/NotificationService.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetService.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java" />
       </list>
     </option>
   </component>
@@ -3225,6 +3529,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1109" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -3240,161 +3545,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="compose" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3489,16 +3639,76 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesms-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesms-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSMS" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesms-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSMS" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simplesms-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimpleSMS" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="instant.run" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="FUH7N16504000004" />
     <property name="com.android.studio.selected.modules.on.import" value="simplesms-master&#10;SimpleSMS" />
     <property name="android.project.structure.last.selected" value="SimpleSMS" />
     <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3581,7 +3791,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521480304479" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521564029693" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3627,7 +3837,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521480304479" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521564029695" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3808,7 +4018,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521480304480" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521564029704" />
       </method>
     </configuration>
     <list size="1">
@@ -3885,32 +4095,41 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1109" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.49361023" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.52342916" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.5468584" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.48722044" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.4765708" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997986" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.49574015" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930514" sideWeight="0.45314163" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.49361023" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.4978701" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.47870076" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.48509052" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.47870076" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5021299" order="13" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.4914803" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.4765708" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -3923,6 +4142,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="StringPreview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3938,137 +4158,331 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java</url>
+          <line>20</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetService.java</url>
+          <line>219</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values/donottranslate.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference_category.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt-rBR/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="249" column="40" lean-forward="false" selection-start-line="249" selection-start-column="16" selection-end-line="249" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/build.gradle">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-bn/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="593" column="16" lean-forward="false" selection-start-line="593" selection-start-column="16" selection-end-line="593" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-chips-1.0.0.aar/b2173bf4b933654d3d3c10256021477e/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values/donottranslate.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-chips-1.0.0.aar/b2173bf4b933654d3d3c10256021477e/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="38" lean-forward="false" selection-start-line="126" selection-start-column="38" selection-end-line="126" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values/donottranslate.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/moez/SimpleSMS/common/emoji/EmojiRegistryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/RetryScheduler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/popup/SimpleSMSReplyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2910">
-          <caret line="227" column="28" lean-forward="false" selection-start-line="227" selection-start-column="28" selection-end-line="227" selection-end-column="28" />
+        <state relative-caret-position="261">
+          <caret line="85" column="60" lean-forward="false" selection-start-line="85" selection-start-column="60" selection-end-line="85" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/compose_background.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/gradle.properties">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/view_compose.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values/donottranslate.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="336">
+          <caret line="65" column="13" lean-forward="false" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="247" column="36" lean-forward="false" selection-start-line="247" selection-start-column="36" selection-end-line="247" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/RecyclerCursorAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/delivery/DeliveryReportHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="130" column="31" lean-forward="false" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_about.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversation.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/MessageListRecyclerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation_widget.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/message_received_2.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_out.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="53" column="45" lean-forward="false" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxhdpi/card_mask.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="67" lean-forward="false" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/SimpleSMSTextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="107" column="17" lean-forward="false" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_message_in.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="55" lean-forward="false" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="54" lean-forward="false" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2895">
+          <caret line="256" column="87" lean-forward="false" selection-start-line="256" selection-start-column="87" selection-end-line="256" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#31041#31042#0" expanded="false" />
+            <element signature="e#31096#31097#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/build/generated/source/r/noAnalytics/debug/com/rrapps/SimpleSMS/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="4801" column="34" lean-forward="false" selection-start-line="4801" selection-start-column="34" selection-end-line="4801" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1455">
+          <caret line="176" column="37" lean-forward="false" selection-start-line="176" selection-start-column="37" selection-end-line="176" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/MmsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="45" column="51" lean-forward="false" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#19533#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7534#7535#0" expanded="false" />
+            <element signature="e#7579#7580#0" expanded="false" />
+            <element signature="e#7624#7625#0" expanded="false" />
+            <element signature="e#7658#7659#0" expanded="false" />
+            <element signature="e#8151#8152#0" expanded="false" />
+            <element signature="e#8189#8190#0" expanded="false" />
+            <element signature="e#8232#8233#0" expanded="false" />
+            <element signature="e#8265#8266#0" expanded="false" />
+            <element signature="e#8312#8313#0" expanded="false" />
+            <element signature="e#8349#8350#0" expanded="false" />
+            <element signature="e#8392#8393#0" expanded="false" />
+            <element signature="e#8425#8426#0" expanded="false" />
+            <element signature="e#8469#8470#0" expanded="false" />
+            <element signature="e#8503#8504#0" expanded="false" />
+            <element signature="e#8555#8556#0" expanded="false" />
+            <element signature="e#8597#8598#0" expanded="false" />
+            <element signature="e#8643#8644#0" expanded="false" />
+            <element signature="e#8679#8680#0" expanded="false" />
+            <element signature="e#8724#8725#0" expanded="false" />
+            <element signature="e#8762#8763#0" expanded="false" />
+            <element signature="e#8806#8807#0" expanded="false" />
+            <element signature="e#8843#8844#0" expanded="false" />
+            <element signature="e#8888#8889#0" expanded="false" />
+            <element signature="e#8926#8927#0" expanded="false" />
+            <element signature="e#9104#9105#0" expanded="false" />
+            <element signature="e#9155#9156#0" expanded="false" />
+            <element signature="e#9213#9214#0" expanded="false" />
+            <element signature="e#9264#9265#0" expanded="false" />
+            <element signature="e#9319#9320#0" expanded="false" />
+            <element signature="e#9367#9368#0" expanded="false" />
+            <element signature="e#9422#9423#0" expanded="false" />
+            <element signature="e#9470#9471#0" expanded="false" />
+            <element signature="e#9518#9519#0" expanded="false" />
+            <element signature="e#9559#9560#0" expanded="false" />
+            <element signature="e#9617#9618#0" expanded="false" />
+            <element signature="e#9668#9669#0" expanded="false" />
+            <element signature="e#9722#9723#0" expanded="false" />
+            <element signature="e#9764#9765#0" expanded="false" />
+            <element signature="e#9819#9820#0" expanded="false" />
+            <element signature="e#9862#9863#0" expanded="false" />
+            <element signature="e#9918#9919#0" expanded="false" />
+            <element signature="e#9962#9963#0" expanded="false" />
+            <element signature="e#10022#10023#0" expanded="false" />
+            <element signature="e#10070#10071#0" expanded="false" />
+            <element signature="e#10130#10131#0" expanded="false" />
+            <element signature="e#10178#10179#0" expanded="false" />
+            <element signature="e#10226#10227#0" expanded="false" />
+            <element signature="e#10263#10264#0" expanded="false" />
+            <element signature="e#10428#10429#0" expanded="false" />
+            <element signature="e#10464#10465#0" expanded="false" />
+            <element signature="e#10508#10509#0" expanded="false" />
+            <element signature="e#10549#10550#0" expanded="false" />
+            <element signature="e#10593#10594#0" expanded="false" />
+            <element signature="e#10634#10635#0" expanded="false" />
+            <element signature="e#10685#10686#0" expanded="false" />
+            <element signature="e#10725#10726#0" expanded="false" />
+            <element signature="e#10772#10773#0" expanded="false" />
+            <element signature="e#10812#10813#0" expanded="false" />
+            <element signature="e#10862#10863#0" expanded="false" />
+            <element signature="e#10900#10901#0" expanded="false" />
+            <element signature="e#19278#19279#0" expanded="false" />
+            <element signature="e#19326#19327#0" expanded="false" />
+            <element signature="e#19377#19378#0" expanded="false" />
+            <element signature="e#19419#19420#0" expanded="false" />
+            <element signature="e#19478#19479#0" expanded="false" />
+            <element signature="e#19528#19529#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/simplesms-proguard.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -4078,129 +4492,101 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="126" column="38" lean-forward="false" selection-start-line="126" selection-start-column="38" selection-end-line="126" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/build/intermediates/incremental/mergeNoAnalyticsDebugResources/merged.dir/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="2111" column="38" lean-forward="false" selection-start-line="2111" selection-start-column="38" selection-end-line="2111" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-chips-1.0.0.aar/b2173bf4b933654d3d3c10256021477e/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/AutoCompleteContactView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/71701485d1612aa544c4ec465d96551f/res/values-v26/values-v26.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/transaction/ProgressCallbackEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/java/util/Map.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="84" column="21" lean-forward="false" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/google/SimpleCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="66" column="48" lean-forward="false" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
+        <state relative-caret-position="155">
+          <caret line="446" column="56" lean-forward="false" selection-start-line="446" selection-start-column="56" selection-end-line="446" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1410#1437#0" expanded="false" />
-            <element signature="e#1921#1948#0" expanded="false" />
+            <element signature="e#6307#6325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/theme/IconAdapter.java">
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/content/Intent.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <caret line="490" column="18" lean-forward="false" selection-start-line="490" selection-start-column="18" selection-end-line="490" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#30195#30196#0" expanded="true" />
+            <element signature="e#30246#30247#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/UnreadBadgeService.java">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="182">
+          <caret line="447" column="70" lean-forward="false" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/Transaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="188" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#773#818#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/android-profile/profile-2018-03-19-16-09-02-101.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="0" column="4326" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="45468" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="674" column="7" lean-forward="false" selection-start-line="674" selection-start-column="7" selection-end-line="674" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/menu_frame.xml">
-      <provider selected="true" editor-type-id="android-designer2">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <marker date="1521542756580" expanded="false" signature="293:325" ph="&quot;Tap to change theme&quot;" />
+            <marker date="1521542756580" expanded="false" signature="348:368" ph="&quot;Theme color&quot;" />
+            <marker date="1521542756580" expanded="false" signature="655:688" ph="&quot;Tap to change background color&quot;" />
+            <marker date="1521542756580" expanded="false" signature="711:736" ph="&quot;Background color&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="158" column="48" lean-forward="false" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="716" column="42" lean-forward="false" selection-start-line="716" selection-start-column="38" selection-end-line="716" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_add.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -4208,53 +4594,110 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml">
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/service/NotificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="220" column="57" lean-forward="false" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="57" />
+          <folding>
+            <element signature="e#10121#10180#0" expanded="false" />
+            <element signature="e#10255#10308#0" expanded="false" />
+            <element signature="e#12431#12479#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations_selection.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-zh-rCN/strings.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="276" column="16" lean-forward="false" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="16" />
+        <state relative-caret-position="225">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <marker date="1521561699416" expanded="true" signature="883:968" ph="..." />
+            <marker date="1521561699416" expanded="false" signature="944:966" ph="&quot;Donate&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_picker.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-fi/strings.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/qkreply.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="276" column="37" lean-forward="false" selection-start-line="276" selection-start-column="16" selection-end-line="276" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="225">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#470#489#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-ne/strings.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="276" column="59" lean-forward="false" selection-start-line="276" selection-start-column="59" selection-end-line="276" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="45">
+          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <folding>
+            <element signature="e#284#307#0" expanded="true" />
+            <marker date="1521561762982" expanded="false" signature="423:447" ph="&quot;What's new&quot;" />
+            <marker date="1521561762982" expanded="false" signature="522:544" ph="&quot;Donate&quot;" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/common/DonationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="28" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-da/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="281" column="37" lean-forward="false" selection-start-line="281" selection-start-column="37" selection-end-line="281" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <marker date="1521561790782" expanded="false" signature="126:150" ph="&quot;What's new&quot;" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -4263,114 +4706,43 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1228">
-          <caret line="223" column="32" lean-forward="true" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_compose.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/activity_qkcompose.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/compose/ComposeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/compose/ComposeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="224" column="44" lean-forward="false" selection-start-line="224" selection-start-column="44" selection-end-line="224" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/util/RateController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="148" column="44" lean-forward="false" selection-start-line="148" selection-start-column="44" selection-end-line="148" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/TimeImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="149" column="49" lean-forward="false" selection-start-line="149" selection-start-column="49" selection-end-line="149" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="193" column="41" lean-forward="false" selection-start-line="193" selection-start-column="41" selection-end-line="193" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="297" column="34" lean-forward="false" selection-start-line="297" selection-start-column="34" selection-end-line="297" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="64" lean-forward="false" selection-start-line="0" selection-start-column="64" selection-end-line="1" selection-end-column="55" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ContactHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <folding>
+            <element signature="e#284#307#0" expanded="true" />
+            <marker date="1521561927581" expanded="false" signature="423:447" ph="&quot;What's new&quot;" />
+            <marker date="1521561927581" expanded="false" signature="522:544" ph="&quot;Donate&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="287" column="45" lean-forward="false" selection-start-line="287" selection-start-column="45" selection-end-line="287" selection-end-column="45" />
+          <folding>
+            <element signature="e#3284#3312#0" expanded="true" />
+            <element signature="e#7180#7236#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

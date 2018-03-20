@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2007-2008 Esmertec AG.
  * Copyright (C) 2007-2008 The Android Open Source Project
- * Copyright (C) 2015 QK Labs
+ * Copyright (C) 2015 SimpleSMS Labs
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -323,7 +323,7 @@ public class TransactionService extends Service implements Observer {
                                     // If autodownload is turned off, don't process the
                                     // transaction.
                                     if (LOCAL_LOGV) Log.v(TAG, "onNewIntent: skipping - autodownload off");
-                                        //sendBroadcast(new Intent(com.rrappsQKSMS.send_message.Transaction.NOTIFY_OF_MMS));
+                                        //sendBroadcast(new Intent(com.rrapps.SimpleSMS.send_message.Transaction.NOTIFY_OF_MMS));
                                     break;
                                 }
                                 // Logic is twisty. If there's no failure or the failure

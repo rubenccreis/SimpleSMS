@@ -15,7 +15,7 @@
         android:layout_height="56dp"
         app:initialSize="32sp" />
 
-    <com.rrapps.SimpleSMS.ui.view.QKTextView
+    <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
         android:id="@+id/name"
         android:layout_width="64dp"
         android:layout_height="wrap_content"

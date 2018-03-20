@@ -125,7 +125,7 @@
         android:defaultValue="false"
         android:key="pref_key_dismiss_read" />
 
-    <!-- QKSMS+ -->
+    <!-- SimpleSMS+ -->
     <Preference
         android:defaultValue="false"
         android:key="pref_key_delayed" />

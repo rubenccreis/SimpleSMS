@@ -12,7 +12,7 @@ import android.view.animation.DecelerateInterpolator;
 import com.rrapps.SimpleSMS.R;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 import com.rrapps.SimpleSMS.ui.settings.SettingsFragment;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 import com.rrapps.SimpleSMS.ui.view.RobotoTextView;
 
 public class WelcomeNightFragment extends BaseWelcomeFragment implements BaseWelcomeFragment.WelcomeScrollListener, View.OnClickListener {
@@ -21,7 +21,7 @@ public class WelcomeNightFragment extends BaseWelcomeFragment implements BaseWel
     private ArgbEvaluator mArgbEvaluator = new ArgbEvaluator();
     private RobotoTextView mNightTitle;
     private RobotoTextView mNightDescription;
-    private QKTextView mNightHint;
+    private SimpleSMSTextView mNightHint;
     private String mNightShyamalan;
 
     @Override
@@ -30,7 +30,7 @@ public class WelcomeNightFragment extends BaseWelcomeFragment implements BaseWel
 
         mNightTitle = (RobotoTextView) view.findViewById(R.id.welcome_night_title);
         mNightDescription = (RobotoTextView) view.findViewById(R.id.welcome_night_description);
-        mNightHint = (QKTextView) view.findViewById(R.id.welcome_night_hint);
+        mNightHint = (SimpleSMSTextView) view.findViewById(R.id.welcome_night_hint);
         mNightHint.setOnClickListener(this);
 
         mContext.setFinished();

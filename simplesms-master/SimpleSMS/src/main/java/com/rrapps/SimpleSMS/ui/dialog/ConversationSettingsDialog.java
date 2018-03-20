@@ -17,10 +17,10 @@ import com.rrapps.SimpleSMS.common.utils.Units;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 import com.rrapps.SimpleSMS.ui.messagelist.MessageListActivity;
 import com.rrapps.SimpleSMS.ui.settings.SettingsFragment;
-import com.rrapps.SimpleSMS.ui.view.QKPreference;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSPreference;
 import com.rrapps.SimpleSMS.ui.view.QKRingtonePreference;
 import com.rrapps.SimpleSMS.ui.view.QKSwitchPreference;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 import com.rrapps.SimpleSMS.ui.view.colorpicker.ColorPickerDialog;
 
 public class ConversationSettingsDialog extends QKDialog implements Preference.OnPreferenceClickListener {
@@ -68,20 +68,20 @@ public class ConversationSettingsDialog extends QKDialog implements Preference.O
         };
 
         int padding = Units.dpToPx(getActivity(), 16);
-        QKTextView premiumWarning = new QKTextView(getActivity());
+        SimpleSMSTextView premiumWarning = new SimpleSMSTextView(getActivity());
         premiumWarning.setLayoutParams(mLayoutParams);
         premiumWarning.setPadding(padding, padding, padding, padding);
 
         LinearLayout list = new LinearLayout(getActivity());
         list.setOrientation(LinearLayout.VERTICAL);
 
-        list.addView(new QKPreference(getActivity(), this, SettingsFragment.THEME,
+        list.addView(new SimpleSMSPreference(getActivity(), this, SettingsFragment.THEME,
                 R.string.pref_theme, R.string.pref_theme_summary_alt).getView());
 
         list.addView(new QKSwitchPreference(getActivity(), this, SettingsFragment.NOTIFICATION_LED,
                 mConversationPrefs.getConversationPrefs(), mConversationPrefs.getNotificationLedEnabled(), R.string.pref_led, 0).getView());
 
-        list.addView(new QKPreference(getActivity(), this, SettingsFragment.NOTIFICATION_LED_COLOR,
+        list.addView(new SimpleSMSPreference(getActivity(), this, SettingsFragment.NOTIFICATION_LED_COLOR,
                 R.string.pref_theme_led, 0).getView());
 
         list.addView(new QKSwitchPreference(getActivity(), this, SettingsFragment.WAKE,

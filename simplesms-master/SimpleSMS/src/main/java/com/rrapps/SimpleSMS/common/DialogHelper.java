@@ -75,7 +75,7 @@ public class DialogHelper {
     public static void showChangelog(SimpleSMSActivity context) {
         context.showProgressDialog();
 
-        String url = "https://qksms-changelog.firebaseio.com/changes.json";
+        String url = "https://SimpleSMS-changelog.firebaseio.com/changes.json";
 
         StringRequest request = new StringRequest(url, response -> {
             Gson gson = new Gson();

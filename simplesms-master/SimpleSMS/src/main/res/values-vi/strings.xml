@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Bấm để xem</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK Compose</string>
+  <string name="quickcompose">SimpleSMS Compose</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Nhấn để gửi tin nhắn</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Chuyển đổi</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK Reply</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS Reply</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Trả lời tin nhắn nhanh hơn bao giờ hết.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Try it!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Wow! Now wasn\'t that awesome? You can view your entire conversation at a glance. Tap outside the popup or press the checkmark to dismiss it.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">This is QK Reply. Now you can reply to messages from anywhere. Tap the expand button to see what happens next :)</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">This is SimpleSMS Reply. Now you can reply to messages from anywhere. Tap the expand button to see what happens next :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Cài đặt</string>
   <!--Search option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Ngày nhận</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Bạn có thích QKSMS không?</string>
+  <string name="rate_title">Bạn có thích SimpleSMS không?</string>
   <!--Title for rate button-->
   <string name="rate_action">Đánh giá</string>
   <string name="pref_category_appearance">Hiển thị</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Âm thanh, đèn LED, bảo mật</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">Cấu hình MMS (APNs), kích thước tối đa, tin nhắn nhóm</string>
-  <string name="pref_category_quickreply">QK Reply</string>
-  <string name="pref_category_summary_quickreply">QK Reply, popup options</string>
-  <string name="pref_category_quickcompose">QK Compose</string>
-  <string name="pref_category_summary_quickcompose">QK Compose, starred contacts</string>
+  <string name="pref_category_quickreply">SimpleSMS Reply</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Reply, popup options</string>
+  <string name="pref_category_quickcompose">SimpleSMS Compose</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Compose, starred contacts</string>
   <string name="pref_category_about">Giới thiệu</string>
   <string name="pref_category_summary_about">Phiên bản, thay đổi, tác giả, cảm ơn</string>
   <string name="pref_theme">Màu chủ đề</string>
   <string name="pref_theme_summary_alt">Bấm để thay đổi chủ đề</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Nhuộm thanh trạng thái</string>
   <string name="pref_navigation_tint">Nhuộm thanh điều hướng</string>
   <string name="pref_background">Màu nền</string>
@@ -154,7 +154,7 @@
   <string name="pref_key_timestamp_delay">New timestamp delay</string>
   <string name="pref_key_timestamp_delay_summary">The number of minutes which must elapse between two messages in order for a new timestamp to be shown.</string>
   <string name="pref_compose_favorites">Địa chỉ liên hệ có gắn dấu sao</string>
-  <string name="pref_compose_summary_favorites">Show your starred contacts in the QK Compose window, making them only a tap away</string>
+  <string name="pref_compose_summary_favorites">Show your starred contacts in the SimpleSMS Compose window, making them only a tap away</string>
   <string name="pref_prox_sensor_call">Cảm biến tiệm cận</string>
   <string name="pref_prox_sensor_call_summary">Khi trong một cuộc trò chuyện, đưa điện thoại lên tai để bắt đầu một cuộc gọi</string>
   <string name="pref_delivery">Báo gửi</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Tự động kích hoạt chế độ ban đêm dựa vào thời gian</string>
   <string name="pref_day_start">Bắt đầu thời gian ban ngày</string>
   <string name="pref_night_start">Bắt đầu thời gian ban đêm</string>
-  <string name="pref_qk_responses">QK Responses</string>
+  <string name="pref_qk_responses">SimpleSMS Responses</string>
   <string name="pref_qk_responses_summary">Modify your preset responses to be used from your Android Wear device</string>
-  <string name="pref_quickreply_enabled">Đã kích hoạt QK Reply</string>
-  <string name="pref_quickreply_enabled_summary">Hiển thị của sổ QK Reply mỗi khi nhận được tin nhắn mới</string>
+  <string name="pref_quickreply_enabled">Đã kích hoạt SimpleSMS Reply</string>
+  <string name="pref_quickreply_enabled_summary">Hiển thị của sổ SimpleSMS Reply mỗi khi nhận được tin nhắn mới</string>
   <string name="pref_tap_to_quit">Chạm để bỏ qua</string>
   <string name="pref_tap_to_quit_summary">Chạm bất cứ chỗ nào bên ngoài cửa sổ để đóng nó</string>
-  <string name="pref_quickcompose">Đã kích hoạt QK Compose</string>
+  <string name="pref_quickcompose">Đã kích hoạt SimpleSMS Compose</string>
   <string name="pref_quickcompose_summary">Hiển thị thông báo cho phép bạn chạm để soạn tin nhắn mới</string>
   <string name="pref_mms_enabled">Đã kích hoạt MMS</string>
   <string name="pref_mms_enabled_summary">Cho phép gửi và nhận MMS</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Fixes issues caused by immersive mode, Tinted Status Bar (Xposed), or custom DPI settings</string>
   <string name="pref_navigation_compat">Sửa thanh điều hướng</string>
   <string name="pref_navigation_compat_summary">Fixes issues caused by immersive mode, Tinted Status Bar (Xposed), or custom DPI settings</string>
-  <string name="pref_about_version_title">Phiên bản QKSMS</string>
+  <string name="pref_about_version_title">Phiên bản SimpleSMS</string>
   <string name="pref_about_authors_title">Tác giả</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Chạm để xem các thay đổi</string>
   <string name="pref_about_thanks_title">Cảm ơn bạn</string>
   <string name="pref_about_thanks_summary">Chạm để xem những người có đóng góp</string>
   <string name="pref_donate_title">Quyên góp</string>
-  <string name="pref_donate_summary">QKSMS là ứng dụng miễn phí. Hãy hỗ trợ chúng tôi bằng các quyên góp!</string>
+  <string name="pref_donate_summary">SimpleSMS là ứng dụng miễn phí. Hãy hỗ trợ chúng tôi bằng các quyên góp!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Tham gia cộng đồng Thử Nghiệm QKSMS Beta trên Google+</string>
+  <string name="pref_about_gplus_summary">Tham gia cộng đồng Thử Nghiệm SimpleSMS Beta trên Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS là ứng dụng mã nguồn mở. Hãy đóng góp và báo lỗi trên GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS là ứng dụng mã nguồn mở. Hãy đóng góp và báo lỗi trên GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Tham gia dự án dịch QKSMS trên Crowdin</string>
+  <string name="pref_about_crowdin_summary">Tham gia dự án dịch SimpleSMS trên Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Chủ đề</string>
   <!--Preference subcategory-->
@@ -300,7 +300,7 @@
   <string name="title_changelog">Các thay đổi</string>
   <string name="title_picker">Tin nhắn mới</string>
   <string name="title_donate">Quyên tặng</string>
-  <string name="title_qk_responses">QK Responses</string>
+  <string name="title_qk_responses">SimpleSMS Responses</string>
   <string name="title_block_address">Chặn số điện thoại</string>
   <string name="title_unblock_address">Bỏ chặn số điện thoại</string>
   <string name="title_conversations_selected">Đã chọn %s</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Báo cáo</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Những thay đổi này sẽ có hiệu lực trong lần tiếp theo bạn mở QKSMS</string>
+  <string name="restart_message">Những thay đổi này sẽ có hiệu lực trong lần tiếp theo bạn mở SimpleSMS</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Xóa cuộc hội thoại</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">Chưa đặt APNs</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">It appears that your APNs have not been set. This means that MMS will not work properly. Please press okay to have QKSMS find them for you :)</string>
+  <string name="apns_not_set_description">It appears that your APNs have not been set. This means that MMS will not work properly. Please press okay to have SimpleSMS find them for you :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Cài đặt MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in QKSMS yet. Press okay automatically configure MMS.</string>
+  <string name="set_up_mms_description">It appears that MMS hasn\'t been configured in SimpleSMS yet. Press okay automatically configure MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Tin nhắn của bạn sẽ bị loại bỏ vì không có người nhận hợp lệ.</string>
   <string name="invalid_code">Mã không hợp lệ</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Trả lời</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Trả lời bằng QKSMS</string>
+  <string name="reply_SimpleSMS">Trả lời bằng SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Đã đọc</string>
   <!--Notification action to mark a message as read-->
@@ -529,20 +529,20 @@
   <string name="no_conversations">Không có cuộc hội thoại nào.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Đang tải các cuộc hội thoại.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">SMS mặc định</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS cần phải là ứng dụng nhắn tin SMS của bạn để làm điều đó</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS cần phải là ứng dụng nhắn tin SMS của bạn để đánh dáu thư đã đọc</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS must be your SMS app to mark messages unread</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS cần phải là ứng dụng nhắn tin SMS của bạn để xóa tin nhắn</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS cần phải là ứng dụng nhắn tin SMS của bạn để gửi tin nhắn</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Một số thứ sẽ không hoạt động cho đến khi QKSMS là ứng dụng nhắn tin mặc định</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">SimpleSMS cần phải là ứng dụng nhắn tin SMS của bạn để làm điều đó</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">SimpleSMS cần phải là ứng dụng nhắn tin SMS của bạn để đánh dáu thư đã đọc</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">SimpleSMS must be your SMS app to mark messages unread</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">SimpleSMS cần phải là ứng dụng nhắn tin SMS của bạn để xóa tin nhắn</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">SimpleSMS cần phải là ứng dụng nhắn tin SMS của bạn để gửi tin nhắn</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Một số thứ sẽ không hoạt động cho đến khi SimpleSMS là ứng dụng nhắn tin mặc định</string>
   <string name="delayed_messaging_info">Hoãn gửi tin nhắn cho phép bạn hủy tin nhắn trước khi gửi nó. Thay đổi hành vi mặc định và nhiều hơn ở Cài đặt</string>
   <string name="delayed_duration_bounds_error">Thời gian phải từ 1 đến 30 giây</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -552,7 +552,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Cập nhật màu sắc icon</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Chi tiết cuộc trò chuyện</string>
   <string name="dialog_conversation_details_last_message_date">Ngày tin nhắn cuối cùng</string>
   <string name="dialog_conversation_details_message_count">Số lượng tin nhắn</string>
@@ -609,7 +609,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Cảm ơn bạn đã quyên góp! Tôi yêu bạn.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Cảm ơn bạn đã quyên góp! Bạn đang giúp QKSMS trở thành ứng dụng nhắn tin tuyệt vời nhất từng được tạo ra.</string>
+  <string name="thanks_3">Cảm ơn bạn đã quyên góp! Bạn đang giúp SimpleSMS trở thành ứng dụng nhắn tin tuyệt vời nhất từng được tạo ra.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Cảm ơn bạn đã quyên góp! Bạn thật tuyệt với.</string>
   <!--Menu option to mute conversation-->
@@ -637,10 +637,10 @@
   <string name="attachment_camera_error">Không thể mở được máy ảnh</string>
   <string name="pref_max_mms_attachment_size">Kích thước tệp tin đính kèm MMS tối đa</string>
   <string name="error_no_recipients">Chọn một số liên hệ để gửi tin nhắn này!</string>
-  <string name="error_file_not_found">QKSMS không thể truy cập tệp tin bạn đang cố gắng chia sẻ!</string>
+  <string name="error_file_not_found">SimpleSMS không thể truy cập tệp tin bạn đang cố gắng chia sẻ!</string>
   <string name="sending_blocked_welcome_screen_message">Chờ đã! Bạn sẽ được gửi tin nhắn thật một lúc nữa!</string>
   <string name="notification_colored_icon_ready">Chạm để thêm vào launcher của bạn từ màn hình chủ.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS colored icon is ready</string>
+  <string name="notification_title_colored_icon_ready">SimpleSMS colored icon is ready</string>
   <string name="icon_ready">Icon mới của bạn đã sẵn sàng!</string>
   <string name="icon_ready_message">Bây giờ bạn có thể thêm lại nó vào màn hình chủ của bạn với màu sắc đã được cập nhật.</string>
   <string name="dont_ask_again">Không hỏi lại</string>
@@ -648,7 +648,7 @@
   <string name="stagefright_warning">Tin nhắn video có thể chứa mã độc khiến điện thoại của bạn dễ bị tấn công. Bạn có muốn tiếp tục không?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">Cài đặt MMS?</string>
-  <string name="mms_setup_set_up_mms_body">Chúng tôi thấy rằng MMS chưa được cài đặt trong QKSMS. Nhấp Ok để tự động cấu hình MMS.</string>
+  <string name="mms_setup_set_up_mms_body">Chúng tôi thấy rằng MMS chưa được cài đặt trong SimpleSMS. Nhấp Ok để tự động cấu hình MMS.</string>
   <string name="mms_setup_setting_up_later_title">Cài đặt MMS sau</string>
   <string name="mms_setup_setting_up_later_body">Truy cập phần MMS trong Cài đặt để tự động cấu hình, liên hệ hỗ trợ, hoặc nhập cấu hình riêng của bạn.</string>
   <string name="mms_setup_no_configurations_found_title">Không tìm thấy cấu hình nào</string>
@@ -667,7 +667,7 @@
   <string name="pref_mms_contact_support">Liên hệ hỗ trợ</string>
   <string name="pref_category_sending_mms">Đang gửi MMS</string>
   <string name="pref_category_mms_configuration">Cấu hình MMS</string>
-  <string name="pref_mms_contact_support_summary">Liên hệ nhóm QKSMS để được giúp đỡ cấu hình MMS</string>
+  <string name="pref_mms_contact_support_summary">Liên hệ nhóm SimpleSMS để được giúp đỡ cấu hình MMS</string>
   <string name="pref_markdown_enabled">Định dạng văn bản</string>
   <string name="pref_markdown_enabled_summary">Use markdown syntax to get bold, underline, and italics in your messages</string>
   <string name="want_read_indicators">Want read indicators?</string>

@@ -9,8 +9,8 @@ import android.preference.PreferenceManager;
 import android.util.Log;
 
 /**
- * The QKSMS icon color can be changed. When it's changed, the QKSMS app must be closed. This
- * Receiver received the system broadcast that a package has changed, and re-launches QKSMS.
+ * The SimpleSMS icon color can be changed. When it's changed, the SimpleSMS app must be closed. This
+ * Receiver received the system broadcast that a package has changed, and re-launches SimpleSMS.
  */
 public class IconColorReceiver extends BroadcastReceiver {
     private static final String TAG = "IconColorReceiver";
@@ -20,14 +20,14 @@ public class IconColorReceiver extends BroadcastReceiver {
      * Broadcast this intent when the user has changed the icon.
      */
     public static final String ACTION_ICON_COLOR_CHANGED =
-            "com.rrappsQKSMS.action.PENDING_PACKAGE_CHANGE";
+            "com.rrapps.SimpleSMS.action.PENDING_PACKAGE_CHANGE";
 
     /**
      * When ACTION_ICON_COLOR_CHANGED is broadcast, make sure to add the component name to the
      * intent so that we can restart the app here.
      */
     public static final String EXTRA_COMPONENT_NAME =
-            "com.rrappsQKSMS.extra.EXTRA_COMPONENT_NAME";
+            "com.rrapps.SimpleSMS.extra.EXTRA_COMPONENT_NAME";
 
     /**
      * Non-null to specify the activity we need to start when we next receive an
@@ -43,7 +43,7 @@ public class IconColorReceiver extends BroadcastReceiver {
      * icon!"
      */
     public static final String EXTRA_ICON_COLOR_CHANGED =
-            "com.rrappsQKSMS.extra.EXTRA_ICON_COLOR_CHANGED";
+            "com.rrapps.SimpleSMS.extra.EXTRA_ICON_COLOR_CHANGED";
 
     @Override
     public void onReceive(Context context, Intent intent) {

@@ -7,10 +7,10 @@
 -keep class android.location.** { *; }
 
 #
-# See com.rrappsQKSMS.ui.mms.PresenterFactory---it uses reflect
+# See com.rrapps.SimpleSMS.ui.mms.PresenterFactory---it uses reflect
 #
--keep class com.rrappsQKSMS.ui.mms.MmsThumbnailPresenter { *; }
--keep class com.rrappsQKSMS.ui.mms.SlideshowPresenter { *; }
+-keep class com.rrapps.SimpleSMS.ui.mms.MmsThumbnailPresenter { *; }
+-keep class com.rrapps.SimpleSMS.ui.mms.SlideshowPresenter { *; }
 -keep class com.android.internal.util.ArrayUtils { *; }
 
 #
@@ -97,3 +97,4 @@
 # RetroLambda
 # https://github.com/evant/gradle-retrolambda
 -dontwarn java.lang.invoke.*
+-dontwarn android.support.v4.**

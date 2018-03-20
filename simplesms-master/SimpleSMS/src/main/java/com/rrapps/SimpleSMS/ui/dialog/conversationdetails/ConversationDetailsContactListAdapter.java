@@ -8,7 +8,7 @@ import com.rrapps.SimpleSMS.R;
 import com.rrapps.SimpleSMS.data.Contact;
 import com.rrapps.SimpleSMS.data.ContactList;
 import com.rrapps.SimpleSMS.ui.view.AvatarView;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 public class ConversationDetailsContactListAdapter extends ArrayAdapter {
 
@@ -53,13 +53,13 @@ public class ConversationDetailsContactListAdapter extends ArrayAdapter {
 
     static class ViewHolder {
         AvatarView avatar;
-        QKTextView name;
-        QKTextView address;
+        SimpleSMSTextView name;
+        SimpleSMSTextView address;
 
         public ViewHolder(View view) {
             avatar = (AvatarView) view.findViewById(R.id.avatar);
-            name = (QKTextView) view.findViewById(R.id.name);
-            address = (QKTextView) view.findViewById(R.id.address);
+            name = (SimpleSMSTextView) view.findViewById(R.id.name);
+            address = (SimpleSMSTextView) view.findViewById(R.id.address);
         }
     }
 }

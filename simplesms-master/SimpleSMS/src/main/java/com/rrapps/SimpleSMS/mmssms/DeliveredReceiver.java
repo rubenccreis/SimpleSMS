@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 QK Labs
+ * Copyright (C) 2015 SimpleSMS Labs
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -109,6 +109,6 @@ public class DeliveredReceiver extends BroadcastReceiver {
                 break;
         }
 
-        context.sendBroadcast(new Intent("com.rrappsQKSMS.send_message.REFRESH"));
+        context.sendBroadcast(new Intent("com.rrapps.SimpleSMS.send_message.REFRESH"));
     }
 }

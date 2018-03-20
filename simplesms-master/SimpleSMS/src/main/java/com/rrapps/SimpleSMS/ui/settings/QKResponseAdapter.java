@@ -8,7 +8,7 @@ import android.widget.ArrayAdapter;
 
 import com.rrapps.SimpleSMS.R;
 import com.rrapps.SimpleSMS.ui.view.QKEditText;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +29,7 @@ public  class QKResponseAdapter extends ArrayAdapter<String> {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.list_item_qk_response, null);
 
             vh = new ViewHolder();
-            vh.mResponseIndex = (QKTextView) convertView.findViewById(R.id.response_index);
+            vh.mResponseIndex = (SimpleSMSTextView) convertView.findViewById(R.id.response_index);
             vh.mResponse = (QKEditText) convertView.findViewById(R.id.response);
             convertView.setTag(vh);
         } else {
@@ -62,6 +62,6 @@ public  class QKResponseAdapter extends ArrayAdapter<String> {
 
 class ViewHolder {
     int position;
-    QKTextView mResponseIndex;
+    SimpleSMSTextView mResponseIndex;
     QKEditText mResponse;
 }

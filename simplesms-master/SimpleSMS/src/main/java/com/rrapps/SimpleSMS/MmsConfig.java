@@ -38,7 +38,7 @@ public class MmsConfig {
     public static final String DEFAULT_HTTP_KEY_X_WAP_PROFILE = "x-wap-profile";
     public static final String DEFAULT_USER_AGENT = "Android-Mms/2.0";
 
-    private static final String MMS_APP_PACKAGE = "com.rrappsQKSMS";
+    private static final String MMS_APP_PACKAGE = "com.rrapps.SimpleSMS";
 
     private static final String SMS_PROMO_DISMISSED_KEY = "sms_promo_dismissed_key";
 

@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Tik om te bekijken</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK Compose</string>
+  <string name="quickcompose">SimpleSMS Compose</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Klik om bericht te verzenden</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Probeer me</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK Reply</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS Reply</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Antwoord sneller dan ooit op berichten.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Probeer het uit!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Wow! Was dat niet geweldig? Je kan het volledige gesprek zien in een oogwenk. Klik buiten de popup of op het vinkje om te sluiten.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">Dit is QK Reply. Nu kan je van overal antwoorden. Klik op de uitbreidknop om te zien wat er gebeurt.</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">Dit is SimpleSMS Reply. Nu kan je van overal antwoorden. Klik op de uitbreidknop om te zien wat er gebeurt.</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Instellingen</string>
   <!--Search option in menu-->
@@ -77,7 +77,7 @@
   <!--Delete a message option in menu-->
   <string name="menu_delete">Verwijder</string>
   <!--Donate option in menu-->
-  <string name="menu_billing">QKSMS+</string>
+  <string name="menu_billing">SimpleSMS+</string>
   <!--Copy text option in menu-->
   <string name="menu_copy">Kopieer tekst</string>
   <!--Changelog option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Datum ontvangen</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Vind je QKSMS leuk?</string>
+  <string name="rate_title">Vind je SimpleSMS leuk?</string>
   <!--Title for rate button-->
   <string name="rate_action">Beoordelen</string>
   <string name="pref_category_appearance">Uiterlijk</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Geluiden, LED, privacy</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">Configureer MMS (APNs), maximum grootte, groepsgesprekken</string>
-  <string name="pref_category_quickreply">QK Reply</string>
-  <string name="pref_category_summary_quickreply">QK Reply, popup voorkeuren</string>
-  <string name="pref_category_quickcompose">QK Compose</string>
-  <string name="pref_category_summary_quickcompose">QK Compose, favoriete contacten</string>
+  <string name="pref_category_quickreply">SimpleSMS Reply</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Reply, popup voorkeuren</string>
+  <string name="pref_category_quickcompose">SimpleSMS Compose</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Compose, favoriete contacten</string>
   <string name="pref_category_about">Over</string>
   <string name="pref_category_summary_about">Versie, changelog, auteurs, bedankingen</string>
   <string name="pref_theme">Themakleur</string>
   <string name="pref_theme_summary_alt">Klik om thema te veranderen</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Gekleurde statusbalk</string>
   <string name="pref_navigation_tint">Gekleurde navigatiebalk</string>
   <string name="pref_background">Achtergrondkleur</string>
@@ -154,7 +154,7 @@
   <string name="pref_key_timestamp_delay">New timestamp delay</string>
   <string name="pref_key_timestamp_delay_summary">The number of minutes which must elapse between two messages in order for a new timestamp to be shown.</string>
   <string name="pref_compose_favorites">Favoriete contacten</string>
-  <string name="pref_compose_summary_favorites">Toon uw favoriete contacten in QK Compose, zo zijn ze maar een tik van u vandaan</string>
+  <string name="pref_compose_summary_favorites">Toon uw favoriete contacten in SimpleSMS Compose, zo zijn ze maar een tik van u vandaan</string>
   <string name="pref_prox_sensor_call">Nabijheidssensor</string>
   <string name="pref_prox_sensor_call_summary">In een gesprek, breng de telefoon naar je oor om te bellen</string>
   <string name="pref_delivery">Ontvangstbevestigingen</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Schakel op een bepaald tijdstip over naar nachtmodus</string>
   <string name="pref_day_start">Dag begint om</string>
   <string name="pref_night_start">Nacht begint om</string>
-  <string name="pref_qk_responses">QK Responses</string>
+  <string name="pref_qk_responses">SimpleSMS Responses</string>
   <string name="pref_qk_responses_summary">Wijzig de antwoorden voor Android Wear</string>
-  <string name="pref_quickreply_enabled">QK Reply ingeschakeld</string>
-  <string name="pref_quickreply_enabled_summary">Toon QK Reply popup wanneer een nieuw bericht is ontvangen</string>
+  <string name="pref_quickreply_enabled">SimpleSMS Reply ingeschakeld</string>
+  <string name="pref_quickreply_enabled_summary">Toon SimpleSMS Reply popup wanneer een nieuw bericht is ontvangen</string>
   <string name="pref_tap_to_quit">Tik om te negeren</string>
   <string name="pref_tap_to_quit_summary">Tik buiten het venster om te negeren</string>
-  <string name="pref_quickcompose">QK Compose ingeschakeld</string>
+  <string name="pref_quickcompose">SimpleSMS Compose ingeschakeld</string>
   <string name="pref_quickcompose_summary">Laat melding zien die u toelaat om een nieuw bericht aan te maken</string>
   <string name="pref_mms_enabled">MMS ingeschakeld</string>
   <string name="pref_mms_enabled_summary">Schakel verzenden en ontvangen van MMS in</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Corrigeert problemen veroorzaakt door immersieve modus, gekleurde statusbalk (Xposed), of aangepaste DPI-instellingen</string>
   <string name="pref_navigation_compat">Navigatie balk fix</string>
   <string name="pref_navigation_compat_summary">Corrigeert problemen veroorzaakt door immersieve modus, gekleurde statusbalk (Xposed), of aangepaste DPI-instellingen</string>
-  <string name="pref_about_version_title">QKSMS versie</string>
+  <string name="pref_about_version_title">SimpleSMS versie</string>
   <string name="pref_about_authors_title">Ontwikkelaars</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Tik om changelog te bekijken</string>
   <string name="pref_about_thanks_title">Bedankt</string>
   <string name="pref_about_thanks_summary">Tik om open source bijdragers te zien</string>
   <string name="pref_donate_title">Doneren</string>
-  <string name="pref_donate_summary">QKSMS is vrije software. Ondersteun ons met een donatie!</string>
+  <string name="pref_donate_summary">SimpleSMS is vrije software. Ondersteun ons met een donatie!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Word lid van de QKSMS Beta Testing community op Google+</string>
+  <string name="pref_about_gplus_summary">Word lid van de SimpleSMS Beta Testing community op Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open-source. Draag bij en rapporteer problemen op GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS is open-source. Draag bij en rapporteer problemen op GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Word lid van het vertaalproject van QKSMS op Crowdin</string>
+  <string name="pref_about_crowdin_summary">Word lid van het vertaalproject van SimpleSMS op Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Thema</string>
   <!--Preference subcategory-->
@@ -299,8 +299,8 @@
   <string name="title_blocked">Geblokkeerd</string>
   <string name="title_changelog">Historiek wijzigingen</string>
   <string name="title_picker">Nieuwe berichten</string>
-  <string name="title_donate">QKSMS+</string>
-  <string name="title_qk_responses">QK Responses</string>
+  <string name="title_donate">SimpleSMS+</string>
+  <string name="title_qk_responses">SimpleSMS Responses</string>
   <string name="title_block_address">Blokkeer nummer</string>
   <string name="title_unblock_address">Deblokkeer nummer</string>
   <string name="title_conversations_selected">%s geselecteerd</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Verslag</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Deze wijzigingen zullen van kracht zijn de volgende keer dat QKSMS geopend wordt</string>
+  <string name="restart_message">Deze wijzigingen zullen van kracht zijn de volgende keer dat SimpleSMS geopend wordt</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Verwijder gesprekken</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN\'s niet ingesteld</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Het lijkt er op dat uw APN\'s niet zijn ingesteld. De MMS-functie zal niet goed werken. Druk op ok om QKSMS ze te laten zoeken :)</string>
+  <string name="apns_not_set_description">Het lijkt er op dat uw APN\'s niet zijn ingesteld. De MMS-functie zal niet goed werken. Druk op ok om SimpleSMS ze te laten zoeken :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">MMS instellen?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Blijkbaar is MMS nog niet ingesteld in QKSMS, tik op Oke om in te stellen.</string>
+  <string name="set_up_mms_description">Blijkbaar is MMS nog niet ingesteld in SimpleSMS, tik op Oke om in te stellen.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Geen geldige ontvanger. Bericht wordt verwijderd.</string>
   <string name="invalid_code">Ongeldige code</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Beantwoorden</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Beantwoorden met QKSMS</string>
+  <string name="reply_SimpleSMS">Beantwoorden met SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Gelezen</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Geen gesprekken.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Gesprekken laden.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">Standaard SMS app</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS moet uw standaard SMS-app zijn om dat te doen</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS moet uw standaard SMS-app zijn om berichten als gelezen te markeren</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS moet uw standaard SMS-app zijn om berichten als ongelezen te markeren</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS moet uw standaard SMS-app zijn om berichten te verwijderen</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS moet uw standaard SMS-app zijn om berichten te verzenden</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Sommige dingen zullen niet werken totdat QKSMS uw standaard SMS-app is</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">SimpleSMS moet uw standaard SMS-app zijn om dat te doen</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">SimpleSMS moet uw standaard SMS-app zijn om berichten als gelezen te markeren</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">SimpleSMS moet uw standaard SMS-app zijn om berichten als ongelezen te markeren</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">SimpleSMS moet uw standaard SMS-app zijn om berichten te verwijderen</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">SimpleSMS moet uw standaard SMS-app zijn om berichten te verzenden</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Sommige dingen zullen niet werken totdat SimpleSMS uw standaard SMS-app is</string>
   <string name="delayed_messaging_info">Vertraagd verzenden stelt u in staat berichten te annuleren. Meer info bij de instellingen</string>
   <string name="delayed_duration_bounds_error">Duur moet 1 en 30 seconden zijn</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Pictogram kleur bijwerken</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Gespreksdetails</string>
   <string name="dialog_conversation_details_last_message_date">Datum van laatste bericht</string>
   <string name="dialog_conversation_details_message_count">Aantal berichten</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Bedankt voor de donatie! Ik hou van jou.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Bedankt voor het doneren! U helpt QKSMS om de beste SMS app te worden die ooit gemaakt werd.</string>
+  <string name="thanks_3">Bedankt voor het doneren! U helpt SimpleSMS om de beste SMS app te worden die ooit gemaakt werd.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Bedankt voor de donatie! Je bent geweldig.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">De camera kon niet worden geopend</string>
   <string name="pref_max_mms_attachment_size">Maximum grootte van MMS-bijlage</string>
   <string name="error_no_recipients">Selecteer contacten om dit bericht naar te zenden!</string>
-  <string name="error_file_not_found">QKSMS heeft geen toegang tot dit bestand!</string>
+  <string name="error_file_not_found">SimpleSMS heeft geen toegang tot dit bestand!</string>
   <string name="sending_blocked_welcome_screen_message">Wacht even! Je gaat dadelijk echte berichten versturen!</string>
   <string name="notification_colored_icon_ready">Klik om toe te voegen aan het startscherm.</string>
-  <string name="notification_title_colored_icon_ready">QKSMS gekleurd icoon is klaar</string>
+  <string name="notification_title_colored_icon_ready">SimpleSMS gekleurd icoon is klaar</string>
   <string name="icon_ready">Je nieuw icoon is klaar!</string>
   <string name="icon_ready_message">Je kan het nu toevoegen aan je beginscherm met de nieuwe kleur.</string>
   <string name="dont_ask_again">Niet opnieuw vragen</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Support contacteren</string>
   <string name="pref_category_sending_mms">MMS verzenden</string>
   <string name="pref_category_mms_configuration">MMS configuratie</string>
-  <string name="pref_mms_contact_support_summary">Contacteer het QKSMS team voor hulp om MMS werkend te krijgen</string>
+  <string name="pref_mms_contact_support_summary">Contacteer het SimpleSMS team voor hulp om MMS werkend te krijgen</string>
   <string name="pref_markdown_enabled">Tekstopmaak</string>
   <string name="pref_markdown_enabled_summary">Gebruik markdown syntax om vetgedrukte, onderlijnde of schuine tekst in uw berichten te gebruiken</string>
   <string name="want_read_indicators">Wil je de indicators lezen?</string>

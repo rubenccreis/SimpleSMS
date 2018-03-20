@@ -11,7 +11,7 @@ import com.rrapps.SimpleSMS.transaction.SmsHelper;
 import java.util.ArrayList;
 
 // We have this in a service beacause depending on the number of messages and the device, it can be
-// slow. We don't want to leave the QK Reply window open while it's marking as read, so we let a
+// slow. We don't want to leave the SimpleSMS Reply window open while it's marking as read, so we let a
 // service execute the code and we can shut down the activity. Otherwise it'll look like the app it
 // just lagging.
 public class DeleteUnreadMessageService extends IntentService {

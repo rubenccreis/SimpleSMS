@@ -44,12 +44,14 @@
                 android:gravity="right"
                 android:orientation="vertical">
 
-                <com.rrapps.SimpleSMS.ui.view.QKTextView
+                <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
                     android:id="@+id/text_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:autoLink="all"
                     android:background="@drawable/message_sent_2"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
                     android:gravity="center_vertical"
                     android:linksClickable="true"
                     app:type="primary" />
@@ -94,7 +96,7 @@
                 android:gravity="left"
                 android:orientation="horizontal">
 
-                <com.rrapps.SimpleSMS.ui.view.QKTextView
+                <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
                     android:id="@+id/date_view"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"

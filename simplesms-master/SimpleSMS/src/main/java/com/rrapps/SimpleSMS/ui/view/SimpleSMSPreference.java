@@ -11,11 +11,11 @@ import com.rrapps.SimpleSMS.R;
  * Regular android preferences don't have basic functionality when you manually add them to views
  * other than preferencegroups, this just cleans up some boilerplate code to set ours up
  */
-public class QKPreference extends Preference {
+public class SimpleSMSPreference extends Preference {
 
     private OnPreferenceClickListener mOnPreferenceClickListener;
 
-    public QKPreference(Context context, OnPreferenceClickListener onPreferenceClickListener, String key, int title, int summary) {
+    public SimpleSMSPreference(Context context, OnPreferenceClickListener onPreferenceClickListener, String key, int title, int summary) {
         super(context);
         mOnPreferenceClickListener = onPreferenceClickListener;
 
@@ -41,7 +41,7 @@ public class QKPreference extends Preference {
             @Override
             public void onClick(View v) {
                 if (mOnPreferenceClickListener != null) {
-                    mOnPreferenceClickListener.onPreferenceClick(QKPreference.this);
+                    mOnPreferenceClickListener.onPreferenceClick(SimpleSMSPreference.this);
                 }
             }
         });

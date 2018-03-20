@@ -99,8 +99,8 @@ public class MainActivity extends SimpleSMSActivity {
         });
 
         //Adds a small/non intrusive snackbar that asks the user to rate the app
-        SnackEngage.from(this).withSnack(new SimpleSMSRateSnack().withDuration(BaseSnack.DURATION_LONG))
-                .build().engageWhenAppropriate();
+        /*SnackEngage.from(this).withSnack(new SimpleSMSRateSnack().withDuration(BaseSnack.DURATION_LONG))
+                .build().engageWhenAppropriate();*/
 
         DeleteOldMessagesService.setupAutoDeleteAlarm(this);
     }
@@ -173,9 +173,9 @@ public class MainActivity extends SimpleSMSActivity {
             case android.R.id.home:
                 onKeyUp(KeyEvent.KEYCODE_BACK, null);
                 return true;
-            case R.id.menu_search:
+            /*case R.id.menu_search:
                 startActivity(SearchActivity.class);
-                return true;
+                return true;*/
         }
 
         return super.onOptionsItemSelected(item);

@@ -18,7 +18,7 @@ public class DeliveredReceiver extends com.rrapps.SimpleSMS.mmssms.DeliveredRece
         switch (getResultCode()) {
             case Activity.RESULT_OK:
                 if (PreferenceManager.getDefaultSharedPreferences(context).getBoolean(SettingsFragment.DELIVERY_TOAST, true)) {
-                    Toast.makeText(context, R.string.message_delivered, Toast.LENGTH_LONG).show();
+                    Toast.makeText(context, context.getString(R.string.message_delivered) + ": " + intent.getStringExtra("contact_name"), Toast.LENGTH_LONG).show();
                 }
 
                 if (PreferenceManager.getDefaultSharedPreferences(context).getBoolean(SettingsFragment.DELIVERY_VIBRATE, true)) {

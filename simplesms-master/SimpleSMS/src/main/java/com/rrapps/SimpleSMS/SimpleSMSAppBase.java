@@ -59,7 +59,7 @@ public class SimpleSMSAppBase extends MultiDexApplication {
     private SearchRecentSuggestions mRecentSuggestions;
     private TelephonyManager mTelephonyManager;
     private String mCountryIso;
-    private static SimpleSMSAppBase sQKSMSApp = null;
+    private static SimpleSMSAppBase sSimpleSMSApp = null;
     private static RequestQueue sRequestQueue;
     private PduLoaderManager mPduLoaderManager;
     private ThumbnailManager mThumbnailManager;
@@ -78,7 +78,7 @@ public class SimpleSMSAppBase extends MultiDexApplication {
                     new StrictMode.ThreadPolicy.Builder().detectAll().penaltyLog().build());
         }
 
-        sQKSMSApp = this;
+        sSimpleSMSApp = this;
 
         loadDefaultPreferenceValues();
 
@@ -135,7 +135,7 @@ public class SimpleSMSAppBase extends MultiDexApplication {
     }
 
     synchronized public static SimpleSMSAppBase getApplication() {
-        return sQKSMSApp;
+        return sSimpleSMSApp;
     }
 
     public RequestQueue getRequestQueue() {

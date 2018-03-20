@@ -47,13 +47,13 @@
             android:layout_height="wrap_content"
             android:animateLayoutChanges="true">
 
-            <com.rrapps.SimpleSMS.ui.view.QKTextView
+            <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
                 android:id="@+id/conversation_list_name"
                 style="@style/TextPrimary"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:singleLine="true"
-                tools:text="Moez Bhatti" />
+                tools:text="Rúben Reis" />
 
             <View
                 android:layout_width="0dp"
@@ -61,7 +61,7 @@
                 android:layout_weight="1"
                 android:minWidth="16dp" />
 
-            <com.rrapps.SimpleSMS.ui.view.QKTextView
+            <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
                 android:id="@+id/conversation_list_date"
                 style="@style/TextTertiary"
                 android:layout_width="wrap_content"
@@ -76,7 +76,7 @@
             android:animateLayoutChanges="true"
             android:gravity="top">
 
-            <com.rrapps.SimpleSMS.ui.view.QKTextView
+            <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
                 android:id="@+id/conversation_list_snippet"
                 style="@style/TextSecondary"
                 android:layout_width="0dp"

@@ -55,8 +55,8 @@ public class NotificationManager {
     private static final int NOTIFICATION_ID_QUICKCOMPOSE = 4516;
     private static final int NOTIFICATION_ID_FAILED = 4295;
 
-    public static final String ACTION_MARK_READ = "com.rrappsQKSMS.MARK_READ";
-    public static final String ACTION_MARK_SEEN = "com.rrappsQKSMS.MARK_SEEN";
+    public static final String ACTION_MARK_READ = "com.rrapps.SimpleSMS.MARK_READ";
+    public static final String ACTION_MARK_SEEN = "com.rrapps.SimpleSMS.MARK_SEEN";
 
     private static final String DEFAULT_RINGTONE = "content://settings/system/notification_sound";
 
@@ -198,7 +198,7 @@ public class NotificationManager {
                                 builder.setTicker(String.format("%s: %s", lastMessage.mContact, sRes.getString(R.string.new_message)));
                                 break;
                             case 2:
-                                builder.setTicker(String.format("%s: %s", "QKSMS", sRes.getString(R.string.new_message)));
+                                builder.setTicker(String.format("%s: %s", "SimpleSMS", sRes.getString(R.string.new_message)));
                                 break;
                         }
                     }
@@ -337,7 +337,7 @@ public class NotificationManager {
                             inboxStyle.addLine(Html.fromHtml("<strong>" + message.getName() + "</strong> " + sRes.getString(R.string.new_message)));
                             break;
                         case 2:
-                            inboxStyle.addLine(Html.fromHtml("<strong>" + "QKSMS" + "</strong> " + sRes.getString(R.string.new_message)));
+                            inboxStyle.addLine(Html.fromHtml("<strong>" + "SimpleSMS" + "</strong> " + sRes.getString(R.string.new_message)));
                             break;
                     }
                 }
@@ -496,7 +496,7 @@ public class NotificationManager {
                 break;
             case 2: //Hide sender & message
                 body = sRes.getString(R.string.new_message);
-                title = "QKSMS";
+                title = "SimpleSMS";
                 break;
             default:
                 body = message.mBody;
@@ -594,7 +594,7 @@ public class NotificationManager {
         String notificationTitle = message.mContact;
 
         if (!(privateNotifications == 0)) inboxStyle = null;
-        if (privateNotifications == 2) notificationTitle = "QKSMS";
+        if (privateNotifications == 2) notificationTitle = "SimpleSMS";
 
         int unreadMessageCount = SmsHelper.getUnreadMessageCount(context);
         builder.setContentTitle(notificationTitle)
@@ -673,9 +673,9 @@ public class NotificationManager {
     }
 
     /**
-     * Set up the QK Compose notification
+     * Set up the SimpleSMS Compose notification
      *
-     * @param override       If true, then show the QK Compose notification regardless of the user's preference
+     * @param override       If true, then show the SimpleSMS Compose notification regardless of the user's preference
      * @param overrideCancel If true, dismiss the notification no matter what
      */
     public static void initQuickCompose(Context context, boolean override, boolean overrideCancel) {

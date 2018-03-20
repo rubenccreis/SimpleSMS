@@ -31,7 +31,7 @@
   <!--Text shown under failed message count-->
   <string name="failed_messages_summary">Tryk for at vise</string>
   <!--QuickCompose notification title-->
-  <string name="quickcompose">QK Compose</string>
+  <string name="quickcompose">SimpleSMS Compose</string>
   <!--QuickCompose notification text-->
   <string name="quickcompose_detail">Tryk for at sende en besked</string>
   <!--Welcome screen intro button-->
@@ -49,15 +49,15 @@
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_night_hint">Slå til eller fra</string>
   <!--Tells user to press button to toggle night mode-->
-  <string name="welcome_quickreply_title">QK Reply</string>
-  <!--QK Reply explanation-->
+  <string name="welcome_quickreply_title">SimpleSMS Reply</string>
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Besvar beskeder hurtigere end nogensinde.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Prøv det!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Wow! Var det ikke sejt? Du kan se hele samtalen på et øjeblik. Tryk udenfor popup-boksen eller tryk på fluebenet for at afvise den.</string>
-  <!--QK Reply demo message-->
-  <string name="welcome_quickreply_message_2">Dette er QK Reply. Nu kan du besvare beskeder hvor som helst fra. Tryk på udvidelses-knappen for at se hvad der sker bagefter :)</string>
+  <!--SimpleSMS Reply demo message-->
+  <string name="welcome_quickreply_message_2">Dette er SimpleSMS Reply. Nu kan du besvare beskeder hvor som helst fra. Tryk på udvidelses-knappen for at se hvad der sker bagefter :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Indstillinger</string>
   <!--Search option in menu-->
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Dato modtaget</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Kan du lide QKSMS?</string>
+  <string name="rate_title">Kan du lide SimpleSMS?</string>
   <!--Title for rate button-->
   <string name="rate_action">Bedøm</string>
   <string name="pref_category_appearance">Udseende</string>
@@ -111,16 +111,16 @@
   <string name="pref_category_summary_notifications">Lyde, LED, privatliv</string>
   <string name="pref_category_mms">MMS</string>
   <string name="pref_category_summary_mms">Konfigurer MMS (APN), max størrelse, gruppebeskeder</string>
-  <string name="pref_category_quickreply">QK Reply</string>
-  <string name="pref_category_summary_quickreply">QK Reply, popup-indstillinger</string>
-  <string name="pref_category_quickcompose">QK Compose</string>
-  <string name="pref_category_summary_quickcompose">QK Compose, stjernemarkerede kontakter</string>
+  <string name="pref_category_quickreply">SimpleSMS Reply</string>
+  <string name="pref_category_summary_quickreply">SimpleSMS Reply, popup-indstillinger</string>
+  <string name="pref_category_quickcompose">SimpleSMS Compose</string>
+  <string name="pref_category_summary_quickcompose">SimpleSMS Compose, stjernemarkerede kontakter</string>
   <string name="pref_category_about">Om</string>
   <string name="pref_category_summary_about">Version, ændringslog, forfattere, tak</string>
   <string name="pref_theme">Temafarve</string>
   <string name="pref_theme_summary_alt">Tryk for at ændre tema</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Tonet statusbjælke</string>
   <string name="pref_navigation_tint">Tonet navigationslinje</string>
   <string name="pref_background">Baggrundsfarve</string>
@@ -154,7 +154,7 @@
   <string name="pref_key_timestamp_delay">New timestamp delay</string>
   <string name="pref_key_timestamp_delay_summary">The number of minutes which must elapse between two messages in order for a new timestamp to be shown.</string>
   <string name="pref_compose_favorites">Stjernemarkerede kontakter</string>
-  <string name="pref_compose_summary_favorites">Vis dine stjernemarkerede kontakter i QK Compose vinduet, så de kun er et klik væk</string>
+  <string name="pref_compose_summary_favorites">Vis dine stjernemarkerede kontakter i SimpleSMS Compose vinduet, så de kun er et klik væk</string>
   <string name="pref_prox_sensor_call">Nærhedssensor</string>
   <string name="pref_prox_sensor_call_summary">While in a conversation, bring your phone to your ear to start a call</string>
   <string name="pref_delivery">Leveringsrapporter</string>
@@ -225,13 +225,13 @@
   <string name="pref_night_auto_summary">Aktiver nattilstand automatisk baseret på tiden</string>
   <string name="pref_day_start">Morgengry</string>
   <string name="pref_night_start">Nattilstand begynder</string>
-  <string name="pref_qk_responses">QK Responses</string>
+  <string name="pref_qk_responses">SimpleSMS Responses</string>
   <string name="pref_qk_responses_summary">Ændr dine forudindstillede svar til brug fra din Android Wear enhed</string>
-  <string name="pref_quickreply_enabled">QK Reply aktiveret</string>
-  <string name="pref_quickreply_enabled_summary">Vis QK Reply vinduet hver gang en ny besked modtages</string>
+  <string name="pref_quickreply_enabled">SimpleSMS Reply aktiveret</string>
+  <string name="pref_quickreply_enabled_summary">Vis SimpleSMS Reply vinduet hver gang en ny besked modtages</string>
   <string name="pref_tap_to_quit">Tryk for at afvise</string>
   <string name="pref_tap_to_quit_summary">Tryk et vilkårligt sted udenfor vinduet for at lukke dette</string>
-  <string name="pref_quickcompose">QK Compose aktiveret</string>
+  <string name="pref_quickcompose">SimpleSMS Compose aktiveret</string>
   <string name="pref_quickcompose_summary">Viser en notifikation som tillader dig med et enkelt tryk at skrive en ny besked</string>
   <string name="pref_mms_enabled">MMS aktiveret</string>
   <string name="pref_mms_enabled_summary">Aktiver afsendelse of modtagelse af MMS beskeder</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Fixer problemer forårsaget af Immersive mode, Tinted Status Bar (Xposed) eller brugerdefinerede DPI indstillinger</string>
   <string name="pref_navigation_compat">Navigationslinje fix</string>
   <string name="pref_navigation_compat_summary">Fixer problemer forårsaget af Immersive mode, Tinted Status Bar (Xposed) eller brugerdefinerede DPI indstillinger</string>
-  <string name="pref_about_version_title">QKSMS version</string>
+  <string name="pref_about_version_title">SimpleSMS version</string>
   <string name="pref_about_authors_title">Forfattere</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Tryk for at se changelog</string>
   <string name="pref_about_thanks_title">Tak</string>
   <string name="pref_about_thanks_summary">Tryk for at se open source bidragydere</string>
   <string name="pref_donate_title">Donér</string>
-  <string name="pref_donate_summary">QKSMS er gratis. Støt os ved at donere!</string>
+  <string name="pref_donate_summary">SimpleSMS er gratis. Støt os ved at donere!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Join the QKSMS Beta Testing community on Google+</string>
+  <string name="pref_about_gplus_summary">Join the SimpleSMS Beta Testing community on Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS is open source. Contribute and report issues on GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS is open source. Contribute and report issues on GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Join the QKSMS translation project on Crowdin</string>
+  <string name="pref_about_crowdin_summary">Join the SimpleSMS translation project on Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Tema</string>
   <!--Preference subcategory-->
@@ -300,7 +300,7 @@
   <string name="title_changelog">Ændringslog</string>
   <string name="title_picker">Nye beskeder</string>
   <string name="title_donate">Donér</string>
-  <string name="title_qk_responses">QK Responses</string>
+  <string name="title_qk_responses">SimpleSMS Responses</string>
   <string name="title_block_address">Blokér nummer</string>
   <string name="title_unblock_address">Fjern blokering af nummer</string>
   <string name="title_conversations_selected">%s valgt</string>
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Rapporter</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Disse indstillinger vil træde i kraft næste gang QKSMS bliver åbnet</string>
+  <string name="restart_message">Disse indstillinger vil træde i kraft næste gang SimpleSMS bliver åbnet</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Slet samtaler</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN\'er er ikke valgt</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Det ser ud til, at dine APN\'er ikke er blevet valgt. Dette betyder, at MMS ikke vil virke optimalt. Tryk venligst \"Okay\" og lad QKSMS finde dem for dig. :)</string>
+  <string name="apns_not_set_description">Det ser ud til, at dine APN\'er ikke er blevet valgt. Dette betyder, at MMS ikke vil virke optimalt. Tryk venligst \"Okay\" og lad SimpleSMS finde dem for dig. :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Konfigurer MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Det ser ud til at MMS ikke er konfigureret i QKSMS endnu. Tryk på okay for automatisk at konfigurere MMS.</string>
+  <string name="set_up_mms_description">Det ser ud til at MMS ikke er konfigureret i SimpleSMS endnu. Tryk på okay for automatisk at konfigurere MMS.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Din besked vil blive kasseret, fordi den ikke har nogen gyldig modtager.</string>
   <string name="invalid_code">Ugyldig kode</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Svar</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Svar via QKSMS</string>
+  <string name="reply_SimpleSMS">Svar via SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Læst</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Ingen samtaler.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Indlæser samtaler.</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">Standard SMS</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS skal være din SMS app for at gøre det</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS skal være din SMS app for at markere beskeder som læst</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS skal være din SMS app for at markere beskeder som ulæst</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS skal være din SMS app for at slette beskeder</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS skal være din SMS app for at sende beskeder</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Nogle ting vil ikke virke før QKSMS er standard SMS-app</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">SimpleSMS skal være din SMS app for at gøre det</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">SimpleSMS skal være din SMS app for at markere beskeder som læst</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">SimpleSMS skal være din SMS app for at markere beskeder som ulæst</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">SimpleSMS skal være din SMS app for at slette beskeder</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">SimpleSMS skal være din SMS app for at sende beskeder</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Nogle ting vil ikke virke før SimpleSMS er standard SMS-app</string>
   <string name="delayed_messaging_info">Forsinket messaging giver dig mulighed at slette beskeder, før disse sendes. Ændr funktionsmåden og mere i Indstillinger</string>
   <string name="delayed_duration_bounds_error">Varighed skal være mellem 1 og 30 sekunder</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Opdater ikonets farve</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS must be restarted when changing the icon color</string>
+  <string name="update_icon_message">SimpleSMS must be restarted when changing the icon color</string>
   <string name="dialog_conversation_details_title">Samtale informationer</string>
   <string name="dialog_conversation_details_last_message_date">Sidste besked modtaget</string>
   <string name="dialog_conversation_details_message_count">Beskedtæller</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Tak for donationen! Jeg elsker dig.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Tak for din donering. Du hjælper QKSMS med at blive den bedste SMS app nogensinde.</string>
+  <string name="thanks_3">Tak for din donering. Du hjælper SimpleSMS med at blive den bedste SMS app nogensinde.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Tak for din donation! Du er awesome.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">Kameraet kunne ikke åbnes</string>
   <string name="pref_max_mms_attachment_size">Maksimumstørrelsen for MMS vedhæftninger</string>
   <string name="error_no_recipients">Vælg nogle kontakter at sende denne besked til!</string>
-  <string name="error_file_not_found">QKSMS kan ikke få adgang til filen du forsøger at dele!</string>
+  <string name="error_file_not_found">SimpleSMS kan ikke få adgang til filen du forsøger at dele!</string>
   <string name="sending_blocked_welcome_screen_message">Øjeblik! Du vil kunne sende rigtige beskeder om et minut!</string>
   <string name="notification_colored_icon_ready">Touch to add to your launcher from home screen.</string>
-  <string name="notification_title_colored_icon_ready">Det farvede QKSMS ikon er klar</string>
+  <string name="notification_title_colored_icon_ready">Det farvede SimpleSMS ikon er klar</string>
   <string name="icon_ready">Dit nye ikon er klar!</string>
   <string name="icon_ready_message">Du kan nu tilføje den til din hjemmeskærm igen med den opdaterede farve.</string>
   <string name="dont_ask_again">Spørg ikke igen</string>
@@ -649,7 +649,7 @@
   <string name="stagefright_warning">Video messages may contain a harmful exploit that can leave your phone vulnerable to attacks. Would you like to continue?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">Konfigurer MMS?</string>
-  <string name="mms_setup_set_up_mms_body">Det lader til at MMS ikke er opsat i QKSMS. Tryk på okay for automatisk at konfigurere MMS.</string>
+  <string name="mms_setup_set_up_mms_body">Det lader til at MMS ikke er opsat i SimpleSMS. Tryk på okay for automatisk at konfigurere MMS.</string>
   <string name="mms_setup_setting_up_later_title">Opsætter MMS senere</string>
   <string name="mms_setup_setting_up_later_body">Besøg afsnittet MMS i Indstillinger for at forsøge automatisk konfiguration, kontakt supporten eller indtast din egen konfiguration.</string>
   <string name="mms_setup_no_configurations_found_title">Ingen konfigurationer fundet</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Kontakt support</string>
   <string name="pref_category_sending_mms">Sender MMS</string>
   <string name="pref_category_mms_configuration">MMS Konfiguration</string>
-  <string name="pref_mms_contact_support_summary">Kontakt QKSMS teamet for at få hjælp til opsætning af MMS</string>
+  <string name="pref_mms_contact_support_summary">Kontakt SimpleSMS teamet for at få hjælp til opsætning af MMS</string>
   <string name="pref_markdown_enabled">Tekstformatering</string>
   <string name="pref_markdown_enabled_summary">Brug markdown syntaks til at få fed skrift, understregning og kursiv i dine beskeder</string>
   <string name="want_read_indicators">Want read indicators?</string>

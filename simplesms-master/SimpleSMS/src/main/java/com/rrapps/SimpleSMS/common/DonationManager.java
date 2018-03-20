@@ -214,7 +214,7 @@ public class DonationManager {
     }
 
     public void donatePaypal() {
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://bit.ly/QKSMSDonation"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://bit.ly/SimpleSMSDonation"));
         mContext.startActivity(browserIntent);
     }
 

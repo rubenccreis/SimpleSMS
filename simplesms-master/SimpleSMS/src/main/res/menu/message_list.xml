@@ -27,7 +27,7 @@
         android:id="@+id/menu_delete_conversation"
         android:title="@string/delete_conversation" />
 
-    <item
+    <!--<item
         android:id="@+id/menu_donate"
-        android:title="@string/menu_billing" />
+        android:title="@string/menu_billing" />-->
 </menu>

@@ -48,14 +48,15 @@ import com.rrapps.SimpleSMS.ui.dialog.ColorPickerPagerAdapter;
 import com.rrapps.SimpleSMS.ui.dialog.QKDialog;
 import com.rrapps.SimpleSMS.ui.settings.SettingsFragment;
 import com.rrapps.SimpleSMS.ui.view.QKEditText;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 import com.rrapps.SimpleSMS.ui.view.colorpicker.ColorPickerPalette;
 import com.rrapps.SimpleSMS.ui.widget.WidgetProvider;
 
 public class ThemeManager {
     private final static String TAG = "ThemeManager";
 
-    public static final int DEFAULT_COLOR = 0xff009688;
+    //public static final int DEFAULT_COLOR = 0xffe0e0e0;
+    public static final int DEFAULT_COLOR = 0xff54385F;
     public static final int TRANSITION_LENGTH = 500;
 
     public enum Theme {
@@ -349,7 +350,7 @@ public class ThemeManager {
             // color.
             String enabledComponent = null;
             for (int i = 0; i < colors.length; i++) {
-                String componentClassName = String.format("com.rrappsQKSMS.ui.MainActivity%s", colors[i]);
+                String componentClassName = String.format("com.rrapps.SimpleSMS.ui.MainActivity%s", colors[i]);
 
                 // Save the enabled component so we can kill the app with this one when
                 // it's all done.
@@ -370,7 +371,7 @@ public class ThemeManager {
 
             // Broadcast an intent to a receiver that will:
             // 1) enable the last component; and
-            // 2) relaunch QKSMS with the new component name.
+            // 2) relaunch SimpleSMS with the new component name.
             Intent intent = new Intent(IconColorReceiver.ACTION_ICON_COLOR_CHANGED);
             intent.putExtra(IconColorReceiver.EXTRA_COMPONENT_NAME, enabledComponent);
             context.sendBroadcast(intent);
@@ -704,7 +705,7 @@ public class ThemeManager {
 
         if (activity.findViewById(R.id.toolbar_title) != null) {
             //final Toolbar toolbar = (Toolbar) mActivity.findViewById(R.id.title);
-            final QKTextView title = (QKTextView) activity.findViewById(R.id.toolbar_title);
+            final SimpleSMSTextView title = (SimpleSMSTextView) activity.findViewById(R.id.toolbar_title);
 
             if (title.getCurrentTextColor() != mTextOnColorPrimary) {
                 ValueAnimator titleColorAnimation = ValueAnimator.ofObject(new ArgbEvaluator(), title.getCurrentTextColor(), mTextOnColorPrimary);
@@ -764,17 +765,22 @@ public class ThemeManager {
     }
 
     static class ColorPickerViewHolder {
-        @Bind(R.id.tab_1) QKTextView mTab1;
-        @Bind(R.id.tab_2) QKTextView mTab2;
+        @Bind(R.id.tab_1)
+        SimpleSMSTextView mTab1;
+        @Bind(R.id.tab_2)
+        SimpleSMSTextView mTab2;
         @Bind(R.id.pager) ViewPager mPager;
         @Bind(R.id.palette) ColorPickerPalette mPalette;
         @Bind(R.id.preview) View mPreview;
         @Bind(R.id.red) SeekBar mRed;
-        @Bind(R.id.red_value) QKTextView mRedValue;
+        @Bind(R.id.red_value)
+        SimpleSMSTextView mRedValue;
         @Bind(R.id.green) SeekBar mGreen;
-        @Bind(R.id.green_value) QKTextView mGreenValue;
+        @Bind(R.id.green_value)
+        SimpleSMSTextView mGreenValue;
         @Bind(R.id.blue) SeekBar mBlue;
-        @Bind(R.id.blue_value) QKTextView mBlueValue;
+        @Bind(R.id.blue_value)
+        SimpleSMSTextView mBlueValue;
         @Bind(R.id.hex) QKEditText mHex;
         @Bind(R.id.error) ImageView mError;
 

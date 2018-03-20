@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="64sp" />
 
-    <com.rrapps.SimpleSMS.ui.view.QKTextView
+    <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
         android:id="@+id/welcome_start"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

@@ -112,7 +112,7 @@ public class ComposeView extends LinearLayout implements View.OnClickListener {
     private ImageButton mCamera;
     private ImageButton mDelay;
     private View mAttachmentPanel;
-    private QKTextView mLetterCount;
+    private SimpleSMSTextView mLetterCount;
     private FrameLayout mAttachmentLayout;
     private AttachmentImageView mAttachment;
     private ImageButton mCancel;
@@ -171,7 +171,7 @@ public class ComposeView extends LinearLayout implements View.OnClickListener {
         mAttach = (ImageButton) findViewById(R.id.attach);
         mCamera = (ImageButton) findViewById(R.id.camera);
         mDelay = (ImageButton) findViewById(R.id.delay);
-        mLetterCount = (QKTextView) findViewById(R.id.compose_letter_count);
+        mLetterCount = (SimpleSMSTextView) findViewById(R.id.compose_letter_count);
         mAttachmentLayout = (FrameLayout) findViewById(R.id.attachment);
         mAttachment = (AttachmentImageView) findViewById(R.id.compose_attachment);
         mCancel = (ImageButton) findViewById(R.id.cancel);

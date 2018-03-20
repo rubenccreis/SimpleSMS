@@ -51,7 +51,7 @@ import com.rrapps.SimpleSMS.ui.dialog.BlockedNumberDialog;
 import com.rrapps.SimpleSMS.ui.dialog.BubblePreferenceDialog;
 import com.rrapps.SimpleSMS.ui.dialog.QKDialog;
 import com.rrapps.SimpleSMS.ui.dialog.mms.MMSSetupFragment;
-import com.rrapps.SimpleSMS.ui.view.QKTextView;
+import com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView;
 import com.rrapps.SimpleSMS.ui.view.colorpicker.ColorPickerDialog;
 import com.rrapps.SimpleSMS.ui.view.colorpicker.ColorPickerSwatch;
 
@@ -164,8 +164,8 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
     public static final String CATEGORY_TAG = "settings_category_fragment_tag";
 
     public static final String GOOGLE_PLUS_URL = "https://plus.google.com/communities/104505769539048913485";
-    public static final String GITHUB_URL = "https://github.com/qklabs/qksms";
-    public static final String CROWDIN_URL = "https://crowdin.com/project/qksms";
+    public static final String GITHUB_URL = "https://github.com/qklabs/SimpleSMS";
+    public static final String CROWDIN_URL = "https://crowdin.com/project/SimpleSMS";
 
     private SimpleSMSActivity mContext;
     private PreferenceManager mPreferenceManager;
@@ -352,7 +352,7 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.settings, menu);
+        //inflater.inflate(R.menu.settings, menu);
         super.onCreateOptionsMenu(menu, inflater);
     }
 
@@ -588,7 +588,7 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
             case SHOULD_I_ANSWER:
                 final String packageName = "org.mistergroup.muzutozvednout";
                 if (!PackageUtils.isAppInstalled(mContext, packageName)) {
-                    String referrer = "referrer=utm_source%3Dqksms%26utm_medium%3Dapp%26utm_campaign%3Dqksmssettings";
+                    String referrer = "referrer=utm_source%3DSimpleSMS%26utm_medium%3Dapp%26utm_campaign%3DSimpleSMSsettings";
                     new QKDialog()
                             .setContext(mContext)
                             .setTitle(R.string.dialog_should_i_answer_title)
@@ -650,7 +650,7 @@ public class SettingsFragment extends PreferenceFragment implements Preference.O
                                 new AdapterView.OnItemClickListener() {
                                     @Override
                                     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                                        String baseUrl = ((QKTextView) view.findViewById(R.id.list_item_subtitle)).getText().toString();
+                                        String baseUrl = ((SimpleSMSTextView) view.findViewById(R.id.list_item_subtitle)).getText().toString();
                                         startBrowserIntent("https://" + baseUrl);
                                     }
                                 })

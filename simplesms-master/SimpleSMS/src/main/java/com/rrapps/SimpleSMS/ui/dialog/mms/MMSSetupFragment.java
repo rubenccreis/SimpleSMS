@@ -170,7 +170,7 @@ public class MMSSetupFragment extends SimpleSMSFragment implements DialogFragmen
 
             if (resultCode == POSITIVE_BUTTON_RESULT) {
 
-                // Send an email to the qksms team
+                // Send an email to the SimpleSMS team
                 contactSupport(mContext);
 
             } else if (resultCode == NEGATIVE_BUTTON_RESULT) {
@@ -364,7 +364,7 @@ public class MMSSetupFragment extends SimpleSMSFragment implements DialogFragmen
 
             // Build the message body
             StringBuilder body = new StringBuilder();
-            body.append("Press send, and the QKSMS team will find the correct MMS settings for you!\n\n");
+            body.append("Press send, and the SimpleSMS team will find the correct MMS settings for you!\n\n");
             body.append("------------- DO NOT MODIFY -------------\n");
             body.append("Data activity: ").append(manager.getDataActivity()).append("\n");
             if (Build.VERSION.SDK_INT >= 19) {

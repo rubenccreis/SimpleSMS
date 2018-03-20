@@ -9,7 +9,7 @@
     android:minHeight="56dp"
     app:theme="@style/ActionBarTheme">
 
-    <com.rrapps.SimpleSMS.ui.view.QKTextView
+    <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
         android:id="@+id/toolbar_title"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

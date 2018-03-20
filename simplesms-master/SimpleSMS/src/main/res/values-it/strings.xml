@@ -50,13 +50,13 @@
   <string name="welcome_night_hint">Cliccami</string>
   <!--Tells user to press button to toggle night mode-->
   <string name="welcome_quickreply_title">Risposta</string>
-  <!--QK Reply explanation-->
+  <!--SimpleSMS Reply explanation-->
   <string name="welcome_quickreply_description">Rispondi ai messaggi più velocemente che mai.</string>
-  <!--Prompts user to try QK Reply-->
+  <!--Prompts user to try SimpleSMS Reply-->
   <string name="welcome_quickreply_hint">Provalo!</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_1">Che figata! Non è vero? Puoi vedere tutte le conversazioni per intero con uno sguardo. Tocca fuori dal popup o premi il segno di spunta per chiudere.</string>
-  <!--QK Reply demo message-->
+  <!--SimpleSMS Reply demo message-->
   <string name="welcome_quickreply_message_2">Questa è una Risposta QK. Ora puoi rispondere ai messaggi da ovunque. Tocca la barra in alto per vedere cosa succede dopo :)</string>
   <!--Settings option in menu-->
   <string name="menu_settings">Impostazioni</string>
@@ -99,7 +99,7 @@
   <!--Title for date received of a message in message details popup-->
   <string name="details_date_received">Data di ricezione</string>
   <!--Title for rate snackbar-->
-  <string name="rate_title">Ti piace QKSMS?</string>
+  <string name="rate_title">Ti piace SimpleSMS?</string>
   <!--Title for rate button-->
   <string name="rate_action">Vota</string>
   <string name="pref_category_appearance">Aspetto</string>
@@ -120,7 +120,7 @@
   <string name="pref_theme">Colore del tema</string>
   <string name="pref_theme_summary_alt">Tocca per cambiare tema</string>
   <string name="pref_icon">Icon color</string>
-  <string name="pref_icon_summary">Tap to change the QKSMS icon color</string>
+  <string name="pref_icon_summary">Tap to change the SimpleSMS icon color</string>
   <string name="pref_status_tint">Barra di stato colorata</string>
   <string name="pref_navigation_tint">Barra di navigazione colorata</string>
   <string name="pref_background">Colore di sfondo</string>
@@ -227,11 +227,11 @@
   <string name="pref_night_start">Inizio della notte</string>
   <string name="pref_qk_responses">Risposte QK</string>
   <string name="pref_qk_responses_summary">Modifica la risposta predefinita che deve essere usata dal tuo dispositivo Android Wear</string>
-  <string name="pref_quickreply_enabled">Risposta QK abilitata</string>
-  <string name="pref_quickreply_enabled_summary">Mostra la finestra di Risposta QK quando arriva un nuovo messaggio</string>
+  <string name="pref_quickreply_enabled">Risposta SimpleSMS abilitata</string>
+  <string name="pref_quickreply_enabled_summary">Mostra la finestra di Risposta SimpleSMS quando arriva un nuovo messaggio</string>
   <string name="pref_tap_to_quit">Tocca per archiviare</string>
   <string name="pref_tap_to_quit_summary">Toccare un punto qualsiasi all\'esterno della finestra per chiuderla</string>
-  <string name="pref_quickcompose">Composizione QK abilitata</string>
+  <string name="pref_quickcompose">Composizione SimpleSMS abilitata</string>
   <string name="pref_quickcompose_summary">Mostra una notifica che mi permetta di comporre un nuovo messaggio</string>
   <string name="pref_mms_enabled">Abilita MMS</string>
   <string name="pref_mms_enabled_summary">Abilita l\'invio e la ricezione di messaggi MMS</string>
@@ -247,20 +247,20 @@
   <string name="pref_status_compat_summary">Risolve problematiche causate dalla modalità estesa, da Tinted Status Bar (modulo Xposed), o da impostazioni DPI personalizzate</string>
   <string name="pref_navigation_compat">Correzione della barra di navigazione</string>
   <string name="pref_navigation_compat_summary">Risolve problematiche causate dalla modalità estesa, da Tinted Status Bar (modulo Xposed), o da impostazioni DPI personalizzate</string>
-  <string name="pref_about_version_title">Versione di QKSMS</string>
+  <string name="pref_about_version_title">Versione di SimpleSMS</string>
   <string name="pref_about_authors_title">Autori</string>
-  <string name="pref_about_authors_summary">Moez Bhatti</string>
+  <string name="pref_about_authors_summary">Rúben Reis</string>
   <string name="pref_changelog_summary">Tocca per vedere il changelog</string>
   <string name="pref_about_thanks_title">Grazie</string>
   <string name="pref_about_thanks_summary">Tocca per visualizzare i contributori open-source</string>
   <string name="pref_donate_title">Dona</string>
-  <string name="pref_donate_summary">QKSMS è un software libero. Supportaci con una donazione!</string>
+  <string name="pref_donate_summary">SimpleSMS è un software libero. Supportaci con una donazione!</string>
   <string name="pref_about_gplus_title">Google+</string>
-  <string name="pref_about_gplus_summary">Entra nella community QKSMS Beta Testing su Google+</string>
+  <string name="pref_about_gplus_summary">Entra nella community SimpleSMS Beta Testing su Google+</string>
   <string name="pref_about_github_title">GitHub</string>
-  <string name="pref_about_github_summary">QKSMS è open source. Contribuisci e riporta i problemi su GitHub</string>
+  <string name="pref_about_github_summary">SimpleSMS è open source. Contribuisci e riporta i problemi su GitHub</string>
   <string name="pref_about_crowdin_title">Crowdin</string>
-  <string name="pref_about_crowdin_summary">Entra nel progetto di traduzione di QKSMS su Crowdin</string>
+  <string name="pref_about_crowdin_summary">Entra nel progetto di traduzione di SimpleSMS su Crowdin</string>
   <!--Preference subcategory-->
   <string name="pref_subcat_theme">Tema</string>
   <!--Preference subcategory-->
@@ -328,7 +328,7 @@
   <!-- Title of "Report" window -->
   <string name="delivery_header_title">Report</string>
   <!--Text for app restart confirmation dialog-->
-  <string name="restart_message">Le modifiche saranno apportate alla prossima apertura di QKSMS</string>
+  <string name="restart_message">Le modifiche saranno apportate alla prossima apertura di SimpleSMS</string>
   <!--Dialog title for asking if a user wants to delete a conversation-->
   <string name="delete_conversation">Eliminare le conversazioni</string>
   <!--Dialog title for asking if a user wants to delete all failed messages-->
@@ -340,11 +340,11 @@
   <!--(Unused) Dialog title shown if APNs have not been set-->
   <string name="apns_not_set">APN non impostati</string>
   <!--(Unused) Dialog description shown if APNs have not been set-->
-  <string name="apns_not_set_description">Sembra che i tuoi APN non siano stati ancora configurati. Ciò vuol dire che gli MMS non funzioneranno correttamente. Premi okay per fare in modo che QKSMS li trovi per te :)</string>
+  <string name="apns_not_set_description">Sembra che i tuoi APN non siano stati ancora configurati. Ciò vuol dire che gli MMS non funzioneranno correttamente. Premi okay per fare in modo che SimpleSMS li trovi per te :)</string>
   <!--Dialog title show if MMS hasn't been configured-->
   <string name="set_up_mms_title">Imposta MMS?</string>
   <!--Dialog description shown if MMS hasn't yet been configured-->
-  <string name="set_up_mms_description">Sembra che gli MMS non siano stati ancora configurati in QKSMS. Premi okay per configurarli automaticamente.</string>
+  <string name="set_up_mms_description">Sembra che gli MMS non siano stati ancora configurati in SimpleSMS. Premi okay per configurarli automaticamente.</string>
   <!-- Dialog message text explaining that a draft message will not be saved due to invalid recipients -->
   <string name="discard_message_reason">Il tuo messaggio sarà scartato perché non ha destinatari validi.</string>
   <string name="invalid_code">Codice errato</string>
@@ -353,7 +353,7 @@
   <!--Notification action to reply to a message-->
   <string name="reply">Rispondi</string>
   <!--Notification action to reply to a message-->
-  <string name="reply_qksms">Rispondi via QKSMS</string>
+  <string name="reply_SimpleSMS">Rispondi via SimpleSMS</string>
   <!--Notification action to mark a message as read-->
   <string name="read">Letto</string>
   <!--Notification action to mark a message as read-->
@@ -530,20 +530,20 @@
   <string name="no_conversations">Nessuna conversazione.</string>
   <!-- Show this in the middle of the main activity when loading conversations [CHAR LIMIT=none] -->
   <string name="loading_conversations">Caricamento delle conversazioni in corso...</string>
-  <!-- Tells the user that QKSMS isn't the default SMS app -->
+  <!-- Tells the user that SimpleSMS isn't the default SMS app -->
   <string name="not_default">SMS Predefinito</string>
-  <!-- Tells the user they need to set QKSMS as the default app in order to use this feature -->
-  <string name="default_info">QKSMS deve essere l\'app SMS predefinita per farlo</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as read -->
-  <string name="not_default_mark_read">QKSMS deve essere l\'app SMS predefinita per contrassegnare i messaggi già letto</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to mark messages as unread -->
-  <string name="not_default_mark_unread">QKSMS deve essere l\'app SMS predefinita per contrassegnare i messaggi non letti</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to send messages -->
-  <string name="not_default_delete">QKSMS deve essere l\'app SMS predefinita per eliminare i messaggi</string>
-  <!-- Tells the user they need to set QKSMS as the default messaging app in order to delete messages -->
-  <string name="not_default_send">QKSMS deve essere l\'app SMS predefinita per inviare messaggi</string>
-  <!-- Tells the user they should set QKSMS as the default messaging app -->
-  <string name="not_default_first">Alcune cose non funzionano fino a quando QKSMS è l\'app predefinita per gli SMS</string>
+  <!-- Tells the user they need to set SimpleSMS as the default app in order to use this feature -->
+  <string name="default_info">SimpleSMS deve essere l\'app SMS predefinita per farlo</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as read -->
+  <string name="not_default_mark_read">SimpleSMS deve essere l\'app SMS predefinita per contrassegnare i messaggi già letto</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to mark messages as unread -->
+  <string name="not_default_mark_unread">SimpleSMS deve essere l\'app SMS predefinita per contrassegnare i messaggi non letti</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to send messages -->
+  <string name="not_default_delete">SimpleSMS deve essere l\'app SMS predefinita per eliminare i messaggi</string>
+  <!-- Tells the user they need to set SimpleSMS as the default messaging app in order to delete messages -->
+  <string name="not_default_send">SimpleSMS deve essere l\'app SMS predefinita per inviare messaggi</string>
+  <!-- Tells the user they should set SimpleSMS as the default messaging app -->
+  <string name="not_default_first">Alcune cose non funzionano fino a quando SimpleSMS è l\'app predefinita per gli SMS</string>
   <string name="delayed_messaging_info">Il ritardo dei messaggi consente di cancellarli prima dell\'invio. Modificare il comportamento predefinito ed altro in Impostazioni</string>
   <string name="delayed_duration_bounds_error">La durata deve essere compresa tra 1 e 30 secondi</string>
   <!-- Dialog title for the Read Report dialog. -->
@@ -553,7 +553,7 @@
   <!-- Dialog title for updating app icon color -->
   <string name="update_icon_title">Aggiorna colore icona</string>
   <!-- Dialog message for updating app icon color -->
-  <string name="update_icon_message">QKSMS deve essere riavviato quando si cambia il colore dell\'icona</string>
+  <string name="update_icon_message">SimpleSMS deve essere riavviato quando si cambia il colore dell\'icona</string>
   <string name="dialog_conversation_details_title">Dettagli conversazione</string>
   <string name="dialog_conversation_details_last_message_date">Data ultimo messaggio</string>
   <string name="dialog_conversation_details_message_count">Numero di messaggi</string>
@@ -610,7 +610,7 @@
   <!--Toast shown to thank user for donating-->
   <string name="thanks_2">Grazie per la donazione! Ti amo.</string>
   <!--Toast shown to thank user for donating-->
-  <string name="thanks_3">Grazie per la donazione! Stai aiutando QKSMS a diventare la migliore applicazione SMS mai realizzata.</string>
+  <string name="thanks_3">Grazie per la donazione! Stai aiutando SimpleSMS a diventare la migliore applicazione SMS mai realizzata.</string>
   <!--Toast shown to thank user for donating-->
   <string name="thanks_4">Grazie per la donazione! Sei magnifico.</string>
   <!--Menu option to mute conversation-->
@@ -638,10 +638,10 @@
   <string name="attachment_camera_error">La fotocamera non può essere aperta</string>
   <string name="pref_max_mms_attachment_size">Massima dimensione degli allegati MMS</string>
   <string name="error_no_recipients">Seleziona alcuni contatti a cui inviare questo messaggio!</string>
-  <string name="error_file_not_found">QKSMS non riesce ad accedere al file che stai tentando di condividere!</string>
+  <string name="error_file_not_found">SimpleSMS non riesce ad accedere al file che stai tentando di condividere!</string>
   <string name="sending_blocked_welcome_screen_message">Fermati! Potrai mandare messaggi in tempo reale in un minuto!</string>
   <string name="notification_colored_icon_ready">Tocca per aggiungere al tuo launcher dalla schermata home.</string>
-  <string name="notification_title_colored_icon_ready">L\'icona colorata QKSMS è pronta</string>
+  <string name="notification_title_colored_icon_ready">L\'icona colorata SimpleSMS è pronta</string>
   <string name="icon_ready">La nuova icona è pronta!</string>
   <string name="icon_ready_message">Ora è possibile aggiungerlo alla nuovamente home con il colore aggiornato.</string>
   <string name="dont_ask_again">Non chiedere di nuovo</string>
@@ -649,7 +649,7 @@
   <string name="stagefright_warning">I video messaggi potrebbero contenere exploit dannosi che possono rendere il tuo telefono vulnerabile ad attacchi. Desideri davvero continuare?</string>
   <!-- MMS DIALOG SETUP STRINGS -->
   <string name="mms_setup_set_up_mms_title">Imposta MMS?</string>
-  <string name="mms_setup_set_up_mms_body">Sembra che gli MMS non siano stati ancora configurati in QKSMS. Premi okay per configurarli automaticamente.</string>
+  <string name="mms_setup_set_up_mms_body">Sembra che gli MMS non siano stati ancora configurati in SimpleSMS. Premi okay per configurarli automaticamente.</string>
   <string name="mms_setup_setting_up_later_title">Configurazione MMS più tardi</string>
   <string name="mms_setup_setting_up_later_body">Visita la sezione MMS in Impostazioni per provare la configurazione automatica, contattare il supporto tecnico o immettere la propria configurazione.</string>
   <string name="mms_setup_no_configurations_found_title">Nessuna configurazione trovata</string>
@@ -668,7 +668,7 @@
   <string name="pref_mms_contact_support">Contatta il supporto</string>
   <string name="pref_category_sending_mms">L\'invio di MMS</string>
   <string name="pref_category_mms_configuration">Configurazione MMS</string>
-  <string name="pref_mms_contact_support_summary">Contatta il team di QKSMS per avere supporto nella configurazione dei MMS</string>
+  <string name="pref_mms_contact_support_summary">Contatta il team di SimpleSMS per avere supporto nella configurazione dei MMS</string>
   <string name="pref_markdown_enabled">Formattazione del testo</string>
   <string name="pref_markdown_enabled_summary">Usa la sintassi markdown per avere il grassetto, sottolineato e corsivo nei tuoi messaggi</string>
   <string name="want_read_indicators">Vuoi indicatori di lettura?</string>

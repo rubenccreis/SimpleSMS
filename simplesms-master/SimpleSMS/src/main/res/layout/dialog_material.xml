@@ -20,7 +20,7 @@
         android:orientation="vertical"
         android:visibility="gone">
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/alertTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
             android:visibility="gone"
             app:type="dialog_title" />
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
         android:paddingRight="16dp"
         android:visibility="gone">
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/buttonNeutral"
             android:layout_width="wrap_content"
             android:layout_height="36dp"
@@ -76,7 +76,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1" />
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/buttonNegative"
             android:layout_width="wrap_content"
             android:layout_height="36dp"
@@ -87,7 +87,7 @@
             android:visibility="gone"
             app:type="dialog_button" />
 
-        <com.rrapps.SimpleSMS.ui.view.QKTextView
+        <com.rrapps.SimpleSMS.ui.view.SimpleSMSTextView
             android:id="@+id/buttonPositive"
             android:layout_width="wrap_content"
             android:layout_height="36dp"

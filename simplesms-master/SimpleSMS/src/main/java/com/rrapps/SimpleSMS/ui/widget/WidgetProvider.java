@@ -35,7 +35,7 @@ import com.rrapps.SimpleSMS.ui.MainActivity;
 import com.rrapps.SimpleSMS.ui.ThemeManager;
 
 public class WidgetProvider extends AppWidgetProvider {
-    public static final String ACTION_NOTIFY_DATASET_CHANGED = "com.rrappsQKSMS.intent.action.ACTION_NOTIFY_DATASET_CHANGED";
+    public static final String ACTION_NOTIFY_DATASET_CHANGED = "com.rrapps.SimpleSMS.intent.action.ACTION_NOTIFY_DATASET_CHANGED";
 
     private static final String TAG = "WidgetProvider";
 

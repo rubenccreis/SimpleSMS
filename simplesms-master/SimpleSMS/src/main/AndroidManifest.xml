@@ -383,7 +383,7 @@
             android:name="com.rrapps.SimpleSMS.receiver.RemoteMessagingReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.receiver.WearableIntentReceiver.REPLY" />
+                <action android:name="com.rrapps.SimpleSMS.receiver.WearableIntentReceiver.REPLY" />
             </intent-filter>
         </receiver>
 
@@ -406,7 +406,7 @@
                 <data android:scheme="package" />
             </intent-filter>
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.action.PENDING_PACKAGE_CHANGE" />
+                <action android:name="com.rrapps.SimpleSMS.action.PENDING_PACKAGE_CHANGE" />
             </intent-filter>
         </receiver>
 
@@ -440,35 +440,35 @@
             android:name="com.rrapps.SimpleSMS.mmssms.SentReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.SMS_SENT" />
+                <action android:name="com.rrapps.SimpleSMS.SMS_SENT" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="com.rrapps.SimpleSMS.receiver.DeliveredReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.SMS_DELIVERED" />
+                <action android:name="com.rrapps.SimpleSMS.SMS_DELIVERED" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="com.rrapps.SimpleSMS.receiver.MessageFailedReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.NOTIFY_SMS_FAILURE" />
+                <action android:name="com.rrapps.SimpleSMS.NOTIFY_SMS_FAILURE" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="com.rrapps.SimpleSMS.receiver.MarkReadReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.MARK_READ" />
+                <action android:name="com.rrapps.SimpleSMS.MARK_READ" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="com.rrapps.SimpleSMS.receiver.MarkSeenReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.MARK_SEEN" />
+                <action android:name="com.rrapps.SimpleSMS.MARK_SEEN" />
             </intent-filter>
         </receiver>
 
@@ -477,7 +477,7 @@
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
             </intent-filter>
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.intent.action.ACTION_NOTIFY_DATASET_CHANGED" />
+                <action android:name="com.rrapps.SimpleSMS.intent.action.ACTION_NOTIFY_DATASET_CHANGED" />
             </intent-filter>
 
             <meta-data
@@ -508,7 +508,7 @@
 
         <service android:name="com.rrapps.SimpleSMS.service.ShouldIAnswerService">
             <intent-filter>
-                <action android:name="com.rrappsQKSMS.ShouldIAnswerService" />
+                <action android:name="com.rrapps.SimpleSMS.ShouldIAnswerService" />
             </intent-filter>
         </service>
 

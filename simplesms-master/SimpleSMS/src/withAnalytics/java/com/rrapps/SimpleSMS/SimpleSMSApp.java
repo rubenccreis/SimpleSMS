@@ -3,7 +3,7 @@ package com.rrapps.SimpleSMS;
 import com.crashlytics.android.Crashlytics;
 import io.fabric.sdk.android.Fabric;
 
-public class QKSMSApp extends QKSMSAppBase {
+public class SimpleSMSApp extends SimpleSMSAppBase {
     @Override
     public void onCreate() {
         super.onCreate();

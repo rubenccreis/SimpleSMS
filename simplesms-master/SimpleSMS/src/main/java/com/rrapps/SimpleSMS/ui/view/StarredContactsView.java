@@ -30,7 +30,7 @@ public class StarredContactsView extends LinearLayout implements LoaderManager.L
     private SharedPreferences mPrefs;
     private Cursor mCursor;
     private LinearLayout mFavoritesBackground;
-    private QKTextView mTitle;
+    private SimpleSMSTextView mTitle;
     private LinearLayout mFavorites;
     private AutoCompleteContactView mRecipients;
     private ComposeView mComposeView;
@@ -64,7 +64,7 @@ public class StarredContactsView extends LinearLayout implements LoaderManager.L
         mFavoritesBackground = (LinearLayout) findViewById(R.id.starred_contacts);
         mFavoritesBackground.setBackgroundColor(ThemeManager.getBackgroundColor());
 
-        mTitle = (QKTextView) findViewById(R.id.title);
+        mTitle = (SimpleSMSTextView) findViewById(R.id.title);
 
         mFavorites = (LinearLayout) findViewById(R.id.favorites);
 
@@ -131,7 +131,7 @@ public class StarredContactsView extends LinearLayout implements LoaderManager.L
                     avatar.setImageDrawable(contact.getAvatar(mContext, null));
                     avatar.setContactName(contact.getName());
 
-                    QKTextView name = (QKTextView) view.findViewById(R.id.name);
+                    SimpleSMSTextView name = (SimpleSMSTextView) view.findViewById(R.id.name);
                     name.setOnClickListener(onClickListener);
                     name.setText(contact.getName());
 
