@@ -62,7 +62,7 @@ public class NotificationManager {
 
     private static final String PREV_NOTIFICATIONS = "key_prev_notifications";
 
-    private static final long[] VIBRATION = {0, 200, 200, 200};
+    private static final long[] VIBRATION = {0, 500, 300, 500};
     private static final long[] VIBRATION_SILENT = {0, 0};
 
     private static HandlerThread sThread;
