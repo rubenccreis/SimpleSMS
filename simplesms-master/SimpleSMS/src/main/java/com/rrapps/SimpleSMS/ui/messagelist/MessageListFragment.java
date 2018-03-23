@@ -470,6 +470,7 @@ public class MessageListFragment extends SimpleSMSFragment implements ActivityLa
                 mConversationPrefs.putBoolean(SettingsFragment.NOTIFICATIONS, !notificationMuted);
                 mContext.invalidateOptionsMenu();
                 vibrateOnConversationStateChanged(notificationMuted);
+
                 return true;
 
             case R.id.menu_details:

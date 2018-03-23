@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="com.pushbullet:android-extensions-1.0.4">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-extensions-1.0.4.aar/648998d6555d7d77187f6edd0a8db2c6/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-extensions-1.0.4.aar/648998d6555d7d77187f6edd0a8db2c6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-extensions-1.0.4.aar/82463eecb6493cc1af571472152d9850/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-extensions-1.0.4.aar/82463eecb6493cc1af571472152d9850/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

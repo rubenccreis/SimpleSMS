@@ -23,7 +23,7 @@
             android:summary="@string/pref_category_summary_appearance"
             android:title="@string/pref_category_appearance" />
         <Preference
-            android:icon="@drawable/ic_settings"
+            android:icon="@drawable/ic_settings_new"
             android:key="pref_key_category_general"
             android:layout="@layout/list_item_preference"
             android:summary="@string/pref_category_summary_general"
@@ -41,7 +41,7 @@
             android:summary="@string/pref_category_summary_mms"
             android:title="@string/pref_category_mms" />
         <Preference
-            android:icon="@drawable/ic_reply"
+            android:icon="@drawable/ic_reply_new"
             android:key="pref_key_category_quickreply"
             android:layout="@layout/list_item_preference"
             android:summary="@string/pref_category_summary_quickreply"

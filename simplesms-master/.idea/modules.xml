@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleSMS/SimpleSMS.iml" filepath="$PROJECT_DIR$/SimpleSMS/SimpleSMS.iml" />
+      <module fileurl="file://C:\Users\Casa\Desktop\simplesms\SimpleSMS\simplesms-master\SimpleSMS\SimpleSMS.iml" filepath="C:\Users\Casa\Desktop\simplesms\SimpleSMS\simplesms-master\SimpleSMS\SimpleSMS.iml" />
       <module fileurl="file://$PROJECT_DIR$/simplesms-master.iml" filepath="$PROJECT_DIR$/simplesms-master.iml" />
+      <module fileurl="file://C:\Users\Casa\Desktop\simplesms\SimpleSMS\simplesms-master\simplesms-master.iml" filepath="C:\Users\Casa\Desktop\simplesms\SimpleSMS\simplesms-master\simplesms-master.iml" />
     </modules>
   </component>
 </project>
