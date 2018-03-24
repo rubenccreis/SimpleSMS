@@ -74,7 +74,7 @@ public class MainActivity extends SimpleSMSActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        launchWelcomeActivity();
+        //launchWelcomeActivity();
         onNewIntent(getIntent());
 
         setContentView(R.layout.activity_fragment);

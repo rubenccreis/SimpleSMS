@@ -231,9 +231,9 @@ public class MMSSetupFragment extends SimpleSMSFragment implements DialogFragmen
         if (context != null) {
             Intent intent = new Intent(
                     Intent.ACTION_SENDTO,
-                    Uri.fromParts("mailto", "mms-support@qklabs.com", null)
+                    Uri.fromParts("mailto", "rubenccreis@gmail.com", null)
             );
-            intent.putExtra(Intent.EXTRA_EMAIL, "mms-support@qklabs.com");
+            intent.putExtra(Intent.EXTRA_EMAIL, "rubenccreis@gmail.com");
             intent.putExtra(Intent.EXTRA_SUBJECT, "MMS Support Request");
             intent.putExtra(Intent.EXTRA_TEXT, getSupportEmailBody(context));
             context.startActivity(intent);

@@ -56,7 +56,7 @@ public class ThemeManager {
     private final static String TAG = "ThemeManager";
 
     //public static final int DEFAULT_COLOR = 0xffe0e0e0;
-    public static final int DEFAULT_COLOR = 0xff54385F;
+    public static final int DEFAULT_COLOR = 0xffe0e0e0;
     public static final int TRANSITION_LENGTH = 500;
 
     public enum Theme {
@@ -738,6 +738,37 @@ public class ThemeManager {
         }
 
         return true;
+    }
+
+    public static boolean isColorDark(int color){
+        double darkness = 1-(0.299*Color.red(color) + 0.587*Color.green(color) + 0.114*Color.blue(color))/255;
+        if(darkness<0.5){
+            return false; // It's a light color
+        }else{
+            return true; // It's a dark color
+        }
+    }
+
+    public static int getMenuIconsColor() {
+        if (ThemeManager.isColorDark(ThemeManager.mActiveColor)) {
+            switch (getTheme()) {
+                case LIGHT:
+                    return mActiveColor;
+                case DARK:
+                case BLACK:
+                    return R.color.theme_dark_text_primary;
+                default: return mActiveColor;
+            }
+        } else {
+            switch (getTheme()) {
+                case LIGHT:
+                    return R.color.theme_light_text_secondary;
+                case DARK:
+                case BLACK:
+                    return mActiveColor;
+                default: return mActiveColor;
+            }
+        }
     }
 
     public static int getSwatchColor(int color) {

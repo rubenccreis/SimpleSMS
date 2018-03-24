@@ -23,7 +23,7 @@
         android:layout="@layout/list_item_preference_category"
         android:title="@string/pref_delivery">
         <CheckBoxPreference
-            android:defaultValue="false"
+            android:defaultValue="true"
             android:key="pref_key_delivery"
             android:layout="@layout/list_item_preference"
             android:summary="@string/pref_delivery_summary"

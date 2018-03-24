@@ -492,8 +492,13 @@ public class MessageListFragment extends SimpleSMSFragment implements ActivityLa
 
     private void makeCall() {
         Intent openDialerIntent = new Intent(Intent.ACTION_CALL);
-        openDialerIntent.setData(Uri.parse("tel:" + mConversationLegacy.getAddress()));
-        startActivity(openDialerIntent);
+
+        ContactList list = mConversation.getRecipients();
+        if(list.size() > 0 && android.util.Patterns.PHONE.matcher(list.get(0).getNumber()).matches()){
+            openDialerIntent.setData(Uri.parse("tel:" + list.get(0).getNumber()));
+            startActivity(openDialerIntent);
+        }
+
     }
 
     private void vibrateOnConversationStateChanged(final boolean notificationMuted) {

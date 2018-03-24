@@ -40,7 +40,7 @@
             android:layout="@layout/list_item_preference"
             android:summary="@string/pref_category_summary_mms"
             android:title="@string/pref_category_mms" />
-        <Preference
+        <!--<Preference
             android:icon="@drawable/ic_reply_new"
             android:key="pref_key_category_quickreply"
             android:layout="@layout/list_item_preference"
@@ -51,7 +51,7 @@
             android:key="pref_key_category_quickcompose"
             android:layout="@layout/list_item_preference"
             android:summary="@string/pref_category_summary_quickcompose"
-            android:title="@string/pref_category_quickcompose" />
+            android:title="@string/pref_category_quickcompose" />-->
         <Preference
             android:icon="@drawable/ic_info_fill"
             android:key="pref_key_category_about"

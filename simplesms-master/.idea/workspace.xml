@@ -6,54 +6,32 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e83f8b8c-3809-4592-a5ae-e6536de35b71" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_reply_new.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/ic_notification.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/ic_notification.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_core_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_core_runtime_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_livedata_core_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_livedata_core_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_runtime_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_runtime_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_viewmodel_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/android_arch_lifecycle_viewmodel_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_design_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_design_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_multidex_1_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_multidex_1_0_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_multidex_instrumentation_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_multidex_instrumentation_1_0_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v13_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v13_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_transition_27_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_transition_27_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_github_lzyzsd_circleprogress_1_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_github_lzyzsd_circleprogress_1_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_klinkerapps_android_chips_1_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_klinkerapps_android_chips_1_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_melnykov_floatingactionbutton_1_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_melnykov_floatingactionbutton_1_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_nispok_snackbar_2_10_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_nispok_snackbar_2_10_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_pushbullet_android_extensions_1_0_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_pushbullet_android_extensions_1_0_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/com_squareup_leakcanary_leakcanary_android_no_op_1_4_beta2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_squareup_leakcanary_leakcanary_android_no_op_1_4_beta2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/me_leolin_ShortcutBadger_1_1_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/me_leolin_ShortcutBadger_1_1_17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_apache_http_legacy_android_27.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_http_legacy_android_27.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/org_ligi_snackengage_0_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/org_ligi_snackengage_0_4.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ConversationLegacy.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ConversationLegacy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_compose.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_compose.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_camera.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_camera.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_info_fill.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_info_fill.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_palette.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_palette.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_timer.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_timer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_appearance.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_appearance.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" afterPath="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" />
     </list>
     <ignored path="simplesms-master.iws" />
@@ -88,106 +66,69 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="settings_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+            <state relative-caret-position="102">
+              <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding>
-                <element signature="e#2277#2311#0" expanded="true" />
+                <marker date="1521834992936" expanded="false" signature="2212:2254" ph="&quot;SimpleSMS Reply, popup options&quot;" />
+                <marker date="1521834992936" expanded="false" signature="2281:2315" ph="&quot;SimpleSMS Reply&quot;" />
+                <marker date="1521834992936" expanded="false" signature="2530:2574" ph="&quot;SimpleSMS Compose, starred contacts&quot;" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compose.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item_preference.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+            <state relative-caret-position="-544">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleSMSPreference.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/SimpleSMSPreference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conversations.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="WidgetProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="442">
+              <caret line="125" column="74" lean-forward="false" selection-start-line="125" selection-start-column="74" selection-end-line="125" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conversations_selection.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations_selection.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
+      <file leaf-file-name="AvatarView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/AvatarView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message_list.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            <state relative-caret-position="179">
+              <caret line="99" column="70" lean-forward="false" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ic_mark_unread.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/build/generated/res/pngs/noAnalytics/debug/drawable-anydpi-v21/ic_mark_unread.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic_delete.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageListFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="612" column="90" lean-forward="false" selection-start-line="612" selection-start-column="77" selection-end-line="612" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ic_notifications.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -196,8 +137,38 @@
       <file leaf-file-name="ic_mark_read.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ic_mark_unread.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleSMSActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="221" column="8" lean-forward="false" selection-start-line="221" selection-start-column="8" selection-end-line="221" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SettingsFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="125" column="53" lean-forward="false" selection-start-line="125" selection-start-column="48" selection-end-line="125" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -214,36 +185,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>d</find>
-      <find>dr</find>
-      <find>dra</find>
-      <find>draf</find>
-      <find>SMS_SENT</find>
-      <find>draft</find>
-      <find>setti</find>
-      <find>settings_abo</find>
-      <find>settings_abou</find>
-      <find>seticon</find>
-      <find>color</find>
-      <find>settings</find>
-      <find>menu</find>
-      <find>settings_about</find>
-      <find>i</find>
-      <find>ic</find>
-      <find>ic_</find>
-      <find>ic_n</find>
-      <find>ic_no</find>
-      <find>ic_not</find>
-      <find>ic_noti</find>
-      <find>ic_notif</find>
-      <find>ic_notifi</find>
-      <find>ic_notific</find>
-      <find>ic_notifica</find>
-      <find>ic_notificati</find>
-      <find>ic_notification</find>
-      <find>ic_notifications</find>
-      <find>notification</find>
-      <find>notifications</find>
+      <find>textColorPrimar</find>
+      <find>textColorPrimary</find>
+      <find>ti</find>
+      <find>tin</find>
+      <find>tint</find>
+      <find>.tint</find>
+      <find>ic_pallet</find>
+      <find>ic_palle</find>
+      <find>ic_pall</find>
+      <find>ic_palet</find>
+      <find>ic_palett</find>
+      <find>ic_palette</find>
+      <find>lios</find>
+      <find>lio</find>
+      <find>li</find>
+      <find>l</find>
+      <find>list_</find>
+      <find>list_item_</find>
+      <find>list_item_p</find>
+      <find>list_item_pr</find>
+      <find>list_item_pre</find>
+      <find>list_item_pref</find>
+      <find>list_item_prefe</find>
+      <find>list_item_preference</find>
+      <find>c</find>
+      <find>co</find>
+      <find>col</find>
+      <find>colorpri</find>
+      <find>colorprim</find>
+      <find>colorprimary</find>
     </findStrings>
     <replaceStrings>
       <replace>MainActivity</replace>
@@ -3298,17 +3269,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/QKPreference.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/SimpleSMSPreference.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/androidTest/java/com/qklabs/qkms/test/ApnTest.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/values/ic_settings_new.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/ic_settings_new.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/IconColorReceiver.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings_new.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference_category.xml" />
@@ -3331,24 +3295,31 @@
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_palette.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_compose.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_info_fill.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/build/generated/res/pngs/noAnalytics/debug/drawable-anydpi-v21/ic_reply_new.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_reply_new.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ConversationLegacy.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml" />
-        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_appearance.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml" />
         <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_camera.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_timer.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/build/generated/res/pngs/noAnalytics/debug/drawable-anydpi-v21/ic_mark_unread.xml" />
+        <option value="$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml" />
       </list>
     </option>
   </component>
@@ -3374,9 +3345,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3511,7 +3479,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
+              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3525,40 +3493,11 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simplesms-master" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleSMS" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3653,7 +3592,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521769198537" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521910607083" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3701,7 +3640,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521769198538" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521910607083" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3884,7 +3823,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521769198541" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1521910607085" />
       </method>
     </configuration>
     <list size="1">
@@ -3976,25 +3915,25 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.49361023" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5468584" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.48722044" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.52420574" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.48722044" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997986" sideWeight="0.4978701" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.49574015" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.45314163" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.43797275" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.48509052" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.47870076" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.47870076" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.47881997" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.47276855" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.47579426" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5021299" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5620272" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.4765708" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -4087,168 +4026,18 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/AvatarView.java</url>
+          <line>104</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="107" column="45" lean-forward="false" selection-start-line="107" selection-start-column="45" selection-end-line="107" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/content/Intent.class" />
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="447" column="70" lean-forward="false" selection-start-line="447" selection-start-column="12" selection-end-line="447" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/values-pt/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="158" column="48" lean-forward="false" selection-start-line="158" selection-start-column="48" selection-end-line="158" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/conversationlist/ConversationListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_add.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/service/NotificationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="220" column="57" lean-forward="false" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="57" />
-          <folding>
-            <element signature="e#10121#10180#0" expanded="false" />
-            <element signature="e#10255#10308#0" expanded="false" />
-            <element signature="e#12431#12479#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_picker.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/qkreply.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/search.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/settings.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ContactHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2890">
-          <caret line="197" column="0" lean-forward="false" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="291" column="27" lean-forward="false" selection-start-line="291" selection-start-column="27" selection-end-line="291" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5478#5479#0" expanded="false" />
-            <element signature="e#5516#5517#0" expanded="false" />
-            <element signature="e#5556#5557#0" expanded="false" />
-            <element signature="e#5594#5595#0" expanded="false" />
-            <element signature="e#7375#8321#0" expanded="false" />
-            <element signature="e#8320#8321#0" expanded="false" />
-            <element signature="e#8367#8368#0" expanded="false" />
-            <element signature="e#8395#8396#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/transaction/NotificationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="412" column="67" lean-forward="false" selection-start-line="412" selection-start-column="67" selection-end-line="412" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/receiver/DeliveredReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/mmssms/DeliveredReceiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
         <state />
@@ -4264,7 +4053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4272,7 +4060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
           <caret line="744" column="40" lean-forward="false" selection-start-line="744" selection-start-column="40" selection-end-line="744" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4280,7 +4067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1003">
           <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4288,37 +4074,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="224" column="0" lean-forward="true" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_about.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding>
-            <element signature="e#900#934#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_palette.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/ic_reply.png">
@@ -4335,29 +4102,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="346" column="54" lean-forward="false" selection-start-line="346" selection-start-column="50" selection-end-line="346" selection-end-column="54" />
-          <folding />
-        </state>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/build/generated/res/pngs/noAnalytics/debug/drawable-anydpi-v21/ic_reply_new.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4370,36 +4128,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_reply_new.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
-          <folding />
-        </state>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_settings_new.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ConversationLegacy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -4412,45 +4154,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="352" column="67" lean-forward="false" selection-start-line="352" selection-start-column="67" selection-end-line="352" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/compose.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/ic_accept.png">
@@ -4459,62 +4171,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations_selection.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="31" column="36" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-          <folding>
-            <element signature="e#2277#2311#0" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/appcompat-v7/27.1.0/f734fb8b464907dc723c05aa6bfbaea63c29953/appcompat-v7-27.1.0-sources.jar!/android/support/v7/app/AppCompatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="247" column="12" lean-forward="false" selection-start-line="247" selection-start-column="12" selection-end-line="247" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="612" column="90" lean-forward="false" selection-start-line="612" selection-start-column="77" selection-end-line="612" selection-end-column="90" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/message_list.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" column="50" lean-forward="false" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
@@ -4522,26 +4204,270 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-27/data/res/drawable/ic_schedule.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        <state relative-caret-position="326">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable-xxxhdpi/ic_notification.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_palette.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/messagelist/MessageListFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="497" column="79" lean-forward="false" selection-start-line="497" selection-start-column="79" selection-end-line="497" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/data/ConversationLegacy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="186" column="18" lean-forward="false" selection-start-line="186" selection-start-column="18" selection-end-line="186" selection-end-column="18" />
+          <folding>
+            <element signature="e#6535#6555#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_general.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="28" lean-forward="false" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_notifications.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_appearance.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_photo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_conversation_widget.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/menu/conversations.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/dialog/mms/MMSSetupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="155" column="27" lean-forward="false" selection-start-line="155" selection-start-column="27" selection-end-line="155" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_call.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/fragment_conversations.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="27" column="43" lean-forward="false" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_timer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_camera.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_unread_indicator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/ThemeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-349">
+          <caret line="716" column="29" lean-forward="false" selection-start-line="716" selection-start-column="29" selection-end-line="716" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/base/SimpleSMSActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="221" column="8" lean-forward="false" selection-start-line="221" selection-start-column="8" selection-end-line="221" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/settings/SettingsFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="125" column="53" lean-forward="false" selection-start-line="125" selection-start-column="48" selection-end-line="125" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/xml/settings_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="39" column="44" lean-forward="false" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <marker date="1521834992936" expanded="false" signature="2212:2254" ph="&quot;SimpleSMS Reply, popup options&quot;" />
+            <marker date="1521834992936" expanded="false" signature="2281:2315" ph="&quot;SimpleSMS Reply&quot;" />
+            <marker date="1521834992936" expanded="false" signature="2530:2574" ph="&quot;SimpleSMS Compose, starred contacts&quot;" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/layout/list_item_preference.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/SimpleSMSPreference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/widget/WidgetProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="125" column="74" lean-forward="false" selection-start-line="125" selection-start-column="74" selection-end-line="125" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/java/com/rrapps/SimpleSMS/ui/view/AvatarView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="99" column="70" lean-forward="false" selection-start-line="99" selection-start-column="70" selection-end-line="99" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/build/generated/res/pngs/noAnalytics/debug/drawable-anydpi-v21/ic_mark_unread.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_read.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_delete.xml">
+    <entry file="file://$PROJECT_DIR$/SimpleSMS/src/main/res/drawable/ic_mark_unread.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="32">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding />
         </state>
       </provider>
